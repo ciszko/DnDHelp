@@ -1,0 +1,45 @@
+{% extends "base.html" %} {% block title %}{{ page.nazwa }} {% endblock %}
+{%block content %}
+<div class="col d-flex justify-content-center">
+  <div class="container border rounded">
+    <div class="row">
+      <h1 class="spell-name col d-flex justify-content-center">
+        {{ page.nazwa }}
+      </h1>
+    </div>
+    <div class="row">
+      <div class="col">Szkoła: <strong>{{ page["szkoła"] }}</strong></div>
+      <div class="col">Krąg: <strong>{{ page["krąg"] }}</strong></div>
+    </div>
+    <div class="row">
+      <div class="col">
+        Czas rzucania:
+        <strong
+          >{{ page["czas rzucania"] }} {% if page["rytuał"] %} (rytuał) {% endif
+          %}
+        </strong>
+      </div>
+      <div class="col">Zasięg: <strong>{{ page["zasięg"] }}</strong></div>
+    </div>
+    <div class="row">
+      <div class="col">
+        Komponenty: <strong>{{ page["komponenty"] }}</strong>
+      </div>
+      <div class="col">
+        Czas trwania: <strong>{{ page["czas trwania"] }}</strong>
+      </div>
+    </div>
+    <br />
+    <div class="row">
+      <div class="col">{{ page["opis"] }}></div>
+    </div>
+    <div class="row">
+      <div class="col d-flex justify-content-center">
+        {% for klasa in page["klasa"] %}
+        <h2><a href="#" class="badge badge-secondary">{{ klasa }}</a></h2>
+        &nbsp; {% endfor %}
+      </div>
+    </div>
+    {% endblock %}
+  </div>
+</div>
