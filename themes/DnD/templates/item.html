@@ -1,45 +1,54 @@
-{% extends "base.html" %} {% block title %}{{ page.nazwa }} {% endblock %}
+{% extends "base.html" %} {% block title %}{{ article.nazwa }} {% endblock %}
 {%block content %}
-<div class="col d-flex justify-content-center">
-  <div class="container border rounded">
-    <div class="row">
-      <h1 class="spell-name col d-flex justify-content-center">
-        {{ page.nazwa }}
-      </h1>
-    </div>
-    <div class="row">
-      <div class="col">Szkoła: <strong>{{ page["szkoła"] }}</strong></div>
-      <div class="col">Krąg: <strong>{{ page["krąg"] }}</strong></div>
-    </div>
-    <div class="row">
-      <div class="col">
-        Czas rzucania:
-        <strong
-          >{{ page["czas rzucania"] }} {% if page["rytuał"] %} (rytuał) {% endif
-          %}
-        </strong>
+<div class="row justify-content-center">
+  <div class="col-md-8 align-self-center d-flex justify-content-center">
+    <div class="container">
+      <div class="row">
+        <h1 class="spell-name col d-flex justify-content-center">
+          {{ article.nazwa }}
+        </h1>
       </div>
-      <div class="col">Zasięg: <strong>{{ page["zasięg"] }}</strong></div>
-    </div>
-    <div class="row">
-      <div class="col">
-        Komponenty: <strong>{{ page["komponenty"] }}</strong>
+      <div class="row">
+        <div class="col">Typ: <strong>{{ article["typ"] }}</strong></div>
+        <div class="col">
+          Rzadkość:
+          {% for tag in article.tags %}
+          {% if article["rzadkość"] in tag.display_name %}
+          {% if article["rzadkość"] == "zwykły" %}
+          {% set color = "#495057" %}
+          {% elif article["rzadkość"] == "niezwykły" %}
+          {% set color = "green" %}
+          {% elif article["rzadkość"] == "rzadki" %}
+          {% set color = "blue" %}
+          {% elif article["rzadkość"] == "bardzo rzadki" %}
+          {% set color = "purple" %}
+          {% elif article["rzadkość"] == "legendarny" %}
+          {% set color = "orange" %}
+          {% elif article["rzadkość"] == "artefakt" %}
+          {% set color = "#dfbe0e" %}
+          {% endif %}
+          <a href="{{ tag.url }}" style="color: {{ color }};">
+            <strong>{{ article["rzadkość"] }}</strong>
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
       </div>
-      <div class="col">
-        Czas trwania: <strong>{{ page["czas trwania"] }}</strong>
+      <div class="row">
+        <div class="col"> Wymaga dostrojenia:
+          {% if article["dostrojenie"] %}
+          <i class="fa-solid fa-check"></i>
+          {% else %}
+          <i class="fa-solid fa-x"></i>
+          {% endif %}
+        </div>
+        <div class="col">Cena: <strong>{{ article["cena"] }}</strong></div>
       </div>
-    </div>
-    <br />
-    <div class="row">
-      <div class="col">{{ page["opis"] }}></div>
-    </div>
-    <div class="row">
-      <div class="col d-flex justify-content-center">
-        {% for klasa in page["klasa"] %}
-        <h2><a href="#" class="badge badge-secondary">{{ klasa }}</a></h2>
-        &nbsp; {% endfor %}
+      <br />
+      <div class="row">
+        <div class="col">{{ article["opis"] }}</div>
       </div>
+      {% endblock %}
     </div>
-    {% endblock %}
   </div>
 </div>

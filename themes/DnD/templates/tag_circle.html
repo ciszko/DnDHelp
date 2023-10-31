@@ -1,0 +1,11 @@
+{% if "0" in tag.name %}
+<h1 class="mb-1 text-center">Sztuczki:</h1>
+{% else %}
+<h1 class="mb-1 text-center">Czary {{ tag.name.split()[1] }} kręgu</h1>
+{% endif %}
+<ul>
+    {% for article in articles %}
+    <li class="active"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

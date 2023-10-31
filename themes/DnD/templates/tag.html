@@ -1,0 +1,24 @@
+{% extends "index.html" %}
+
+{% block title %}{{ SITENAME|striptags }} - {{ tag }} tag{% endblock %}
+
+{% block content %}
+
+<div class="row justify-content-center">
+    <div class="col-md-8 align-self-center">
+
+        {% if tag.type == "circle" %}
+        {% include 'tag_circle.html' %}
+        {% endif %}
+
+        {% if tag.type == "class" %}
+        {% include 'tag_class.html' %}
+        {% endif %}
+
+        {% if tag.type == "rarity" %}
+        {% include 'tag_rarity.html' %}
+        {% endif %}
+
+    </div>
+</div>
+{% endblock %}
