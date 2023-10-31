@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pelican = "*"
+invoke = "*"
+pyyaml = "*"
+livereload = "*"
 
 [dev-packages]
 
