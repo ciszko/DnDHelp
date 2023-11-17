@@ -1,7 +1,0 @@
-<h1 class="mb-1 text-center">Przedmioty o rzadkości {{ tag.display_name }}:</h1>
-<ul>
-    {% for article in articles %}
-    <li class="active"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-    </li>
-    {% endfor %}
-</ul>
