@@ -1,0 +1,59 @@
+{% extends "base.html" %} {% block title %}{{ article.nazwa }} {% endblock %}
+{%block content %}
+<div class="row justify-content-center">
+  <div class="col-md-8 align-self-center d-flex justify-content-center">
+    <div class="container">
+      <div class="row">
+        <h1 class="spell-name col d-flex justify-content-center">
+          {{ article.nazwa }}
+        </h1>
+      </div>
+      <div class="row">
+        <div class="col"><strong>Szkoła: </strong>
+          {{ article["szkoła"] }}</div>
+        <div class="col">
+          <strong>Krąg:</strong>
+          <a href="tag/krag-{{ article['krąg'] }}.html">
+            {{ article["krąg"] }} {% if article["krąg"] == 0 %} (sztuczka){% endif %}</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <strong>Czas rzucania:</strong>
+          {{ article["czas rzucania"] }} {% if article["rytuał"] %} (rytuał) {% endif %}
+        </div>
+        <div class="col"><strong>Zasięg: </strong>{{ article["zasięg"] }}</div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <strong>Komponenty:</strong>
+          <ul>
+            {% for komponent in article["komponenty"] %}
+            <li>{{ komponent }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col">
+          <strong>Czas trwania: </strong>{{ article["czas trwania"] }}
+        </div>
+      </div>
+      <br />
+      <div class="row mb-2">
+        <div class="col">{{ article["opis"] }}</div>
+      </div>
+      <div class="row">
+        <div class="col d-flex justify-content-center">
+          {% for tag in article.tags %}
+          {% if tag.display_name in article["klasa"] %}
+          <h3>
+            <a href="{{ tag.url }}" class="badge text-bg-light">{{ tag.display_name }}</a>
+          </h3>
+          &nbsp;
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

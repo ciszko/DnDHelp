@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 100%;
+    padding: 1em;
+    margin: 5% 10%;
+    display: block;
+}
+
+pre {
+    margin: 2em 1em 2em 4em;
+}
+
+#menu li {
+    display: inline;
+}
+
+#post-list {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+
+.spell {
+    background: #FDF1DC;
+}
+
+.accordion-button:not(.collapsed) {
+    color: var(--bs-gray-700) !important;
+    background-color: var(--bs-list-group-bg) !important;
+}
+
+.my-accordion {
+    border: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color);
+    border-width: 0 0 var(--bs-list-group-border-width);
+    color: var(--bs-list-group-color) !important;
+    padding: var(--bs-list-group-item-padding-y) var(--bs-list-group-item-padding-x);
+    line-height: var(--bs-body-line-height) !important;
+}

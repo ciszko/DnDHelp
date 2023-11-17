@@ -1,0 +1,24 @@
+<div class="col-md-8 align-self-center">
+    <h1 class="my-4 text-center">Czary {{ tag.display_name }}</h1>
+
+    {% for level, articles in articles|groupby(attribute='krąg') %}
+    {% if level == 0 %}
+    {% set circle = "Sztuczki" %}
+    {% else %}
+    {% set circle = "Krąg "~level %}
+    {% endif %}
+    <h3 class="h3 d-inline-block">{{ circle }}</h3>
+    <span class="badge text-bg-light align-top">{{ articles|count }}</span>
+
+    <ul>
+        {% for article in articles %}
+        <li class="active">
+            <a href="{{ SITEURL }}/{{ article.url }}">
+                {{ article.title }}
+            </a>
+        </li>
+        {% endfor %}
+
+    </ul>
+    {% endfor %}
+</div>

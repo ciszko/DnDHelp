@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME|striptags }} - {{ category }} category{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-8 align-self-center">
+        <h1 class="my-4 text-center">{{ category|capitalize }}</h1>
+    </div>
+</div>
+<div class="row justify-content-center">
+    {% if category == "czary" %}
+    <div class="col-md-4">
+        <h2>Klasa:</h2></br>
+        <div class="list-group list-group-flush">
+            {% for base_class, sub_classes in spell_class_tags(articles).items() %}
+                {% if sub_classes %}
+                    <div class="accordion accordion-flush" id="base-{{ base_class.slug }}">
+                        <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <div class="accordion-button collapsed list-group-item-action my-accordion" type="button"
+                                data-bs-toggle="collapse" data-bs-target=".extra-{{ base_class.slug }}"
+                                aria-expanded="false" aria-controls="collapse-{{ base_class.slug }}">
+                                {{ base_class.display_name }}
+                            </div>
+                        </h2>
+                        <div id="collapse-{{ base_class.slug }}" class="accordion-collapse list-group-flush collapse extra-{{ base_class.slug }}"
+                            data-bs-parent="#base-{{ base_class.slug }}">
+                        <a href="/{{ base_class.url }}" class="list-group-item list-group-item-action">
+                            &emsp;{{ base_class.display_name }}
+                        </a>
+                    {% for sub_class in sub_classes %}
+                            <a href="/{{ sub_class.url }}" class="list-group-item list-group-item-action">
+                                &emsp;{{ sub_class.display_name }} 
+                            </a>
+                    {% endfor %}
+                        </div>
+                    </div>
+        </div>
+                {% else %}
+                    <a href="/{{ base_class.url }}" class="list-group-item list-group-item-action">
+                        {{ base_class.display_name }}
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-md-4">
+        <h2>Krąg:</h2></br>
+        <div class="list-group list-group-flush">
+            <a href="/tag/krag-0.html" class="list-group-item list-group-item-action">0 (sztuczki)</a>
+            <a href="/tag/krag-1.html" class="list-group-item list-group-item-action">1</a>
+            <a href="/tag/krag-2.html" class="list-group-item list-group-item-action">2</a>
+            <a href="/tag/krag-3.html" class="list-group-item list-group-item-action">3</a>
+            <a href="/tag/krag-4.html" class="list-group-item list-group-item-action">4</a>
+            <a href="/tag/krag-5.html" class="list-group-item list-group-item-action">5</a>
+            <a href="/tag/krag-6.html" class="list-group-item list-group-item-action">6</a>
+            <a href="/tag/krag-7.html" class="list-group-item list-group-item-action">7</a>
+            <a href="/tag/krag-8.html" class="list-group-item list-group-item-action">8</a>
+            <a href="/tag/krag-9.html" class="list-group-item list-group-item-action">9</a>
+        </div>
+    </div>
+    {% endif %}
+    {% if category == "przedmioty" %}
+    <div class="col-md-8">
+        <h2>Rzadkość:</h2></br>
+        <div class="list-group list-group-flush">
+            <a href="/tag/zwykly.html" class="list-group-item list-group-item-action">Zwykły</a>
+            <a href="/tag/niezwykly.html" class="list-group-item list-group-item-action"
+                style="color: green;">Niezwykły</a>
+            <a href="/tag/rzadki.html" class="list-group-item list-group-item-action" style="color: blue;">Rzadki</a>
+            <a href="/tag/bardzo-rzadki.html" class="list-group-item list-group-item-action"
+                style="color: purple;">Bardzo rzadki</a>
+            <a href="/tag/legendarny.html" class="list-group-item list-group-item-action"
+                style="color: orange;">Legendarny</a>
+            <a href="/tag/artefakt.html" class="list-group-item list-group-item-action"
+                style="color: #dfbe0e;">Artefakt</a>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

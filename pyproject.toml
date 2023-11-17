@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "DnD_Helper"
+authors = ["Marcin Kalinski <marcinkalinski1997@gmail.com>"]
+description = "DnD Helper for Polish language players"
+readme = "README.rst"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pelican = "*"
+invoke = "*"
+pyyaml = "*"
+livereload = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
