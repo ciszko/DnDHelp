@@ -46,7 +46,7 @@
           {% for tag in article.tags %}
           {% if tag.display_name in article["klasa"] %}
           <h3>
-            <a href="{{ tag.url }}" class="badge text-bg-light">{{ tag.display_name }}</a>
+            <a href="{{ SITEURL }}/{{ tag.url }}" class="badge text-bg-light">{{ tag.display_name }}</a>
           </h3>
           &nbsp;
           {% endif %}
