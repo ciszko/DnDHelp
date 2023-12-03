@@ -27,7 +27,7 @@
           {% elif article["rzadkość"] == "artefakt" %}
           {% set color = "#dfbe0e" %}
           {% endif %}
-          <a href="{{ tag.url }}" style="color: {{ color }};">
+          <a href="{{ SITEURL }}/{{ tag.url }}" style="color: {{ color }};">
             <strong>{{ article["rzadkość"] }}</strong>
           </a>
           {% endif %}

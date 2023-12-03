@@ -53,9 +53,10 @@
         type="application/rss+xml" rel="alternate" title="{{ SITENAME|striptags }} Tags RSS Feed" />
     {% endif %}
     {% endblock head %}
+    <link rel="shortcut icon" type="image/png" href="{{ SITEURL }}/favicon.ico">
 </head>
 
-<body>
+<body style="margin-bottom: 60px;">
     <header>
         <h1 class="text-center display-4">
             <a href="{{ SITEURL }}/">
@@ -81,15 +82,15 @@
         </div>
     </main>
 
-    <footer class="footer fixed-bottom mt-auto py-3">
+    <footer class="footer fixed-bottom mt-auto py-2 bg-black bg-gradient">
         <div class="container">
             <div class="row justify-content-center">
             <div class="col-md-8 align-self-center d-flex justify-content-center">
                 <div class="col align-self-center d-flex justify-content-center">
-                <p class="text-muted">By <a href="https://github.com/ciszko">ciszko</a></p>
+                <p class="text-muted mb-0">By <a href="https://github.com/ciszko">ciszko</a></p>
                 </div>
                 <div class="col align-self-center d-flex justify-content-center">
-                <p class="text-muted">Under <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf">Open Game License</a></p>
+                <p class="text-muted mb-0">Under <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf">Open Game License</a></p>
                 </div>          
             </div>
             </div>
