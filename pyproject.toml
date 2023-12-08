@@ -11,6 +11,7 @@ pelican = "*"
 invoke = "*"
 pyyaml = "*"
 livereload = "*"
+toml = "^0.10.2"
 
 [build-system]
 requires = ["poetry-core"]
