@@ -1,0 +1,4078 @@
+[input]
+html_selector = "main"
+base_directory = "output"
+[[input.files]]
+path = "adamantynowa-zbroja.html"
+url = "/adamantynowa-zbroja.html"
+title = "Adamantynowa zbroja"
+
+[[input.files]]
+path = "alarm.html"
+url = "/alarm.html"
+title = "Alarm"
+
+[[input.files]]
+path = "alchemy-jug.html"
+url = "/alchemy-jug.html"
+title = "Alchemy jug"
+
+[[input.files]]
+path = "amulet-chroniacy-przed-wykryciem-i-lokalizacja.html"
+url = "/amulet-chroniacy-przed-wykryciem-i-lokalizacja.html"
+title = "Amulet chroniący przed wykryciem i lokalizacją"
+
+[[input.files]]
+path = "amulet-samolotow.html"
+url = "/amulet-samolotow.html"
+title = "Amulet samolotów"
+
+[[input.files]]
+path = "amulet-zdrowia.html"
+url = "/amulet-zdrowia.html"
+title = "Amulet zdrowia"
+
+[[input.files]]
+path = "amunicja-1.html"
+url = "/amunicja-1.html"
+title = "Amunicja +1"
+
+[[input.files]]
+path = "amunicja-1-2-lub-3.html"
+url = "/amunicja-1-2-lub-3.html"
+title = "Amunicja +1, +2 lub +3"
+
+[[input.files]]
+path = "amunicja-2.html"
+url = "/amunicja-2.html"
+title = "Amunicja +2"
+
+[[input.files]]
+path = "amunicja-3.html"
+url = "/amunicja-3.html"
+title = "Amunicja +3"
+
+[[input.files]]
+path = "animowana-tarcza.html"
+url = "/animowana-tarcza.html"
+title = "Animowana tarcza"
+
+[[input.files]]
+path = "animowanie-obiektu.html"
+url = "/animowanie-obiektu.html"
+title = "Animowanie obiektu"
+
+[[input.files]]
+path = "animowanie-zmarlego.html"
+url = "/animowanie-zmarlego.html"
+title = "Animowanie zmarłego"
+
+[[input.files]]
+path = "antypatia_sympatia.html"
+url = "/antypatia_sympatia.html"
+title = "Antypatia_sympatia"
+
+[[input.files]]
+path = "aparatura-jakosciowa.html"
+url = "/aparatura-jakosciowa.html"
+title = "Aparatura jakościowa"
+
+[[input.files]]
+path = "aura-czystosci.html"
+url = "/aura-czystosci.html"
+title = "Aura czystości"
+
+[[input.files]]
+path = "aura-witalnosci.html"
+url = "/aura-witalnosci.html"
+title = "Aura witalności"
+
+[[input.files]]
+path = "aura-zycia.html"
+url = "/aura-zycia.html"
+title = "Aura życia"
+
+[[input.files]]
+path = "automatyczny-kolczan.html"
+url = "/automatyczny-kolczan.html"
+title = "Automatyczny kołczan"
+
+[[input.files]]
+path = "bag-of-holding.html"
+url = "/bag-of-holding.html"
+title = "Bag of holding"
+
+[[input.files]]
+path = "bariera-ostrzy.html"
+url = "/bariera-ostrzy.html"
+title = "Bariera ostrzy"
+
+[[input.files]]
+path = "bariera-przeciw-zyciu.html"
+url = "/bariera-przeciw-zyciu.html"
+title = "Bariera przeciw życiu"
+
+[[input.files]]
+path = "barwna-kula.html"
+url = "/barwna-kula.html"
+title = "Barwna kula"
+
+[[input.files]]
+path = "bezpieczny-spoczynek.html"
+url = "/bezpieczny-spoczynek.html"
+title = "Bezpieczny spoczynek"
+
+[[input.files]]
+path = "blackrazor.html"
+url = "/blackrazor.html"
+title = "Blackrazor"
+
+[[input.files]]
+path = "blask-faerie.html"
+url = "/blask-faerie.html"
+title = "Blask faerie"
+
+[[input.files]]
+path = "blogoslawienstwo.html"
+url = "/blogoslawienstwo.html"
+title = "Błogosławieństwo"
+
+[[input.files]]
+path = "blyskawiczne-przywolanie-drawmija.html"
+url = "/blyskawiczne-przywolanie-drawmija.html"
+title = "Błyskawiczne przywołanie drawmija"
+
+[[input.files]]
+path = "blyskawiczny-odwrot.html"
+url = "/blyskawiczny-odwrot.html"
+title = "Błyskawiczny odwrót"
+
+[[input.files]]
+path = "boska-laska.html"
+url = "/boska-laska.html"
+title = "Boska łaska"
+
+[[input.files]]
+path = "brama.html"
+url = "/brama.html"
+title = "Brama"
+
+[[input.files]]
+path = "bramka-szescienna.html"
+url = "/bramka-szescienna.html"
+title = "Bramka sześcienna"
+
+[[input.files]]
+path = "bron-1.html"
+url = "/bron-1.html"
+title = "Broń +1"
+
+[[input.files]]
+path = "bron-1-2-lub-3.html"
+url = "/bron-1-2-lub-3.html"
+title = "Broń +1, +2 lub +3"
+
+[[input.files]]
+path = "bron-2.html"
+url = "/bron-2.html"
+title = "Broń +2"
+
+[[input.files]]
+path = "bron-3.html"
+url = "/bron-3.html"
+title = "Broń +3"
+
+[[input.files]]
+path = "bron-ostrzegawcza.html"
+url = "/bron-ostrzegawcza.html"
+title = "Broń ostrzegawcza"
+
+[[input.files]]
+path = "bron-zywiolu.html"
+url = "/bron-zywiolu.html"
+title = "Broń żywiołu"
+
+[[input.files]]
+path = "broszka-oslony.html"
+url = "/broszka-oslony.html"
+title = "Broszka osłony"
+
+[[input.files]]
+path = "burza-lodu.html"
+url = "/burza-lodu.html"
+title = "Burza lodu"
+
+[[input.files]]
+path = "burza-ognia.html"
+url = "/burza-ognia.html"
+title = "Burza ognia"
+
+[[input.files]]
+path = "burza-zemsty.html"
+url = "/burza-zemsty.html"
+title = "Burza zemsty"
+
+[[input.files]]
+path = "burzowa-kula.html"
+url = "/burzowa-kula.html"
+title = "Burzowa kula"
+
+[[input.files]]
+path = "butelka-efreeti.html"
+url = "/butelka-efreeti.html"
+title = "Butelka Efreeti"
+
+[[input.files]]
+path = "butelka-eversmoking.html"
+url = "/butelka-eversmoking.html"
+title = "Butelka Eversmoking"
+
+[[input.files]]
+path = "buty-elfow.html"
+url = "/buty-elfow.html"
+title = "Buty elfów"
+
+[[input.files]]
+path = "buty-kroczace-i-sprezynujace.html"
+url = "/buty-kroczace-i-sprezynujace.html"
+title = "Buty kroczące i sprężynujące"
+
+[[input.files]]
+path = "buty-lewitacji.html"
+url = "/buty-lewitacji.html"
+title = "Buty lewitacji"
+
+[[input.files]]
+path = "buty-predkosci.html"
+url = "/buty-predkosci.html"
+title = "Buty prędkości"
+
+[[input.files]]
+path = "buty-z-zimowych-krain.html"
+url = "/buty-z-zimowych-krain.html"
+title = "Buty z zimowych krain"
+
+[[input.files]]
+path = "buty-ze-skrzydlami.html"
+url = "/buty-ze-skrzydlami.html"
+title = "Buty ze skrzydłami"
+
+[[input.files]]
+path = "buzdygan-terroru.html"
+url = "/buzdygan-terroru.html"
+title = "Buzdygan terroru"
+
+[[input.files]]
+path = "buzdygan-zaklocen.html"
+url = "/buzdygan-zaklocen.html"
+title = "Buzdygan zakłóceń"
+
+[[input.files]]
+path = "cela-mocy.html"
+url = "/cela-mocy.html"
+title = "Cela mocy"
+
+[[input.files]]
+path = "ceremonia.html"
+url = "/ceremonia.html"
+title = "Ceremonia"
+
+[[input.files]]
+path = "chaotyczny-pocisk.html"
+url = "/chaotyczny-pocisk.html"
+title = "Chaotyczny pocisk"
+
+[[input.files]]
+path = "chatka-leomunda.html"
+url = "/chatka-leomunda.html"
+title = "Chatka leomunda"
+
+[[input.files]]
+path = "chmura-mgly.html"
+url = "/chmura-mgly.html"
+title = "Chmura mgły"
+
+[[input.files]]
+path = "chmura-sztyletow.html"
+url = "/chmura-sztyletow.html"
+title = "Chmura sztyletów"
+
+[[input.files]]
+path = "chmura-zaru.html"
+url = "/chmura-zaru.html"
+title = "Chmura żaru"
+
+[[input.files]]
+path = "chwytne-pnacze.html"
+url = "/chwytne-pnacze.html"
+title = "Chwytne pnącze"
+
+[[input.files]]
+path = "cialo-w-kamien.html"
+url = "/cialo-w-kamien.html"
+title = "Ciało w kamień"
+
+[[input.files]]
+path = "ciemnosc.html"
+url = "/ciemnosc.html"
+title = "Ciemność"
+
+[[input.files]]
+path = "ciemnosc-obledu.html"
+url = "/ciemnosc-obledu.html"
+title = "Ciemność obłędu"
+
+[[input.files]]
+path = "cieniste-formowanie.html"
+url = "/cieniste-formowanie.html"
+title = "Cieniste formowanie"
+
+[[input.files]]
+path = "cieniste-ostrze.html"
+url = "/cieniste-ostrze.html"
+title = "Cieniste ostrze"
+
+[[input.files]]
+path = "cierniowy-bicz.html"
+url = "/cierniowy-bicz.html"
+title = "Cierniowy bicz"
+
+[[input.files]]
+path = "cisza.html"
+url = "/cisza.html"
+title = "Cisza"
+
+[[input.files]]
+path = "cudowne-pigmenty-nolzur.html"
+url = "/cudowne-pigmenty-nolzur.html"
+title = "Cudowne pigmenty Nolzur"
+
+[[input.files]]
+path = "czarne-macki-evarda.html"
+url = "/czarne-macki-evarda.html"
+title = "Czarne macki evarda"
+
+[[input.files]]
+path = "czysty-umysl.html"
+url = "/czysty-umysl.html"
+title = "Czysty umysł"
+
+[[input.files]]
+path = "daleki-krok.html"
+url = "/daleki-krok.html"
+title = "Daleki krok"
+
+[[input.files]]
+path = "danse-macabre.html"
+url = "/danse-macabre.html"
+title = "Danse macabre"
+
+[[input.files]]
+path = "demisfera.html"
+url = "/demisfera.html"
+title = "Demisfera"
+
+[[input.files]]
+path = "dezintegracja.html"
+url = "/dezintegracja.html"
+title = "Dezintegracja"
+
+[[input.files]]
+path = "dlon-bigbyego.html"
+url = "/dlon-bigbyego.html"
+title = "Dłoń bigby'ego"
+
+[[input.files]]
+path = "dobre-jagody.html"
+url = "/dobre-jagody.html"
+title = "Dobre jagody"
+
+[[input.files]]
+path = "dominacja-nad-bestia.html"
+url = "/dominacja-nad-bestia.html"
+title = "Dominacja nad bestią"
+
+[[input.files]]
+path = "dominacja-nad-osoba.html"
+url = "/dominacja-nad-osoba.html"
+title = "Dominacja nad osobą"
+
+[[input.files]]
+path = "dominacja-nad-potworem.html"
+url = "/dominacja-nad-potworem.html"
+title = "Dominacja nad potworem"
+
+[[input.files]]
+path = "dowodztwo-trojzebu-ryb.html"
+url = "/dowodztwo-trojzebu-ryb.html"
+title = "Dowództwo trójzębu ryb"
+
+[[input.files]]
+path = "driftglobe.html"
+url = "/driftglobe.html"
+title = "Driftglobe"
+
+[[input.files]]
+path = "druidyczny-gaj.html"
+url = "/druidyczny-gaj.html"
+title = "Druidyczny gaj"
+
+[[input.files]]
+path = "druidzkie-sztuczki.html"
+url = "/druidzkie-sztuczki.html"
+title = "Druidzkie sztuczki"
+
+[[input.files]]
+path = "drzemka.html"
+url = "/drzemka.html"
+title = "Drzemka"
+
+[[input.files]]
+path = "drzwi-przez-wymiary.html"
+url = "/drzwi-przez-wymiary.html"
+title = "Drzwi przez wymiary"
+
+[[input.files]]
+path = "duchowa-bron.html"
+url = "/duchowa-bron.html"
+title = "Duchowa broń"
+
+[[input.files]]
+path = "duchowi-straznicy.html"
+url = "/duchowi-straznicy.html"
+title = "Duchowi strażnicy"
+
+[[input.files]]
+path = "dywan-latania.html"
+url = "/dywan-latania.html"
+title = "Dywan latania"
+
+[[input.files]]
+path = "dziwo.html"
+url = "/dziwo.html"
+title = "Dziwo"
+
+[[input.files]]
+path = "efektowna-skora-nabijana-cwiekami.html"
+url = "/efektowna-skora-nabijana-cwiekami.html"
+title = "Efektowna skóra nabijana ćwiekami"
+
+[[input.files]]
+path = "eliksir-bohaterstwa.html"
+url = "/eliksir-bohaterstwa.html"
+title = "Eliksir bohaterstwa"
+
+[[input.files]]
+path = "eliksir-przyjazni-dla-zwierzat.html"
+url = "/eliksir-przyjazni-dla-zwierzat.html"
+title = "Eliksir przyjaźni dla zwierząt"
+
+[[input.files]]
+path = "eliksir-zdrowia.html"
+url = "/eliksir-zdrowia.html"
+title = "Eliksir zdrowia"
+
+[[input.files]]
+path = "elokwencja.html"
+url = "/elokwencja.html"
+title = "Elokwencja"
+
+[[input.files]]
+path = "eterycznosc.html"
+url = "/eterycznosc.html"
+title = "Eteryczność"
+
+[[input.files]]
+path = "fala.html"
+url = "/fala.html"
+title = "Fala"
+
+[[input.files]]
+path = "fala-gromu.html"
+url = "/fala-gromu.html"
+title = "Fala gromu"
+
+[[input.files]]
+path = "fala-przyplywu.html"
+url = "/fala-przyplywu.html"
+title = "Fala przypływu"
+
+[[input.files]]
+path = "fala-zniszczenia.html"
+url = "/fala-zniszczenia.html"
+title = "Fala zniszczenia"
+
+[[input.files]]
+path = "falszywe-podszepty.html"
+url = "/falszywe-podszepty.html"
+title = "Fałszywe podszepty"
+
+[[input.files]]
+path = "falszywe-zycie.html"
+url = "/falszywe-zycie.html"
+title = "Fałszywe życie"
+
+[[input.files]]
+path = "fascynacja.html"
+url = "/fascynacja.html"
+title = "Fascynacja"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-gryf-z-brazu.html"
+url = "/figurka-cudownej-mocy-gryf-z-brazu.html"
+title = "Figurka cudownej mocy (gryf z brązu)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-hebanowa-mucha.html"
+url = "/figurka-cudownej-mocy-hebanowa-mucha.html"
+title = "Figurka cudownej mocy (hebanowa mucha)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-koziol-z-kosci-sloniowej.html"
+url = "/figurka-cudownej-mocy-koziol-z-kosci-sloniowej.html"
+title = "Figurka cudownej mocy (kozioł z kości słoniowej)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-marmurowy-slon.html"
+url = "/figurka-cudownej-mocy-marmurowy-slon.html"
+title = "Figurka cudownej mocy (marmurowy słoń)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-obsydianowy-rumak.html"
+url = "/figurka-cudownej-mocy-obsydianowy-rumak.html"
+title = "Figurka cudownej mocy (obsydianowy rumak)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-pies-z-onyksu.html"
+url = "/figurka-cudownej-mocy-pies-z-onyksu.html"
+title = "Figurka cudownej mocy (pies z onyksu)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-srebrny-kruk.html"
+url = "/figurka-cudownej-mocy-srebrny-kruk.html"
+title = "Figurka cudownej mocy (srebrny kruk)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-wezowa-sowa.html"
+url = "/figurka-cudownej-mocy-wezowa-sowa.html"
+title = "Figurka cudownej mocy (wężowa sowa)"
+
+[[input.files]]
+path = "figurka-cudownej-mocy-zlote-lwy.html"
+url = "/figurka-cudownej-mocy-zlote-lwy.html"
+title = "Figurka cudownej mocy (złote lwy)"
+
+[[input.files]]
+path = "figurka-o-cudownej-mocy.html"
+url = "/figurka-o-cudownej-mocy.html"
+title = "Figurka o cudownej mocy"
+
+[[input.files]]
+path = "filtry-milosci.html"
+url = "/filtry-milosci.html"
+title = "Filtry miłości"
+
+[[input.files]]
+path = "forma-gazowa.html"
+url = "/forma-gazowa.html"
+title = "Forma gazowa"
+
+[[input.files]]
+path = "geas.html"
+url = "/geas.html"
+title = "Geas"
+
+[[input.files]]
+path = "glif-strazniczy.html"
+url = "/glif-strazniczy.html"
+title = "Glif strażniczy"
+
+[[input.files]]
+path = "glod-hadara.html"
+url = "/glod-hadara.html"
+title = "Głód hadara"
+
+[[input.files]]
+path = "gluchota_slepota.html"
+url = "/gluchota_slepota.html"
+title = "Głuchota_ślepota"
+
+[[input.files]]
+path = "gniewne-ugodzenie.html"
+url = "/gniewne-ugodzenie.html"
+title = "Gniewne ugodzenie"
+
+[[input.files]]
+path = "gogle-nocy.html"
+url = "/gogle-nocy.html"
+title = "Gogle nocy"
+
+[[input.files]]
+path = "gong-otwarcia.html"
+url = "/gong-otwarcia.html"
+title = "Gong otwarcia"
+
+[[input.files]]
+path = "grad-cierni.html"
+url = "/grad-cierni.html"
+title = "Grad cierni"
+
+[[input.files]]
+path = "gromiace-uderzenie.html"
+url = "/gromiace-uderzenie.html"
+title = "Gromiące uderzenie"
+
+[[input.files]]
+path = "grzmiacy-krok.html"
+url = "/grzmiacy-krok.html"
+title = "Grzmiący krok"
+
+[[input.files]]
+path = "grzmot.html"
+url = "/grzmot.html"
+title = "Grzmot"
+
+[[input.files]]
+path = "gwiezdzista-korona.html"
+url = "/gwiezdzista-korona.html"
+title = "Gwieżdzista korona"
+
+[[input.files]]
+path = "helm-blasku.html"
+url = "/helm-blasku.html"
+title = "Hełm blasku"
+
+[[input.files]]
+path = "heroizm.html"
+url = "/heroizm.html"
+title = "Heroizm"
+
+[[input.files]]
+path = "hipnotyczny-wzor.html"
+url = "/hipnotyczny-wzor.html"
+title = "Hipnotyczny wzór"
+
+[[input.files]]
+path = "identyfikacja.html"
+url = "/identyfikacja.html"
+title = "Identyfikacja"
+
+[[input.files]]
+path = "iluzoryczny-manuskrypt.html"
+url = "/iluzoryczny-manuskrypt.html"
+title = "Iluzoryczny manuskrypt"
+
+[[input.files]]
+path = "iluzoryczny-teren.html"
+url = "/iluzoryczny-teren.html"
+title = "Iluzoryczny teren"
+
+[[input.files]]
+path = "instrument-barda-fochlucan-bandore.html"
+url = "/instrument-barda-fochlucan-bandore.html"
+title = "Instrument barda (fochlucan bandore)"
+
+[[input.files]]
+path = "instrument-barda-harfa-anstrutha.html"
+url = "/instrument-barda-harfa-anstrutha.html"
+title = "Instrument barda (harfa anstrutha)"
+
+[[input.files]]
+path = "instrument-barda-harfa-ollamh.html"
+url = "/instrument-barda-harfa-ollamh.html"
+title = "Instrument barda (harfa ollamh)"
+
+[[input.files]]
+path = "instrument-barda-lira-cli.html"
+url = "/instrument-barda-lira-cli.html"
+title = "Instrument barda (lira cli)"
+
+[[input.files]]
+path = "instrument-barda-lutnia-doss.html"
+url = "/instrument-barda-lutnia-doss.html"
+title = "Instrument barda (lutnia doss)"
+
+[[input.files]]
+path = "instrument-barda-mac-fuirmidh-cittern.html"
+url = "/instrument-barda-mac-fuirmidh-cittern.html"
+title = "Instrument barda (mac-fuirmidh cittern)"
+
+[[input.files]]
+path = "instrument-barda-mandolina-canaith.html"
+url = "/instrument-barda-mandolina-canaith.html"
+title = "Instrument barda (mandolina canaith)"
+
+[[input.files]]
+path = "inwestytura-kamienia.html"
+url = "/inwestytura-kamienia.html"
+title = "Inwestytura kamienia"
+
+[[input.files]]
+path = "inwestytura-lodu.html"
+url = "/inwestytura-lodu.html"
+title = "Inwestytura lodu"
+
+[[input.files]]
+path = "inwestytura-ognia.html"
+url = "/inwestytura-ognia.html"
+title = "Inwestytura ognia"
+
+[[input.files]]
+path = "inwestytura-wiatru.html"
+url = "/inwestytura-wiatru.html"
+title = "Inwestytura wiatru"
+
+[[input.files]]
+path = "jasnowidzenie.html"
+url = "/jasnowidzenie.html"
+title = "Jasnowidzenie"
+
+[[input.files]]
+path = "jezyki.html"
+url = "/jezyki.html"
+title = "Języki"
+
+[[input.files]]
+path = "kadzielnica-kontrolujaca-zywiolaki-powietrza.html"
+url = "/kadzielnica-kontrolujaca-zywiolaki-powietrza.html"
+title = "Kadzielnica kontrolująca żywiołaki powietrza"
+
+[[input.files]]
+path = "kamien-ioun.html"
+url = "/kamien-ioun.html"
+title = "Kamień Ioun"
+
+[[input.files]]
+path = "kamien-ioun-hart-ducha.html"
+url = "/kamien-ioun-hart-ducha.html"
+title = "Kamień Ioun (hart ducha)"
+
+[[input.files]]
+path = "kamien-ioun-intelekt.html"
+url = "/kamien-ioun-intelekt.html"
+title = "Kamień Ioun (intelekt)"
+
+[[input.files]]
+path = "kamien-ioun-mistrzostwo.html"
+url = "/kamien-ioun-mistrzostwo.html"
+title = "Kamień Ioun (mistrzostwo)"
+
+[[input.files]]
+path = "kamien-ioun-ochrona.html"
+url = "/kamien-ioun-ochrona.html"
+title = "Kamień Ioun (ochrona)"
+
+[[input.files]]
+path = "kamien-ioun-przywodztwo.html"
+url = "/kamien-ioun-przywodztwo.html"
+title = "Kamień Ioun (przywództwo)"
+
+[[input.files]]
+path = "kamien-ioun-regeneracja.html"
+url = "/kamien-ioun-regeneracja.html"
+title = "Kamień Ioun (regeneracja)"
+
+[[input.files]]
+path = "kamien-ioun-rezerwa.html"
+url = "/kamien-ioun-rezerwa.html"
+title = "Kamień Ioun (rezerwa)"
+
+[[input.files]]
+path = "kamien-ioun-swiadomosc.html"
+url = "/kamien-ioun-swiadomosc.html"
+title = "Kamień Ioun (świadomość)"
+
+[[input.files]]
+path = "kamien-ioun-utrzymanie.html"
+url = "/kamien-ioun-utrzymanie.html"
+title = "Kamień Ioun (utrzymanie)"
+
+[[input.files]]
+path = "kamien-ioun-wglad.html"
+url = "/kamien-ioun-wglad.html"
+title = "Kamień Ioun (wgląd)"
+
+[[input.files]]
+path = "kamien-ioun-wieksza-absorpcja.html"
+url = "/kamien-ioun-wieksza-absorpcja.html"
+title = "Kamień Ioun (większa absorpcja)"
+
+[[input.files]]
+path = "kamien-ioun-wytrzymalosc.html"
+url = "/kamien-ioun-wytrzymalosc.html"
+title = "Kamień Ioun (wytrzymałość)"
+
+[[input.files]]
+path = "kamien-ioun-zwinnosc.html"
+url = "/kamien-ioun-zwinnosc.html"
+title = "Kamień Ioun (zwinność)"
+
+[[input.files]]
+path = "kamien-jonowy-absorpcja.html"
+url = "/kamien-jonowy-absorpcja.html"
+title = "Kamień jonowy (absorpcja)"
+
+[[input.files]]
+path = "kamien-kontrolowania-zywiolakow-ziemi.html"
+url = "/kamien-kontrolowania-zywiolakow-ziemi.html"
+title = "Kamień kontrolowania żywiołaków ziemi"
+
+[[input.files]]
+path = "kamien-szczescia-kamien-szczescia.html"
+url = "/kamien-szczescia-kamien-szczescia.html"
+title = "Kamień szczęścia (kamień szczęścia)"
+
+[[input.files]]
+path = "kamienna-skora.html"
+url = "/kamienna-skora.html"
+title = "Kamienna skóra"
+
+[[input.files]]
+path = "kamienny-ksztalt.html"
+url = "/kamienny-ksztalt.html"
+title = "Kamienny kształt"
+
+[[input.files]]
+path = "kapelusz-przebrania.html"
+url = "/kapelusz-przebrania.html"
+title = "Kapelusz przebrania"
+
+[[input.files]]
+path = "karafka-z-niekonczaca-sie-woda.html"
+url = "/karafka-z-niekonczaca-sie-woda.html"
+title = "Karafka z niekończącą się wodą"
+
+[[input.files]]
+path = "kasliwy-wzrok.html"
+url = "/kasliwy-wzrok.html"
+title = "Kąśliwy wzrok"
+
+[[input.files]]
+path = "katapulta.html"
+url = "/katapulta.html"
+title = "Katapulta"
+
+[[input.files]]
+path = "kipiel.html"
+url = "/kipiel.html"
+title = "Kipiel"
+
+[[input.files]]
+path = "klejnot-jasnosci.html"
+url = "/klejnot-jasnosci.html"
+title = "Klejnot jasności"
+
+[[input.files]]
+path = "klejnot-widzenia.html"
+url = "/klejnot-widzenia.html"
+title = "Klejnot widzenia"
+
+[[input.files]]
+path = "klejnot-zywiolow.html"
+url = "/klejnot-zywiolow.html"
+title = "Klejnot żywiołów"
+
+[[input.files]]
+path = "klon.html"
+url = "/klon.html"
+title = "Klon"
+
+[[input.files]]
+path = "kociol-dowodzacy-zywiolakami-ognia.html"
+url = "/kociol-dowodzacy-zywiolakami-ognia.html"
+title = "Kocioł dowodzący żywiołakami ognia"
+
+[[input.files]]
+path = "kojace-slowo.html"
+url = "/kojace-slowo.html"
+title = "Kojące słowo"
+
+[[input.files]]
+path = "kolatka.html"
+url = "/kolatka.html"
+title = "Kołatka"
+
+[[input.files]]
+path = "kolczan-ehlonna.html"
+url = "/kolczan-ehlonna.html"
+title = "Kołczan ehlonna"
+
+[[input.files]]
+path = "kolorowy-rozprysk.html"
+url = "/kolorowy-rozprysk.html"
+title = "Kolorowy rozprysk"
+
+[[input.files]]
+path = "komu-bije-dzwon.html"
+url = "/komu-bije-dzwon.html"
+title = "Komu bije dzwon"
+
+[[input.files]]
+path = "konsekracja.html"
+url = "/konsekracja.html"
+title = "Konsekracja"
+
+[[input.files]]
+path = "kontakt-z-bostwem.html"
+url = "/kontakt-z-bostwem.html"
+title = "Kontakt z bóstwem"
+
+[[input.files]]
+path = "kontakt-z-inna-sfera.html"
+url = "/kontakt-z-inna-sfera.html"
+title = "Kontakt z inną sferą"
+
+[[input.files]]
+path = "kontakt-z-natura.html"
+url = "/kontakt-z-natura.html"
+title = "Kontakt z naturą"
+
+[[input.files]]
+path = "kontrola-plomieni.html"
+url = "/kontrola-plomieni.html"
+title = "Kontrola płomieni"
+
+[[input.files]]
+path = "kontrola-pogody.html"
+url = "/kontrola-pogody.html"
+title = "Kontrola pogody"
+
+[[input.files]]
+path = "kontrola-wiatru.html"
+url = "/kontrola-wiatru.html"
+title = "Kontrola wiatru"
+
+[[input.files]]
+path = "kontrola-wody.html"
+url = "/kontrola-wody.html"
+title = "Kontrola wody"
+
+[[input.files]]
+path = "koralik-sily.html"
+url = "/koralik-sily.html"
+title = "Koralik siły"
+
+[[input.files]]
+path = "kordon-strzal.html"
+url = "/kordon-strzal.html"
+title = "Kordon strzał"
+
+[[input.files]]
+path = "korona-obledu.html"
+url = "/korona-obledu.html"
+title = "Korona obłędu"
+
+[[input.files]]
+path = "korowa-skora.html"
+url = "/korowa-skora.html"
+title = "Korowa skóra"
+
+[[input.files]]
+path = "kosci-ziemi.html"
+url = "/kosci-ziemi.html"
+title = "Kości ziemi"
+
+[[input.files]]
+path = "kradziez-dziewieciu-zyc.html"
+url = "/kradziez-dziewieciu-zyc.html"
+title = "Kradzież dziewięciu żyć"
+
+[[input.files]]
+path = "krag-magii.html"
+url = "/krag-magii.html"
+title = "Krąg magii"
+
+[[input.files]]
+path = "krag-mocy.html"
+url = "/krag-mocy.html"
+title = "Krąg mocy"
+
+[[input.files]]
+path = "krag-smierci.html"
+url = "/krag-smierci.html"
+title = "Krąg śmierci"
+
+[[input.files]]
+path = "krag-teleportacyjny.html"
+url = "/krag-teleportacyjny.html"
+title = "Krąg teleportacyjny"
+
+[[input.files]]
+path = "krag-wybuchow.html"
+url = "/krag-wybuchow.html"
+title = "Krąg wybuchów"
+
+[[input.files]]
+path = "krasnoludzki-miotacz-ognia.html"
+url = "/krasnoludzki-miotacz-ognia.html"
+title = "Krasnoludzki miotacz ognia"
+
+[[input.files]]
+path = "krok-przez-mgle.html"
+url = "/krok-przez-mgle.html"
+title = "Krok przez mgłę"
+
+[[input.files]]
+path = "krysztalowa-kula.html"
+url = "/krysztalowa-kula.html"
+title = "Kryształowa kula"
+
+[[input.files]]
+path = "krysztalowa-kula-czytania-w-myslach.html"
+url = "/krysztalowa-kula-czytania-w-myslach.html"
+title = "Kryształowa kula czytania w myślach"
+
+[[input.files]]
+path = "krysztalowa-kula-prawdziwego-widzenia.html"
+url = "/krysztalowa-kula-prawdziwego-widzenia.html"
+title = "Kryształowa kula prawdziwego widzenia"
+
+[[input.files]]
+path = "krysztalowa-kula-telepatii.html"
+url = "/krysztalowa-kula-telepatii.html"
+title = "Kryształowa kula telepatii"
+
+[[input.files]]
+path = "krzywda.html"
+url = "/krzywda.html"
+title = "Krzywda"
+
+[[input.files]]
+path = "ksiega-nikczemnej-ciemnosci.html"
+url = "/ksiega-nikczemnej-ciemnosci.html"
+title = "Księga nikczemnej ciemności"
+
+[[input.files]]
+path = "ksiega-wznioslych-czynow.html"
+url = "/ksiega-wznioslych-czynow.html"
+title = "Księga wzniosłych czynów"
+
+[[input.files]]
+path = "ksiezycowy-promien.html"
+url = "/ksiezycowy-promien.html"
+title = "Księżycowy promień"
+
+[[input.files]]
+path = "ksztaltowanie-wody.html"
+url = "/ksztaltowanie-wody.html"
+title = "Kształtowanie wody"
+
+[[input.files]]
+path = "ksztaltowanie-ziemi.html"
+url = "/ksztaltowanie-ziemi.html"
+title = "Kształtowanie ziemi"
+
+[[input.files]]
+path = "kuglarstwo.html"
+url = "/kuglarstwo.html"
+title = "Kuglarstwo"
+
+[[input.files]]
+path = "kula-ognia.html"
+url = "/kula-ognia.html"
+title = "Kula ognia"
+
+[[input.files]]
+path = "kula-smoczego-rodzaju.html"
+url = "/kula-smoczego-rodzaju.html"
+title = "Kula smoczego rodzaju"
+
+[[input.files]]
+path = "kwasowa-strzala-melfa.html"
+url = "/kwasowa-strzala-melfa.html"
+title = "Kwasowa strzała melfa"
+
+[[input.files]]
+path = "kwasowy-rozprysk.html"
+url = "/kwasowy-rozprysk.html"
+title = "Kwasowy rozprysk"
+
+[[input.files]]
+path = "labirynt.html"
+url = "/labirynt.html"
+title = "Labirynt"
+
+[[input.files]]
+path = "lancuch-blyskawic.html"
+url = "/lancuch-blyskawic.html"
+title = "Łańcuch błyskawic"
+
+[[input.files]]
+path = "lancuch-efreeti.html"
+url = "/lancuch-efreeti.html"
+title = "Łańcuch Efreeti"
+
+[[input.files]]
+path = "lancuch-elfow.html"
+url = "/lancuch-elfow.html"
+title = "Łańcuch elfów"
+
+[[input.files]]
+path = "laska-grzmotow-i-blyskawic.html"
+url = "/laska-grzmotow-i-blyskawic.html"
+title = "Laska grzmotów i błyskawic"
+
+[[input.files]]
+path = "laska-magow.html"
+url = "/laska-magow.html"
+title = "Laska magów"
+
+[[input.files]]
+path = "laska-mrozu.html"
+url = "/laska-mrozu.html"
+title = "Laska mrozu"
+
+[[input.files]]
+path = "laska-ognia.html"
+url = "/laska-ognia.html"
+title = "Laska ognia"
+
+[[input.files]]
+path = "laska-pytona.html"
+url = "/laska-pytona.html"
+title = "Laska pytona"
+
+[[input.files]]
+path = "laska-rojacych-sie-owadow.html"
+url = "/laska-rojacych-sie-owadow.html"
+title = "Laska rojących się owadów"
+
+[[input.files]]
+path = "laska-uderzajacy.html"
+url = "/laska-uderzajacy.html"
+title = "Laska uderzający"
+
+[[input.files]]
+path = "laska-usychajacy.html"
+url = "/laska-usychajacy.html"
+title = "Laska usychający"
+
+[[input.files]]
+path = "laska-uzdrawiajacy.html"
+url = "/laska-uzdrawiajacy.html"
+title = "Laska uzdrawiający"
+
+[[input.files]]
+path = "laska-wladzy.html"
+url = "/laska-wladzy.html"
+title = "Laska władzy"
+
+[[input.files]]
+path = "laska-zmija.html"
+url = "/laska-zmija.html"
+title = "Laska żmija"
+
+[[input.files]]
+path = "latarnia-ujawniajaca.html"
+url = "/latarnia-ujawniajaca.html"
+title = "Latarnia ujawniająca"
+
+[[input.files]]
+path = "leczenie-ran.html"
+url = "/leczenie-ran.html"
+title = "Leczenie ran"
+
+[[input.files]]
+path = "legendarna-wiedza.html"
+url = "/legendarna-wiedza.html"
+title = "Legendarna wiedza"
+
+[[input.files]]
+path = "lewitacja.html"
+url = "/lewitacja.html"
+title = "Lewitacja"
+
+[[input.files]]
+path = "lina-splatania.html"
+url = "/lina-splatania.html"
+title = "Lina splątania"
+
+[[input.files]]
+path = "lina-wspinaczkowa.html"
+url = "/lina-wspinaczkowa.html"
+title = "Lina wspinaczkowa"
+
+[[input.files]]
+path = "lodowy-noz.html"
+url = "/lodowy-noz.html"
+title = "Lodowy nóż"
+
+[[input.files]]
+path = "lot.html"
+url = "/lot.html"
+title = "Lot"
+
+[[input.files]]
+path = "lustro-zycia-w-pulapce.html"
+url = "/lustro-zycia-w-pulapce.html"
+title = "Lustro życia w pułapce"
+
+[[input.files]]
+path = "lustrzane-odbicia.html"
+url = "/lustrzane-odbicia.html"
+title = "Lustrzane odbicia"
+
+[[input.files]]
+path = "maczuga-biczowania.html"
+url = "/maczuga-biczowania.html"
+title = "Maczuga biczowania"
+
+[[input.files]]
+path = "magiczna-aura-nystula.html"
+url = "/magiczna-aura-nystula.html"
+title = "Magiczna aura nystula"
+
+[[input.files]]
+path = "magiczna-bron.html"
+url = "/magiczna-bron.html"
+title = "Magiczna broń"
+
+[[input.files]]
+path = "magiczna-dlon.html"
+url = "/magiczna-dlon.html"
+title = "Magiczna dłoń"
+
+[[input.files]]
+path = "magiczne-oko.html"
+url = "/magiczne-oko.html"
+title = "Magiczne oko"
+
+[[input.files]]
+path = "magiczne-usta.html"
+url = "/magiczne-usta.html"
+title = "Magiczne usta"
+
+[[input.files]]
+path = "magiczne-wrota.html"
+url = "/magiczne-wrota.html"
+title = "Magiczne wrota"
+
+[[input.files]]
+path = "magiczny-kamyk.html"
+url = "/magiczny-kamyk.html"
+title = "Magiczny kamyk"
+
+[[input.files]]
+path = "magiczny-pocisk.html"
+url = "/magiczny-pocisk.html"
+title = "Magiczny pocisk"
+
+[[input.files]]
+path = "magiczny-sloj.html"
+url = "/magiczny-sloj.html"
+title = "Magiczny słój"
+
+[[input.files]]
+path = "magiczny-zamek.html"
+url = "/magiczny-zamek.html"
+title = "Magiczny zamek"
+
+[[input.files]]
+path = "malutki-sluga.html"
+url = "/malutki-sluga.html"
+title = "Malutki sługa"
+
+[[input.files]]
+path = "marka-frost.html"
+url = "/marka-frost.html"
+title = "Marka Frost"
+
+[[input.files]]
+path = "masc-keoghtoma.html"
+url = "/masc-keoghtoma.html"
+title = "Maść Keoghtoma"
+
+[[input.files]]
+path = "masowa-polimorfia.html"
+url = "/masowa-polimorfia.html"
+title = "Masowa polimorfia"
+
+[[input.files]]
+path = "masowa-sugestia.html"
+url = "/masowa-sugestia.html"
+title = "Masowa sugestia"
+
+[[input.files]]
+path = "masowe-kojace-slowo.html"
+url = "/masowe-kojace-slowo.html"
+title = "Masowe kojące słowo"
+
+[[input.files]]
+path = "masowe-leczenie-ran.html"
+url = "/masowe-leczenie-ran.html"
+title = "Masowe leczenie ran"
+
+[[input.files]]
+path = "masowe-uleczenie.html"
+url = "/masowe-uleczenie.html"
+title = "Masowe uleczenie"
+
+[[input.files]]
+path = "medalion-mysli.html"
+url = "/medalion-mysli.html"
+title = "Medalion myśli"
+
+[[input.files]]
+path = "mentalne-wiezienie.html"
+url = "/mentalne-wiezienie.html"
+title = "Mentalne więzienie"
+
+[[input.files]]
+path = "miecz-gotowki.html"
+url = "/miecz-gotowki.html"
+title = "Miecz gotówki"
+
+[[input.files]]
+path = "miecz-kradziezy-zycia.html"
+url = "/miecz-kradziezy-zycia.html"
+title = "Miecz kradzieży życia"
+
+[[input.files]]
+path = "miecz-mordenkainena.html"
+url = "/miecz-mordenkainena.html"
+title = "Miecz mordenkainena"
+
+[[input.files]]
+path = "miecz-odpowiedzi.html"
+url = "/miecz-odpowiedzi.html"
+title = "Miecz odpowiedzi"
+
+[[input.files]]
+path = "miecz-ostrosci.html"
+url = "/miecz-ostrosci.html"
+title = "Miecz ostrości"
+
+[[input.files]]
+path = "miecz-vorpal.html"
+url = "/miecz-vorpal.html"
+title = "Miecz Vorpal"
+
+[[input.files]]
+path = "miecz-zadawania-ran.html"
+url = "/miecz-zadawania-ran.html"
+title = "Miecz zadawania ran"
+
+[[input.files]]
+path = "miecz-zemsty.html"
+url = "/miecz-zemsty.html"
+title = "Miecz zemsty"
+
+[[input.files]]
+path = "migniecie.html"
+url = "/migniecie.html"
+title = "Mignięcie"
+
+[[input.files]]
+path = "mikstura-czytania-w-myslach.html"
+url = "/mikstura-czytania-w-myslach.html"
+title = "Mikstura czytania w myślach"
+
+[[input.files]]
+path = "mikstura-dlugowiecznosci.html"
+url = "/mikstura-dlugowiecznosci.html"
+title = "Mikstura długowieczności"
+
+[[input.files]]
+path = "mikstura-doskonalego-leczenia.html"
+url = "/mikstura-doskonalego-leczenia.html"
+title = "Mikstura doskonałego leczenia"
+
+[[input.files]]
+path = "mikstura-gigantycznej-sily.html"
+url = "/mikstura-gigantycznej-sily.html"
+title = "Mikstura gigantycznej siły"
+
+[[input.files]]
+path = "mikstura-gigantycznej-sily-chmurny-olbrzym.html"
+url = "/mikstura-gigantycznej-sily-chmurny-olbrzym.html"
+title = "Mikstura gigantycznej siły (chmurny olbrzym)"
+
+[[input.files]]
+path = "mikstura-jasnowidzenia.html"
+url = "/mikstura-jasnowidzenia.html"
+title = "Mikstura jasnowidzenia"
+
+[[input.files]]
+path = "mikstura-latania.html"
+url = "/mikstura-latania.html"
+title = "Mikstura latania"
+
+[[input.files]]
+path = "mikstura-najwyzszego-uzdrowienia.html"
+url = "/mikstura-najwyzszego-uzdrowienia.html"
+title = "Mikstura najwyższego uzdrowienia"
+
+[[input.files]]
+path = "mikstura-niewidzialnosci.html"
+url = "/mikstura-niewidzialnosci.html"
+title = "Mikstura niewidzialności"
+
+[[input.files]]
+path = "mikstura-niewrazliwosci.html"
+url = "/mikstura-niewrazliwosci.html"
+title = "Mikstura niewrażliwości"
+
+[[input.files]]
+path = "mikstura-oddychania-woda.html"
+url = "/mikstura-oddychania-woda.html"
+title = "Mikstura oddychania wodą"
+
+[[input.files]]
+path = "mikstura-odpornosci.html"
+url = "/mikstura-odpornosci.html"
+title = "Mikstura odporności"
+
+[[input.files]]
+path = "mikstura-ognistego-oddechu.html"
+url = "/mikstura-ognistego-oddechu.html"
+title = "Mikstura ognistego oddechu"
+
+[[input.files]]
+path = "mikstura-sily-olbrzyma-gorski-olbrzym.html"
+url = "/mikstura-sily-olbrzyma-gorski-olbrzym.html"
+title = "Mikstura siły olbrzyma (górski olbrzym)"
+
+[[input.files]]
+path = "mikstura-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
+url = "/mikstura-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
+title = "Mikstura siły olbrzyma (mroźnego lub kamiennego olbrzyma)"
+
+[[input.files]]
+path = "mikstura-sily-olbrzyma-ognisty-olbrzym.html"
+url = "/mikstura-sily-olbrzyma-ognisty-olbrzym.html"
+title = "Mikstura siły olbrzyma (ognisty olbrzym)"
+
+[[input.files]]
+path = "mikstura-sily-olbrzyma-olbrzym-burzowy.html"
+url = "/mikstura-sily-olbrzyma-olbrzym-burzowy.html"
+title = "Mikstura siły olbrzyma (olbrzym burzowy)"
+
+[[input.files]]
+path = "mikstura-szybkosci.html"
+url = "/mikstura-szybkosci.html"
+title = "Mikstura szybkości"
+
+[[input.files]]
+path = "mikstura-trucizny.html"
+url = "/mikstura-trucizny.html"
+title = "Mikstura trucizny"
+
+[[input.files]]
+path = "mikstura-uzdrawiajaca.html"
+url = "/mikstura-uzdrawiajaca.html"
+title = "Mikstura uzdrawiająca"
+
+[[input.files]]
+path = "mikstura-w-postaci-gazowej.html"
+url = "/mikstura-w-postaci-gazowej.html"
+title = "Mikstura w postaci gazowej"
+
+[[input.files]]
+path = "mikstura-wiekszego-uzdrowienia.html"
+url = "/mikstura-wiekszego-uzdrowienia.html"
+title = "Mikstura większego uzdrowienia"
+
+[[input.files]]
+path = "mikstura-witalnosci.html"
+url = "/mikstura-witalnosci.html"
+title = "Mikstura witalności"
+
+[[input.files]]
+path = "mikstura-wspinaczki.html"
+url = "/mikstura-wspinaczki.html"
+title = "Mikstura wspinaczki"
+
+[[input.files]]
+path = "mikstura-wzrostu.html"
+url = "/mikstura-wzrostu.html"
+title = "Mikstura wzrostu"
+
+[[input.files]]
+path = "mikstura-zmniejszajaca.html"
+url = "/mikstura-zmniejszajaca.html"
+title = "Mikstura zmniejszająca"
+
+[[input.files]]
+path = "milczacy-obraz.html"
+url = "/milczacy-obraz.html"
+title = "Milczący obraz"
+
+[[input.files]]
+path = "miniaturowe-meteory-melfa.html"
+url = "/miniaturowe-meteory-melfa.html"
+title = "Miniaturowe meteory melfa"
+
+[[input.files]]
+path = "miotla-latania.html"
+url = "/miotla-latania.html"
+title = "Miotła latania"
+
+[[input.files]]
+path = "miraz.html"
+url = "/miraz.html"
+title = "Miraż"
+
+[[input.files]]
+path = "miska-dowodzenia-zywiolakami-wody.html"
+url = "/miska-dowodzenia-zywiolakami-wody.html"
+title = "Miska dowodzenia żywiołakami wody"
+
+[[input.files]]
+path = "mithralowa-zbroja.html"
+url = "/mithralowa-zbroja.html"
+title = "Mithralowa zbroja"
+
+[[input.files]]
+path = "mlot-piorunow.html"
+url = "/mlot-piorunow.html"
+title = "Młot piorunów"
+
+[[input.files]]
+path = "mniejsze-przwrocenie.html"
+url = "/mniejsze-przwrocenie.html"
+title = "Mniejsze przwrócenie"
+
+[[input.files]]
+path = "moonblade.html"
+url = "/moonblade.html"
+title = "Moonblade"
+
+[[input.files]]
+path = "mrowie-wrogow.html"
+url = "/mrowie-wrogow.html"
+title = "Mrowie wrogow"
+
+[[input.files]]
+path = "mrozaca-sfera-otilukea.html"
+url = "/mrozaca-sfera-otilukea.html"
+title = "Mrożąca sfera otiluke'a"
+
+[[input.files]]
+path = "myslowy-ciern.html"
+url = "/myslowy-ciern.html"
+title = "Myślowy cierń"
+
+[[input.files]]
+path = "nadanie-wiadomosci.html"
+url = "/nadanie-wiadomosci.html"
+title = "Nadanie wiadomości"
+
+[[input.files]]
+path = "nakretka-do-oddychania-woda.html"
+url = "/nakretka-do-oddychania-woda.html"
+title = "Nakrętka do oddychania wodą"
+
+[[input.files]]
+path = "nalozenie-klatwy.html"
+url = "/nalozenie-klatwy.html"
+title = "Nałożenie klątwy"
+
+[[input.files]]
+path = "naprawa.html"
+url = "/naprawa.html"
+title = "Naprawa"
+
+[[input.files]]
+path = "naszyjnik-adaptacji.html"
+url = "/naszyjnik-adaptacji.html"
+title = "Naszyjnik adaptacji"
+
+[[input.files]]
+path = "naszyjnik-z-koralikow-modlitewnych.html"
+url = "/naszyjnik-z-koralikow-modlitewnych.html"
+title = "Naszyjnik z koralików modlitewnych"
+
+[[input.files]]
+path = "naszyjnik-z-ognistych-kul.html"
+url = "/naszyjnik-z-ognistych-kul.html"
+title = "Naszyjnik z ognistych kul"
+
+[[input.files]]
+path = "natychmiastowa-forteca-daerna.html"
+url = "/natychmiastowa-forteca-daerna.html"
+title = "Natychmiastowa forteca Daerna"
+
+[[input.files]]
+path = "nieodparty-taniec-ottona.html"
+url = "/nieodparty-taniec-ottona.html"
+title = "Nieodparty taniec ottona"
+
+[[input.files]]
+path = "niepodatnosc.html"
+url = "/niepodatnosc.html"
+title = "Niepodatność"
+
+[[input.files]]
+path = "nieruchoma-rozdzka.html"
+url = "/nieruchoma-rozdzka.html"
+title = "Nieruchoma różdżka"
+
+[[input.files]]
+path = "nieruchomy-rozdzka.html"
+url = "/nieruchomy-rozdzka.html"
+title = "Nieruchomy różdżka"
+
+[[input.files]]
+path = "niewidoczny-sluga.html"
+url = "/niewidoczny-sluga.html"
+title = "Niewidoczny sługa"
+
+[[input.files]]
+path = "niewidzialnosc.html"
+url = "/niewidzialnosc.html"
+title = "Niewidzialność"
+
+[[input.files]]
+path = "niewykrywalnosc.html"
+url = "/niewykrywalnosc.html"
+title = "Niewykrywalność"
+
+[[input.files]]
+path = "nieziemskie-uderzenie.html"
+url = "/nieziemskie-uderzenie.html"
+title = "Nieziemskie uderzenie"
+
+[[input.files]]
+path = "oathbow.html"
+url = "/oathbow.html"
+title = "Oathbow"
+
+[[input.files]]
+path = "obronca.html"
+url = "/obronca.html"
+title = "Obrońca"
+
+[[input.files]]
+path = "ochrona-przed-dobrem-i-zlem.html"
+url = "/ochrona-przed-dobrem-i-zlem.html"
+title = "Ochrona przed dobrem i złem"
+
+[[input.files]]
+path = "ochrona-przed-energia.html"
+url = "/ochrona-przed-energia.html"
+title = "Ochrona przed energią"
+
+[[input.files]]
+path = "ochrona-przed-trucizna.html"
+url = "/ochrona-przed-trucizna.html"
+title = "Ochrona przed trucizną"
+
+[[input.files]]
+path = "ochronna-wiez.html"
+url = "/ochronna-wiez.html"
+title = "Ochronna więź"
+
+[[input.files]]
+path = "ochronne-glify.html"
+url = "/ochronne-glify.html"
+title = "Ochronne glify"
+
+[[input.files]]
+path = "ochronny-wiatr.html"
+url = "/ochronny-wiatr.html"
+title = "Ochronny wiatr"
+
+[[input.files]]
+path = "oczy-orla.html"
+url = "/oczy-orla.html"
+title = "Oczy orła"
+
+[[input.files]]
+path = "oczy-pelne-uroku.html"
+url = "/oczy-pelne-uroku.html"
+title = "Oczy pełne uroku"
+
+[[input.files]]
+path = "oczy-widzace-na-minute.html"
+url = "/oczy-widzace-na-minute.html"
+title = "Oczy widzące na minutę"
+
+[[input.files]]
+path = "oczyszczenie-jadla-i-napoju.html"
+url = "/oczyszczenie-jadla-i-napoju.html"
+title = "Oczyszczenie jadła i napoju"
+
+[[input.files]]
+path = "oddychanie-pod-woda.html"
+url = "/oddychanie-pod-woda.html"
+title = "Oddychanie pod wodą"
+
+[[input.files]]
+path = "odebranie-sil.html"
+url = "/odebranie-sil.html"
+title = "Odebranie sił"
+
+[[input.files]]
+path = "odmrozenie.html"
+url = "/odmrozenie.html"
+title = "Odmrożenie"
+
+[[input.files]]
+path = "odnalezienie-istoty.html"
+url = "/odnalezienie-istoty.html"
+title = "Odnalezienie istoty"
+
+[[input.files]]
+path = "odnalezienie-obiektu.html"
+url = "/odnalezienie-obiektu.html"
+title = "Odnalezienie obiektu"
+
+[[input.files]]
+path = "odnalezienie-sciezki.html"
+url = "/odnalezienie-sciezki.html"
+title = "Odnalezienie ścieżki"
+
+[[input.files]]
+path = "odnalezienie-zwierzat-lub-roslin.html"
+url = "/odnalezienie-zwierzat-lub-roslin.html"
+title = "Odnalezienie zwierząt lub roślin"
+
+[[input.files]]
+path = "odosobnienie.html"
+url = "/odosobnienie.html"
+title = "Odosobnienie"
+
+[[input.files]]
+path = "odpornosc.html"
+url = "/odpornosc.html"
+title = "Odporność"
+
+[[input.files]]
+path = "odwrocenie-grawitacji.html"
+url = "/odwrocenie-grawitacji.html"
+title = "Odwrócenie grawitacji"
+
+[[input.files]]
+path = "ognisty-pocisk.html"
+url = "/ognisty-pocisk.html"
+title = "Ognisty pocisk"
+
+[[input.files]]
+path = "ohydny-smiech-tashy.html"
+url = "/ohydny-smiech-tashy.html"
+title = "Ohydny śmiech tashy"
+
+[[input.files]]
+path = "oko-i-dlon-vecny.html"
+url = "/oko-i-dlon-vecny.html"
+title = "Oko i dłoń vecny"
+
+[[input.files]]
+path = "olbrzymie-owady.html"
+url = "/olbrzymie-owady.html"
+title = "Olbrzymie owady"
+
+[[input.files]]
+path = "olej-o-sliskosci.html"
+url = "/olej-o-sliskosci.html"
+title = "Olej o śliskości"
+
+[[input.files]]
+path = "olej-ostrosci.html"
+url = "/olej-ostrosci.html"
+title = "Olej ostrości"
+
+[[input.files]]
+path = "olejek-eterycznosci.html"
+url = "/olejek-eterycznosci.html"
+title = "Olejek eteryczności"
+
+[[input.files]]
+path = "opaska-intelektu.html"
+url = "/opaska-intelektu.html"
+title = "Opaska intelektu"
+
+[[input.files]]
+path = "oplatanie.html"
+url = "/oplatanie.html"
+title = "Oplątanie"
+
+[[input.files]]
+path = "opozniona-kula-ognia.html"
+url = "/opozniona-kula-ognia.html"
+title = "Opóźniona kula ognia"
+
+[[input.files]]
+path = "oslabienie-umyslu.html"
+url = "/oslabienie-umyslu.html"
+title = "Osłabienie umysłu"
+
+[[input.files]]
+path = "oslepiajace-ugodzenie.html"
+url = "/oslepiajace-ugodzenie.html"
+title = "Oślepiające ugodzenie"
+
+[[input.files]]
+path = "oslona-przed-orezem.html"
+url = "/oslona-przed-orezem.html"
+title = "Osłona przed orężem"
+
+[[input.files]]
+path = "oslona-przed-smiercia.html"
+url = "/oslona-przed-smiercia.html"
+title = "Osłona przed śmiercią"
+
+[[input.files]]
+path = "oslona-sentinel.html"
+url = "/oslona-sentinel.html"
+title = "Osłona Sentinel"
+
+[[input.files]]
+path = "osobiste-sanktuarium-mordenkainena.html"
+url = "/osobiste-sanktuarium-mordenkainena.html"
+title = "Osobiste sanktuarium mordenkainena"
+
+[[input.files]]
+path = "ostrze-szczescia.html"
+url = "/ostrze-szczescia.html"
+title = "Ostrze szczęścia"
+
+[[input.files]]
+path = "oszczep-blyskawicy.html"
+url = "/oszczep-blyskawicy.html"
+title = "Oszczep błyskawicy"
+
+[[input.files]]
+path = "ozywienie.html"
+url = "/ozywienie.html"
+title = "Ożywienie"
+
+[[input.files]]
+path = "pajecza-wspinaczka.html"
+url = "/pajecza-wspinaczka.html"
+title = "Pajęcza wspinaczka"
+
+[[input.files]]
+path = "pajeczyna.html"
+url = "/pajeczyna.html"
+title = "Pajęczyna"
+
+[[input.files]]
+path = "palace-ugodzenie.html"
+url = "/palace-ugodzenie.html"
+title = "Palące ugodzenie"
+
+[[input.files]]
+path = "palec-smierci.html"
+url = "/palec-smierci.html"
+title = "Palec śmierci"
+
+[[input.files]]
+path = "pancerz-1.html"
+url = "/pancerz-1.html"
+title = "Pancerz +1"
+
+[[input.files]]
+path = "pancerz-1-2-lub-3.html"
+url = "/pancerz-1-2-lub-3.html"
+title = "Pancerz +1, +2 lub +3"
+
+[[input.files]]
+path = "pancerz-2.html"
+url = "/pancerz-2.html"
+title = "Pancerz +2"
+
+[[input.files]]
+path = "pancerz-3.html"
+url = "/pancerz-3.html"
+title = "Pancerz +3"
+
+[[input.files]]
+path = "pancerz-niewrazliwosci.html"
+url = "/pancerz-niewrazliwosci.html"
+title = "Pancerz niewrażliwości"
+
+[[input.files]]
+path = "pancerz-odpornosci.html"
+url = "/pancerz-odpornosci.html"
+title = "Pancerz odporności"
+
+[[input.files]]
+path = "pancerze-lucznicze.html"
+url = "/pancerze-lucznicze.html"
+title = "Pancerze łucznicze"
+
+[[input.files]]
+path = "pancerze-obronne.html"
+url = "/pancerze-obronne.html"
+title = "Pancerze obronne"
+
+[[input.files]]
+path = "pas-gigantycznej-sily.html"
+url = "/pas-gigantycznej-sily.html"
+title = "Pas gigantycznej siły"
+
+[[input.files]]
+path = "pas-gigantycznej-sily-gigant-burzowy.html"
+url = "/pas-gigantycznej-sily-gigant-burzowy.html"
+title = "Pas gigantycznej siły (gigant burzowy)"
+
+[[input.files]]
+path = "pas-gigantycznej-sily-gigant-chmurowy.html"
+url = "/pas-gigantycznej-sily-gigant-chmurowy.html"
+title = "Pas gigantycznej siły (gigant chmurowy)"
+
+[[input.files]]
+path = "pas-gigantycznej-sily-gigant-ze-wzgorza.html"
+url = "/pas-gigantycznej-sily-gigant-ze-wzgorza.html"
+title = "Pas gigantycznej siły (gigant ze wzgórza)"
+
+[[input.files]]
+path = "pas-krasnoludzkosci.html"
+url = "/pas-krasnoludzkosci.html"
+title = "Pas krasnoludzkości"
+
+[[input.files]]
+path = "pas-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
+url = "/pas-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
+title = "Pas siły olbrzyma (mroźnego lub kamiennego olbrzyma)"
+
+[[input.files]]
+path = "pas-sily-olbrzyma-ognisty-olbrzym.html"
+url = "/pas-sily-olbrzyma-ognisty-olbrzym.html"
+title = "Pas siły olbrzyma (ognisty olbrzym)"
+
+[[input.files]]
+path = "periapt-dowodu-przeciwko-truciznie.html"
+url = "/periapt-dowodu-przeciwko-truciznie.html"
+title = "Periapt dowodu przeciwko truciźnie"
+
+[[input.files]]
+path = "periapt-zamkniecia-rany.html"
+url = "/periapt-zamkniecia-rany.html"
+title = "Periapt zamknięcia rany"
+
+[[input.files]]
+path = "periapt-zdrowia.html"
+url = "/periapt-zdrowia.html"
+title = "Periapt zdrowia"
+
+[[input.files]]
+path = "perla-mocy.html"
+url = "/perla-mocy.html"
+title = "Perła mocy"
+
+[[input.files]]
+path = "petajace-uderzenie.html"
+url = "/petajace-uderzenie.html"
+title = "Pętające uderzenie"
+
+[[input.files]]
+path = "piekielna-reprymenda.html"
+url = "/piekielna-reprymenda.html"
+title = "Piekielna reprymenda"
+
+[[input.files]]
+path = "piekielne-wezwanie.html"
+url = "/piekielne-wezwanie.html"
+title = "Piekielne wezwanie"
+
+[[input.files]]
+path = "pierscien-barana.html"
+url = "/pierscien-barana.html"
+title = "Pierścień barana"
+
+[[input.files]]
+path = "pierscien-chodzenia-po-wodzie.html"
+url = "/pierscien-chodzenia-po-wodzie.html"
+title = "Pierścień chodzenia po wodzie"
+
+[[input.files]]
+path = "pierscien-ciepla.html"
+url = "/pierscien-ciepla.html"
+title = "Pierścień ciepła"
+
+[[input.files]]
+path = "pierscien-darmowych-akcji.html"
+url = "/pierscien-darmowych-akcji.html"
+title = "Pierścień darmowych akcji"
+
+[[input.files]]
+path = "pierscien-dowodzenia-zywiolami.html"
+url = "/pierscien-dowodzenia-zywiolami.html"
+title = "Pierścień dowodzenia żywiołami"
+
+[[input.files]]
+path = "pierscien-dowodzenia-zywiolem-powietrza.html"
+url = "/pierscien-dowodzenia-zywiolem-powietrza.html"
+title = "Pierścień dowodzenia żywiołem powietrza"
+
+[[input.files]]
+path = "pierscien-dowodzenia-zywiolem-wody.html"
+url = "/pierscien-dowodzenia-zywiolem-wody.html"
+title = "Pierścień dowodzenia żywiołem wody"
+
+[[input.files]]
+path = "pierscien-dowodzenia-zywiolem-ziemi.html"
+url = "/pierscien-dowodzenia-zywiolem-ziemi.html"
+title = "Pierścień dowodzenia żywiołem ziemi"
+
+[[input.files]]
+path = "pierscien-niewidzialnosci.html"
+url = "/pierscien-niewidzialnosci.html"
+title = "Pierścień niewidzialności"
+
+[[input.files]]
+path = "pierscien-ochrony.html"
+url = "/pierscien-ochrony.html"
+title = "Pierścień ochrony"
+
+[[input.files]]
+path = "pierscien-odpornosci-na-trucizne.html"
+url = "/pierscien-odpornosci-na-trucizne.html"
+title = "Pierścień odporności na truciznę"
+
+[[input.files]]
+path = "pierscien-odwracania-zaklec.html"
+url = "/pierscien-odwracania-zaklec.html"
+title = "Pierścień odwracania zaklęć"
+
+[[input.files]]
+path = "pierscien-oporu.html"
+url = "/pierscien-oporu.html"
+title = "Pierścień oporu"
+
+[[input.files]]
+path = "pierscien-oslony-umyslu.html"
+url = "/pierscien-oslony-umyslu.html"
+title = "Pierścień osłony umysłu"
+
+[[input.files]]
+path = "pierscien-plywacki.html"
+url = "/pierscien-plywacki.html"
+title = "Pierścień pływacki"
+
+[[input.files]]
+path = "pierscien-przechowywania-zaklec.html"
+url = "/pierscien-przechowywania-zaklec.html"
+title = "Pierścień przechowywania zaklęć"
+
+[[input.files]]
+path = "pierscien-przywolania-djinni.html"
+url = "/pierscien-przywolania-djinni.html"
+title = "Pierścień przywołania djinni"
+
+[[input.files]]
+path = "pierscien-regeneracji.html"
+url = "/pierscien-regeneracji.html"
+title = "Pierścień regeneracji"
+
+[[input.files]]
+path = "pierscien-skokow.html"
+url = "/pierscien-skokow.html"
+title = "Pierścień skoków"
+
+[[input.files]]
+path = "pierscien-spadajacego-piora.html"
+url = "/pierscien-spadajacego-piora.html"
+title = "Pierścień spadającego pióra"
+
+[[input.files]]
+path = "pierscien-spadajacych-gwiazd.html"
+url = "/pierscien-spadajacych-gwiazd.html"
+title = "Pierścień spadających gwiazd"
+
+[[input.files]]
+path = "pierscien-telekinezy.html"
+url = "/pierscien-telekinezy.html"
+title = "Pierścień telekinezy"
+
+[[input.files]]
+path = "pierscien-trzech-zyczen.html"
+url = "/pierscien-trzech-zyczen.html"
+title = "Pierścień trzech życzeń"
+
+[[input.files]]
+path = "pierscien-uniku.html"
+url = "/pierscien-uniku.html"
+title = "Pierścień uniku"
+
+[[input.files]]
+path = "pierscien-widzenia-rentgenowskiego.html"
+url = "/pierscien-widzenia-rentgenowskiego.html"
+title = "Pierścień widzenia rentgenowskiego"
+
+[[input.files]]
+path = "pierscien-wplywu-zwierzat.html"
+url = "/pierscien-wplywu-zwierzat.html"
+title = "Pierścień wpływu zwierząt"
+
+[[input.files]]
+path = "pierscien-zywiolu-ognia.html"
+url = "/pierscien-zywiolu-ognia.html"
+title = "Pierścień żywiołu ognia"
+
+[[input.files]]
+path = "pierwotna-dzikosc.html"
+url = "/pierwotna-dzikosc.html"
+title = "Pierwotna dzikość"
+
+[[input.files]]
+path = "pierwotna-ochrona.html"
+url = "/pierwotna-ochrona.html"
+title = "Pierwotna ochrona"
+
+[[input.files]]
+path = "pietnujace-ugodzenie.html"
+url = "/pietnujace-ugodzenie.html"
+title = "Piętnujące ugodzenie"
+
+[[input.files]]
+path = "piorkospadanie.html"
+url = "/piorkospadanie.html"
+title = "Piórkospadanie"
+
+[[input.files]]
+path = "piorun.html"
+url = "/piorun.html"
+title = "Piorun"
+
+[[input.files]]
+path = "piorunostrzal.html"
+url = "/piorunostrzal.html"
+title = "Piorunostrzał"
+
+[[input.files]]
+path = "pirotechnika.html"
+url = "/pirotechnika.html"
+title = "Pirotechnika"
+
+[[input.files]]
+path = "pisanie-na-niebie.html"
+url = "/pisanie-na-niebie.html"
+title = "Pisanie na niebie"
+
+[[input.files]]
+path = "plaga.html"
+url = "/plaga.html"
+title = "Plaga"
+
+[[input.files]]
+path = "plaga-owadow.html"
+url = "/plaga-owadow.html"
+title = "Plaga owadów"
+
+[[input.files]]
+path = "plaszcz-elfow.html"
+url = "/plaszcz-elfow.html"
+title = "Płaszcz elfów"
+
+[[input.files]]
+path = "plaszcz-krzyzowca.html"
+url = "/plaszcz-krzyzowca.html"
+title = "Płaszcz krzyżowca"
+
+[[input.files]]
+path = "plaszcz-manty.html"
+url = "/plaszcz-manty.html"
+title = "Płaszcz manty"
+
+[[input.files]]
+path = "plaszcz-nietoperza.html"
+url = "/plaszcz-nietoperza.html"
+title = "Płaszcz nietoperza"
+
+[[input.files]]
+path = "plaszcz-niewidzialnosci.html"
+url = "/plaszcz-niewidzialnosci.html"
+title = "Płaszcz niewidzialności"
+
+[[input.files]]
+path = "plaszcz-ochronny.html"
+url = "/plaszcz-ochronny.html"
+title = "Płaszcz ochronny"
+
+[[input.files]]
+path = "plaszcz-odpornosci-na-zaklecia.html"
+url = "/plaszcz-odpornosci-na-zaklecia.html"
+title = "Płaszcz odporności na zaklęcia"
+
+[[input.files]]
+path = "plaszcz-pajeczakow.html"
+url = "/plaszcz-pajeczakow.html"
+title = "Płaszcz pajęczaków"
+
+[[input.files]]
+path = "plaszcz-przemieszczenia.html"
+url = "/plaszcz-przemieszczenia.html"
+title = "Płaszcz przemieszczenia"
+
+[[input.files]]
+path = "plomienie-aganazzara.html"
+url = "/plomienie-aganazzara.html"
+title = "Płomienie aganazzara"
+
+[[input.files]]
+path = "plomienna-kula.html"
+url = "/plomienna-kula.html"
+title = "Płomienna kula"
+
+[[input.files]]
+path = "plomienne-ostrze.html"
+url = "/plomienne-ostrze.html"
+title = "Płomienne ostrze"
+
+[[input.files]]
+path = "plomienne-strzaly.html"
+url = "/plomienne-strzaly.html"
+title = "Płomienne strzały"
+
+[[input.files]]
+path = "plomienny-jezyk.html"
+url = "/plomienny-jezyk.html"
+title = "Płomienny język"
+
+[[input.files]]
+path = "plonace-dlonie.html"
+url = "/plonace-dlonie.html"
+title = "Płonące dłonie"
+
+[[input.files]]
+path = "plugawy-uwiad-abi-dalzima.html"
+url = "/plugawy-uwiad-abi-dalzima.html"
+title = "Plugawy uwiąd abi- dalzima"
+
+[[input.files]]
+path = "plyta-krasnoludzka.html"
+url = "/plyta-krasnoludzka.html"
+title = "Płyta krasnoludzka"
+
+[[input.files]]
+path = "plytowa-zbroja-eterycznosci.html"
+url = "/plytowa-zbroja-eterycznosci.html"
+title = "Płytowa zbroja eteryczności"
+
+[[input.files]]
+path = "pochloniecie-zywiolow.html"
+url = "/pochloniecie-zywiolow.html"
+title = "Pochłonięcie żywiołów"
+
+[[input.files]]
+path = "pocisk-wiodacy.html"
+url = "/pocisk-wiodacy.html"
+title = "Pocisk wiodący"
+
+[[input.files]]
+path = "poczta-ze-smoczej-luski.html"
+url = "/poczta-ze-smoczej-luski.html"
+title = "Poczta ze smoczej łuski"
+
+[[input.files]]
+path = "podkowy-predkosci.html"
+url = "/podkowy-predkosci.html"
+title = "Podkowy prędkości"
+
+[[input.files]]
+path = "podkowy-zefiru.html"
+url = "/podkowy-zefiru.html"
+title = "Podkowy zefiru"
+
+[[input.files]]
+path = "podmiana-wspomnien.html"
+url = "/podmiana-wspomnien.html"
+title = "Podmiana wspomnień"
+
+[[input.files]]
+path = "podmuch.html"
+url = "/podmuch.html"
+title = "Podmuch"
+
+[[input.files]]
+path = "podrecznik-cwiczen-zarobkowych.html"
+url = "/podrecznik-cwiczen-zarobkowych.html"
+title = "Podręcznik ćwiczeń zarobkowych"
+
+[[input.files]]
+path = "podrecznik-golemow.html"
+url = "/podrecznik-golemow.html"
+title = "Podręcznik golemów"
+
+[[input.files]]
+path = "podrecznik-szybkosci-dzialania.html"
+url = "/podrecznik-szybkosci-dzialania.html"
+title = "Podręcznik szybkości działania"
+
+[[input.files]]
+path = "podrecznik-zdrowia-ciala.html"
+url = "/podrecznik-zdrowia-ciala.html"
+title = "Podręcznik zdrowia ciała"
+
+[[input.files]]
+path = "podreczny-plecak-hewarda.html"
+url = "/podreczny-plecak-hewarda.html"
+title = "Podręczny plecak Hewarda"
+
+[[input.files]]
+path = "podroz-przez-rosliny.html"
+url = "/podroz-przez-rosliny.html"
+title = "Podróż przez rośliny"
+
+[[input.files]]
+path = "podstepna-bron.html"
+url = "/podstepna-bron.html"
+title = "Podstępna broń"
+
+[[input.files]]
+path = "pogromca-olbrzymow.html"
+url = "/pogromca-olbrzymow.html"
+title = "Pogromca olbrzymów"
+
+[[input.files]]
+path = "pogromca-smokow.html"
+url = "/pogromca-smokow.html"
+title = "Pogromca smoków"
+
+[[input.files]]
+path = "poklad-iluzji.html"
+url = "/poklad-iluzji.html"
+title = "Pokład iluzji"
+
+[[input.files]]
+path = "poklad-wielu-rzeczy.html"
+url = "/poklad-wielu-rzeczy.html"
+title = "Pokład wielu rzeczy"
+
+[[input.files]]
+path = "pole-antymagii.html"
+url = "/pole-antymagii.html"
+title = "Pole antymagii"
+
+[[input.files]]
+path = "polimorfia.html"
+url = "/polimorfia.html"
+title = "Polimorfia"
+
+[[input.files]]
+path = "pomniejsza-iluzja.html"
+url = "/pomniejsza-iluzja.html"
+title = "Pomniejsza iluzja"
+
+[[input.files]]
+path = "pomoc.html"
+url = "/pomoc.html"
+title = "Pomoc"
+
+[[input.files]]
+path = "porazajacy-uscisk.html"
+url = "/porazajacy-uscisk.html"
+title = "Porażający uścisk"
+
+[[input.files]]
+path = "poruszenie-ziemi.html"
+url = "/poruszenie-ziemi.html"
+title = "Poruszenie ziemi"
+
+[[input.files]]
+path = "poryw-wiatru.html"
+url = "/poryw-wiatru.html"
+title = "Poryw wiatru"
+
+[[input.files]]
+path = "potezna-forteca.html"
+url = "/potezna-forteca.html"
+title = "Potężna forteca"
+
+[[input.files]]
+path = "powiekszenie_pomniejszenie.html"
+url = "/powiekszenie_pomniejszenie.html"
+title = "Powiększenie_pomniejszenie"
+
+[[input.files]]
+path = "powstrzymanie-smierci.html"
+url = "/powstrzymanie-smierci.html"
+title = "Powstrzymanie śmierci"
+
+[[input.files]]
+path = "pozor-smierci.html"
+url = "/pozor-smierci.html"
+title = "Pozór śmierci"
+
+[[input.files]]
+path = "pozory.html"
+url = "/pozory.html"
+title = "Pozory"
+
+[[input.files]]
+path = "pracownicy-lasow.html"
+url = "/pracownicy-lasow.html"
+title = "Pracownicy lasów"
+
+[[input.files]]
+path = "prawdziwa-polimorfia.html"
+url = "/prawdziwa-polimorfia.html"
+title = "Prawdziwa polimorfia"
+
+[[input.files]]
+path = "prawdziwe-uderzenie.html"
+url = "/prawdziwe-uderzenie.html"
+title = "Prawdziwe uderzenie"
+
+[[input.files]]
+path = "prawdziwe-widzenie.html"
+url = "/prawdziwe-widzenie.html"
+title = "Prawdziwe widzenie"
+
+[[input.files]]
+path = "prawdziwe-zmartwychwstanie.html"
+url = "/prawdziwe-zmartwychwstanie.html"
+title = "Prawdziwe zmartwychwstanie"
+
+[[input.files]]
+path = "produkcja.html"
+url = "/produkcja.html"
+title = "Produkcja"
+
+[[input.files]]
+path = "profetyzm.html"
+url = "/profetyzm.html"
+title = "Profetyzm"
+
+[[input.files]]
+path = "projekcja-astralna.html"
+url = "/projekcja-astralna.html"
+title = "Projekcja astralna"
+
+[[input.files]]
+path = "projekcja-obrazu.html"
+url = "/projekcja-obrazu.html"
+title = "Projekcja obrazu"
+
+[[input.files]]
+path = "promien-mrozu.html"
+url = "/promien-mrozu.html"
+title = "Promień mrozu"
+
+[[input.files]]
+path = "promien-nadziei.html"
+url = "/promien-nadziei.html"
+title = "Promień nadziei"
+
+[[input.files]]
+path = "promien-oslabienia.html"
+url = "/promien-oslabienia.html"
+title = "Promień osłabienia"
+
+[[input.files]]
+path = "promien-slonca.html"
+url = "/promien-slonca.html"
+title = "Promień słońca"
+
+[[input.files]]
+path = "promien-zatrucia.html"
+url = "/promien-zatrucia.html"
+title = "Promień zatrucia"
+
+[[input.files]]
+path = "prowokacja.html"
+url = "/prowokacja.html"
+title = "Prowokacja"
+
+[[input.files]]
+path = "pryzmatyczny-mur.html"
+url = "/pryzmatyczny-mur.html"
+title = "Pryzmatyczny mur"
+
+[[input.files]]
+path = "pryzmatyczny-rozprysk.html"
+url = "/pryzmatyczny-rozprysk.html"
+title = "Pryzmatyczny rozprysk"
+
+[[input.files]]
+path = "przebranie-siebie.html"
+url = "/przebranie-siebie.html"
+title = "Przebranie siebie"
+
+[[input.files]]
+path = "przebudzenie.html"
+url = "/przebudzenie.html"
+title = "Przebudzenie"
+
+[[input.files]]
+path = "przeciwzaklecie.html"
+url = "/przeciwzaklecie.html"
+title = "Przeciwzaklęcie"
+
+[[input.files]]
+path = "przejscie-bez-sladu.html"
+url = "/przejscie-bez-sladu.html"
+title = "Przejście bez śladu"
+
+[[input.files]]
+path = "przejscie-w-murze.html"
+url = "/przejscie-w-murze.html"
+title = "Przejście w murze"
+
+[[input.files]]
+path = "przemiana-skaly.html"
+url = "/przemiana-skaly.html"
+title = "Przemiana skały"
+
+[[input.files]]
+path = "przemiana-tensera.html"
+url = "/przemiana-tensera.html"
+title = "Przemiana tensera"
+
+[[input.files]]
+path = "przeniesienie-zycia.html"
+url = "/przeniesienie-zycia.html"
+title = "Przeniesienie życia"
+
+[[input.files]]
+path = "przenosny-otwor.html"
+url = "/przenosny-otwor.html"
+title = "Przenośny otwór"
+
+[[input.files]]
+path = "przeszywajacy-dotyk.html"
+url = "/przeszywajacy-dotyk.html"
+title = "Przeszywający dotyk"
+
+[[input.files]]
+path = "przezornosc.html"
+url = "/przezornosc.html"
+title = "Przezorność"
+
+[[input.files]]
+path = "przyjaciel-zwierzat.html"
+url = "/przyjaciel-zwierzat.html"
+title = "Przyjaciel zwierząt"
+
+[[input.files]]
+path = "przyjazn.html"
+url = "/przyjazn.html"
+title = "Przyjaźń"
+
+[[input.files]]
+path = "przyladek-mountebank.html"
+url = "/przyladek-mountebank.html"
+title = "Przylądek Mountebank"
+
+[[input.files]]
+path = "przymus.html"
+url = "/przymus.html"
+title = "Przymus"
+
+[[input.files]]
+path = "przyspieszenie.html"
+url = "/przyspieszenie.html"
+title = "Przyspieszenie"
+
+[[input.files]]
+path = "przywolanie-fey.html"
+url = "/przywolanie-fey.html"
+title = "Przywołanie fey"
+
+[[input.files]]
+path = "przywolanie-lesnych-istot.html"
+url = "/przywolanie-lesnych-istot.html"
+title = "Przywołanie leśnych istot"
+
+[[input.files]]
+path = "przywolanie-mniejszych-zywiolakow.html"
+url = "/przywolanie-mniejszych-zywiolakow.html"
+title = "Przywołanie mniejszych żywiołaków"
+
+[[input.files]]
+path = "przywolanie-niebianina.html"
+url = "/przywolanie-niebianina.html"
+title = "Przywołanie niebianina"
+
+[[input.files]]
+path = "przywolanie-ognia-zaporowego.html"
+url = "/przywolanie-ognia-zaporowego.html"
+title = "Przywołanie ognia zaporowego"
+
+[[input.files]]
+path = "przywolanie-ostrzalu.html"
+url = "/przywolanie-ostrzalu.html"
+title = "Przywołanie ostrzału"
+
+[[input.files]]
+path = "przywolanie-pomniejszych-demonow.html"
+url = "/przywolanie-pomniejszych-demonow.html"
+title = "Przywołanie pomniejszych demonów"
+
+[[input.files]]
+path = "przywolanie-wiekszego-demona.html"
+url = "/przywolanie-wiekszego-demona.html"
+title = "Przywołanie większego demona"
+
+[[input.files]]
+path = "przywolanie-zwierzat.html"
+url = "/przywolanie-zwierzat.html"
+title = "Przywołanie zwierząt"
+
+[[input.files]]
+path = "przywolanie-zywiolaka.html"
+url = "/przywolanie-zywiolaka.html"
+title = "Przywołanie żywiołaka"
+
+[[input.files]]
+path = "psychiczny-wrzask.html"
+url = "/psychiczny-wrzask.html"
+title = "Psychiczny wrzask"
+
+[[input.files]]
+path = "pyl-powodujacy-kichanie-i-krztuszenie-sie.html"
+url = "/pyl-powodujacy-kichanie-i-krztuszenie-sie.html"
+title = "Pył powodujący kichanie i krztuszenie się"
+
+[[input.files]]
+path = "pyl-suchosci.html"
+url = "/pyl-suchosci.html"
+title = "Pył suchości"
+
+[[input.files]]
+path = "pyl-znikniecia.html"
+url = "/pyl-znikniecia.html"
+title = "Pył zniknięcia"
+
+[[input.files]]
+path = "pylowy-wir.html"
+url = "/pylowy-wir.html"
+title = "Pyłowy wir"
+
+[[input.files]]
+path = "ramiona-hadara.html"
+url = "/ramiona-hadara.html"
+title = "Ramiona hadara"
+
+[[input.files]]
+path = "regeneracja.html"
+url = "/regeneracja.html"
+title = "Regeneracja"
+
+[[input.files]]
+path = "reinkarnacja.html"
+url = "/reinkarnacja.html"
+title = "Reinkarnacja"
+
+[[input.files]]
+path = "rekawice-do-plywania-i-wspinaczki.html"
+url = "/rekawice-do-plywania-i-wspinaczki.html"
+title = "Rękawice do pływania i wspinaczki"
+
+[[input.files]]
+path = "rekawice-do-wyrywania-pociskow.html"
+url = "/rekawice-do-wyrywania-pociskow.html"
+title = "Rękawice do wyrywania pocisków"
+
+[[input.files]]
+path = "rekawice-mocy-ogra.html"
+url = "/rekawice-mocy-ogra.html"
+title = "Rękawice mocy ogra"
+
+[[input.files]]
+path = "robactwo.html"
+url = "/robactwo.html"
+title = "Robactwo"
+
+[[input.files]]
+path = "rog-strzalowy.html"
+url = "/rog-strzalowy.html"
+title = "Róg strzałowy"
+
+[[input.files]]
+path = "rog-valhalli-srebrny.html"
+url = "/rog-valhalli-srebrny.html"
+title = "Róg valhalli (srebrny)"
+
+[[input.files]]
+path = "rog-walhalli.html"
+url = "/rog-walhalli.html"
+title = "Róg walhalli"
+
+[[input.files]]
+path = "rog-walhalli-braz.html"
+url = "/rog-walhalli-braz.html"
+title = "Róg walhalli (brąz)"
+
+[[input.files]]
+path = "rog-walhalli-mosiadz.html"
+url = "/rog-walhalli-mosiadz.html"
+title = "Róg walhalli (mosiądz)"
+
+[[input.files]]
+path = "rog-walhalli-zelazny.html"
+url = "/rog-walhalli-zelazny.html"
+title = "Róg walhalli (żelazny)"
+
+[[input.files]]
+path = "roj-meteorytow.html"
+url = "/roj-meteorytow.html"
+title = "Rój meteorytów"
+
+[[input.files]]
+path = "roj-sniezek-snilloca.html"
+url = "/roj-sniezek-snilloca.html"
+title = "Rój śnieżek snilloca"
+
+[[input.files]]
+path = "rozdzka-absorpcji.html"
+url = "/rozdzka-absorpcji.html"
+title = "Różdżka absorpcji"
+
+[[input.files]]
+path = "rozdzka-bezpieczenstwa.html"
+url = "/rozdzka-bezpieczenstwa.html"
+title = "Różdżka bezpieczeństwa"
+
+[[input.files]]
+path = "rozdzka-blyskawic.html"
+url = "/rozdzka-blyskawic.html"
+title = "Różdżka błyskawic"
+
+[[input.files]]
+path = "rozdzka-cudow.html"
+url = "/rozdzka-cudow.html"
+title = "Różdżka cudów"
+
+[[input.files]]
+path = "rozdzka-czujnosci.html"
+url = "/rozdzka-czujnosci.html"
+title = "Różdżka czujności"
+
+[[input.files]]
+path = "rozdzka-kul-ognia.html"
+url = "/rozdzka-kul-ognia.html"
+title = "Różdżka kul ognia"
+
+[[input.files]]
+path = "rozdzka-lordowskiej-potegi.html"
+url = "/rozdzka-lordowskiej-potegi.html"
+title = "Różdżka lordowskiej potęgi"
+
+[[input.files]]
+path = "rozdzka-macki.html"
+url = "/rozdzka-macki.html"
+title = "Różdżka macki"
+
+[[input.files]]
+path = "rozdzka-maga-wojennego-1.html"
+url = "/rozdzka-maga-wojennego-1.html"
+title = "Różdżka maga wojennego +1"
+
+[[input.files]]
+path = "rozdzka-maga-wojennego-1-2-lub-3.html"
+url = "/rozdzka-maga-wojennego-1-2-lub-3.html"
+title = "Różdżka maga wojennego +1, +2 lub +3"
+
+[[input.files]]
+path = "rozdzka-maga-wojennego-2.html"
+url = "/rozdzka-maga-wojennego-2.html"
+title = "Różdżka maga wojennego +2"
+
+[[input.files]]
+path = "rozdzka-maga-wojennego-3.html"
+url = "/rozdzka-maga-wojennego-3.html"
+title = "Różdżka maga wojennego +3"
+
+[[input.files]]
+path = "rozdzka-maga-wojny-1.html"
+url = "/rozdzka-maga-wojny-1.html"
+title = "Różdżka maga wojny +1"
+
+[[input.files]]
+path = "rozdzka-magicznych-pociskow.html"
+url = "/rozdzka-magicznych-pociskow.html"
+title = "Różdżka magicznych pocisków"
+
+[[input.files]]
+path = "rozdzka-orcus.html"
+url = "/rozdzka-orcus.html"
+title = "Różdżka orcus"
+
+[[input.files]]
+path = "rozdzka-paralizu.html"
+url = "/rozdzka-paralizu.html"
+title = "Różdżka paraliżu"
+
+[[input.files]]
+path = "rozdzka-polimorfu.html"
+url = "/rozdzka-polimorfu.html"
+title = "Różdżka polimorfu"
+
+[[input.files]]
+path = "rozdzka-sieci.html"
+url = "/rozdzka-sieci.html"
+title = "Różdżka sieci"
+
+[[input.files]]
+path = "rozdzka-strachu.html"
+url = "/rozdzka-strachu.html"
+title = "Różdżka strachu"
+
+[[input.files]]
+path = "rozdzka-straznika-paktu-1.html"
+url = "/rozdzka-straznika-paktu-1.html"
+title = "Różdżka strażnika paktu +1"
+
+[[input.files]]
+path = "rozdzka-straznika-paktu-2.html"
+url = "/rozdzka-straznika-paktu-2.html"
+title = "Różdżka strażnika paktu +2"
+
+[[input.files]]
+path = "rozdzka-straznika-paktu-3.html"
+url = "/rozdzka-straznika-paktu-3.html"
+title = "Różdżka strażnika paktu +3"
+
+[[input.files]]
+path = "rozdzka-tajemnic.html"
+url = "/rozdzka-tajemnic.html"
+title = "Różdżka tajemnic"
+
+[[input.files]]
+path = "rozdzka-wiazania.html"
+url = "/rozdzka-wiazania.html"
+title = "Różdżka wiązania"
+
+[[input.files]]
+path = "rozdzka-wladzy.html"
+url = "/rozdzka-wladzy.html"
+title = "Różdżka władzy"
+
+[[input.files]]
+path = "rozdzka-wykrywania-magii.html"
+url = "/rozdzka-wykrywania-magii.html"
+title = "Różdżka wykrywania magii"
+
+[[input.files]]
+path = "rozdzka-wykrywania-wrogow.html"
+url = "/rozdzka-wykrywania-wrogow.html"
+title = "Różdżka wykrywania wrogów"
+
+[[input.files]]
+path = "rozdzka-zmartwychwstania.html"
+url = "/rozdzka-zmartwychwstania.html"
+title = "Różdżka zmartwychwstania"
+
+[[input.files]]
+path = "rozgrzanie-metalu.html"
+url = "/rozgrzanie-metalu.html"
+title = "Rozgrzanie metalu"
+
+[[input.files]]
+path = "rozkaz.html"
+url = "/rozkaz.html"
+title = "Rozkaz"
+
+[[input.files]]
+path = "rozmawianie-z-umarlymi.html"
+url = "/rozmawianie-z-umarlymi.html"
+title = "Rozmawianie z umarłymi"
+
+[[input.files]]
+path = "rozmawianie-ze-zwierzetami.html"
+url = "/rozmawianie-ze-zwierzetami.html"
+title = "Rozmawianie ze zwierzętami"
+
+[[input.files]]
+path = "rozmawienie-z-roslinami.html"
+url = "/rozmawienie-z-roslinami.html"
+title = "Rozmawienie z roślinami"
+
+[[input.files]]
+path = "rozmycie.html"
+url = "/rozmycie.html"
+title = "Rozmycie"
+
+[[input.files]]
+path = "rozproszenie-dobra-i-zla.html"
+url = "/rozproszenie-dobra-i-zla.html"
+title = "Rozproszenie dobra i zla"
+
+[[input.files]]
+path = "rozproszenie-magii.html"
+url = "/rozproszenie-magii.html"
+title = "Rozproszenie magii"
+
+[[input.files]]
+path = "rozpuszczalnik-uniwersalny.html"
+url = "/rozpuszczalnik-uniwersalny.html"
+title = "Rozpuszczalnik uniwersalny"
+
+[[input.files]]
+path = "rozrost-roslin.html"
+url = "/rozrost-roslin.html"
+title = "Rozrost roślin"
+
+[[input.files]]
+path = "rozrzucenie.html"
+url = "/rozrzucenie.html"
+title = "Rozrzucenie"
+
+[[input.files]]
+path = "rozumienie-jezykow.html"
+url = "/rozumienie-jezykow.html"
+title = "Rozumienie języków"
+
+[[input.files]]
+path = "rury-kanalizacyjne.html"
+url = "/rury-kanalizacyjne.html"
+title = "Rury kanalizacyjne"
+
+[[input.files]]
+path = "rury-nawiedzenia.html"
+url = "/rury-nawiedzenia.html"
+title = "Rury nawiedzenia"
+
+[[input.files]]
+path = "sanktuarium.html"
+url = "/sanktuarium.html"
+title = "Sanktuarium"
+
+[[input.files]]
+path = "sciana-cierni.html"
+url = "/sciana-cierni.html"
+title = "Ściana cierni"
+
+[[input.files]]
+path = "sciana-energii.html"
+url = "/sciana-energii.html"
+title = "Ściana energii"
+
+[[input.files]]
+path = "sciana-kamienia.html"
+url = "/sciana-kamienia.html"
+title = "Ściana kamienia"
+
+[[input.files]]
+path = "sciana-lodu.html"
+url = "/sciana-lodu.html"
+title = "Ściana lodu"
+
+[[input.files]]
+path = "sciana-ognia.html"
+url = "/sciana-ognia.html"
+title = "Ściana ognia"
+
+[[input.files]]
+path = "sciana-piasku.html"
+url = "/sciana-piasku.html"
+title = "Ściana piasku"
+
+[[input.files]]
+path = "sciana-swiatla.html"
+url = "/sciana-swiatla.html"
+title = "Ściana światła"
+
+[[input.files]]
+path = "sciana-wichru.html"
+url = "/sciana-wichru.html"
+title = "Ściana wichru"
+
+[[input.files]]
+path = "sciana-wody.html"
+url = "/sciana-wody.html"
+title = "Ściana wody"
+
+[[input.files]]
+path = "scimitar-predkosci.html"
+url = "/scimitar-predkosci.html"
+title = "Scimitar prędkości"
+
+[[input.files]]
+path = "sekretny-kufer-leomunda.html"
+url = "/sekretny-kufer-leomunda.html"
+title = "Sekretny kufer leomunda"
+
+[[input.files]]
+path = "sen.html"
+url = "/sen.html"
+title = "Sen"
+
+[[input.files]]
+path = "sfera-niepodatnosci.html"
+url = "/sfera-niepodatnosci.html"
+title = "Sfera niepodatności"
+
+[[input.files]]
+path = "sfera-unicestwienia.html"
+url = "/sfera-unicestwienia.html"
+title = "Sfera unicestwienia"
+
+[[input.files]]
+path = "sferalne-wiazanie.html"
+url = "/sferalne-wiazanie.html"
+title = "Sferalne wiązanie"
+
+[[input.files]]
+path = "sferalny-przeskok.html"
+url = "/sferalny-przeskok.html"
+title = "Sferalny przeskok"
+
+[[input.files]]
+path = "sferalny-sojusznik.html"
+url = "/sferalny-sojusznik.html"
+title = "Sferalny sojusznik"
+
+[[input.files]]
+path = "shillelagh.html"
+url = "/shillelagh.html"
+title = "Shillelagh"
+
+[[input.files]]
+path = "sidla.html"
+url = "/sidla.html"
+title = "Sidła"
+
+[[input.files]]
+path = "siodlo-cavalier.html"
+url = "/siodlo-cavalier.html"
+title = "Siodło cavalier"
+
+[[input.files]]
+path = "skarabeusz-ochrony.html"
+url = "/skarabeusz-ochrony.html"
+title = "Skarabeusz ochrony"
+
+[[input.files]]
+path = "skazone-promieniowanie.html"
+url = "/skazone-promieniowanie.html"
+title = "Skażone promieniowanie"
+
+[[input.files]]
+path = "skladana-lodz.html"
+url = "/skladana-lodz.html"
+title = "Składana łódź"
+
+[[input.files]]
+path = "skok.html"
+url = "/skok.html"
+title = "Skok"
+
+[[input.files]]
+path = "skrzydla-latania.html"
+url = "/skrzydla-latania.html"
+title = "Skrzydła latania"
+
+[[input.files]]
+path = "sloneczny-blask.html"
+url = "/sloneczny-blask.html"
+title = "Słoneczny blask"
+
+[[input.files]]
+path = "slowo-blasku.html"
+url = "/slowo-blasku.html"
+title = "Słowo blasku"
+
+[[input.files]]
+path = "slowo-boze.html"
+url = "/slowo-boze.html"
+title = "Słowo boże"
+
+[[input.files]]
+path = "slowo-mocy-bol.html"
+url = "/slowo-mocy-bol.html"
+title = "Słowo mocy ból"
+
+[[input.files]]
+path = "slowo-mocy-gin.html"
+url = "/slowo-mocy-gin.html"
+title = "Słowo mocy 'giń'"
+
+[[input.files]]
+path = "slowo-mocy-stoj.html"
+url = "/slowo-mocy-stoj.html"
+title = "Słowo mocy 'stój'"
+
+[[input.files]]
+path = "slowo-mocy-ulecz.html"
+url = "/slowo-mocy-ulecz.html"
+title = "Słowo mocy 'ulecz'"
+
+[[input.files]]
+path = "slowo-powrotu.html"
+url = "/slowo-powrotu.html"
+title = "Słowo powrotu"
+
+[[input.files]]
+path = "slup-ognia.html"
+url = "/slup-ognia.html"
+title = "Słup ognia"
+
+[[input.files]]
+path = "smierdzaca-chmura.html"
+url = "/smierdzaca-chmura.html"
+title = "Śmierdząca chmura"
+
+[[input.files]]
+path = "smocze-widmo.html"
+url = "/smocze-widmo.html"
+title = "Smocze widmo"
+
+[[input.files]]
+path = "smocze-zioniecie.html"
+url = "/smocze-zioniecie.html"
+title = "Smocze zionięcie"
+
+[[input.files]]
+path = "sniezyca.html"
+url = "/sniezyca.html"
+title = "Śnieżyca"
+
+[[input.files]]
+path = "spacer-miedzy-drzewami.html"
+url = "/spacer-miedzy-drzewami.html"
+title = "Spacer między drzewami"
+
+[[input.files]]
+path = "spacer-na-wietrze.html"
+url = "/spacer-na-wietrze.html"
+title = "Spacer na wietrze"
+
+[[input.files]]
+path = "spacer-po-wodzie.html"
+url = "/spacer-po-wodzie.html"
+title = "Spacer po wodzie"
+
+[[input.files]]
+path = "spopielenie.html"
+url = "/spopielenie.html"
+title = "Spopielenie"
+
+[[input.files]]
+path = "spowicie-cieniem.html"
+url = "/spowicie-cieniem.html"
+title = "Spowicie cieniem"
+
+[[input.files]]
+path = "spowolnienie.html"
+url = "/spowolnienie.html"
+title = "Spowolnienie"
+
+[[input.files]]
+path = "sprezysta-sfera-otilukea.html"
+url = "/sprezysta-sfera-otilukea.html"
+title = "Sprężysta sfera otiluke'a"
+
+[[input.files]]
+path = "ster-telepatii.html"
+url = "/ster-telepatii.html"
+title = "Ster telepatii"
+
+[[input.files]]
+path = "ster-teleportacji.html"
+url = "/ster-teleportacji.html"
+title = "Ster teleportacji"
+
+[[input.files]]
+path = "sterownik-rozumienia-jezykow.html"
+url = "/sterownik-rozumienia-jezykow.html"
+title = "Sterownik rozumienia języków"
+
+[[input.files]]
+path = "stozek-zimna.html"
+url = "/stozek-zimna.html"
+title = "Stożek zimna"
+
+[[input.files]]
+path = "strach.html"
+url = "/strach.html"
+title = "Strach"
+
+[[input.files]]
+path = "straznik-natury.html"
+url = "/straznik-natury.html"
+title = "Strażnik natury"
+
+[[input.files]]
+path = "straznik-wiary.html"
+url = "/straznik-wiary.html"
+title = "Strażnik wiary"
+
+[[input.files]]
+path = "strefa-prawdy.html"
+url = "/strefa-prawdy.html"
+title = "Strefa prawdy"
+
+[[input.files]]
+path = "strzala-zabijania.html"
+url = "/strzala-zabijania.html"
+title = "Strzała zabijania"
+
+[[input.files]]
+path = "studnia-wielu-swiatow.html"
+url = "/studnia-wielu-swiatow.html"
+title = "Studnia wielu światów"
+
+[[input.files]]
+path = "stworzenie-homunkulusa.html"
+url = "/stworzenie-homunkulusa.html"
+title = "Stworzenie homunkulusa"
+
+[[input.files]]
+path = "stworzenie-jadla-i-wody.html"
+url = "/stworzenie-jadla-i-wody.html"
+title = "Stworzenie jadła i wody"
+
+[[input.files]]
+path = "stworzenie-lub-zniszczenie-wody.html"
+url = "/stworzenie-lub-zniszczenie-wody.html"
+title = "Stworzenie lub zniszczenie wody"
+
+[[input.files]]
+path = "stworzenie-nieumarlego.html"
+url = "/stworzenie-nieumarlego.html"
+title = "Stworzenie nieumarłego"
+
+[[input.files]]
+path = "stworzenie-ogniska.html"
+url = "/stworzenie-ogniska.html"
+title = "Stworzenie ogniska"
+
+[[input.files]]
+path = "sugestia.html"
+url = "/sugestia.html"
+title = "Sugestia"
+
+[[input.files]]
+path = "suwerenny-klej.html"
+url = "/suwerenny-klej.html"
+title = "Suwerenny klej"
+
+[[input.files]]
+path = "swiatlo.html"
+url = "/swiatlo.html"
+title = "Światło"
+
+[[input.files]]
+path = "swiatlo-dnia.html"
+url = "/swiatlo-dnia.html"
+title = "Światło dnia"
+
+[[input.files]]
+path = "swiatynia-bogow.html"
+url = "/swiatynia-bogow.html"
+title = "Świątynia bogów"
+
+[[input.files]]
+path = "swieca-przywolania.html"
+url = "/swieca-przywolania.html"
+title = "Świeca przywołania"
+
+[[input.files]]
+path = "swieta-aura.html"
+url = "/swieta-aura.html"
+title = "Święta aura"
+
+[[input.files]]
+path = "swieta-bron.html"
+url = "/swieta-bron.html"
+title = "Święta broń"
+
+[[input.files]]
+path = "swiety-msciciel.html"
+url = "/swiety-msciciel.html"
+title = "Święty mściciel"
+
+[[input.files]]
+path = "swiety-plomien.html"
+url = "/swiety-plomien.html"
+title = "Święty płomień"
+
+[[input.files]]
+path = "swit.html"
+url = "/swit.html"
+title = "Świt"
+
+[[input.files]]
+path = "swoboda-ruchu.html"
+url = "/swoboda-ruchu.html"
+title = "Swoboda ruchu"
+
+[[input.files]]
+path = "symbol.html"
+url = "/symbol.html"
+title = "Symbol"
+
+[[input.files]]
+path = "symulakrum.html"
+url = "/symulakrum.html"
+title = "Symulakrum"
+
+[[input.files]]
+path = "szata-arcymagow.html"
+url = "/szata-arcymagow.html"
+title = "Szata arcymagów"
+
+[[input.files]]
+path = "szata-mieniaca-sie-kolorami.html"
+url = "/szata-mieniaca-sie-kolorami.html"
+title = "Szata mieniąca się kolorami"
+
+[[input.files]]
+path = "szata-z-gwiazd.html"
+url = "/szata-z-gwiazd.html"
+title = "Szata z gwiazd"
+
+[[input.files]]
+path = "szata-z-oczu.html"
+url = "/szata-z-oczu.html"
+title = "Szata z oczu"
+
+[[input.files]]
+path = "szata-z-przydatnymi-przedmiotami.html"
+url = "/szata-z-przydatnymi-przedmiotami.html"
+title = "Szata z przydatnymi przedmiotami"
+
+[[input.files]]
+path = "szekle-wymiarowe.html"
+url = "/szekle-wymiarowe.html"
+title = "Szekle wymiarowe"
+
+[[input.files]]
+path = "szescian-sily.html"
+url = "/szescian-sily.html"
+title = "Sześcian siły"
+
+[[input.files]]
+path = "sztuczka-z-lina.html"
+url = "/sztuczka-z-lina.html"
+title = "Sztuczka z liną"
+
+[[input.files]]
+path = "sztylet-jadu.html"
+url = "/sztylet-jadu.html"
+title = "Sztylet jadu"
+
+[[input.files]]
+path = "szum-synaptyczny.html"
+url = "/szum-synaptyczny.html"
+title = "Szum synaptyczny"
+
+[[input.files]]
+path = "szybkonogi.html"
+url = "/szybkonogi.html"
+title = "Szybkonogi"
+
+[[input.files]]
+path = "talia-wielu-rzeczy.html"
+url = "/talia-wielu-rzeczy.html"
+title = "Talia wielu rzeczy"
+
+[[input.files]]
+path = "talizman-czystego-dobra.html"
+url = "/talizman-czystego-dobra.html"
+title = "Talizman czystego dobra"
+
+[[input.files]]
+path = "talizman-kuli.html"
+url = "/talizman-kuli.html"
+title = "Talizman kuli"
+
+[[input.files]]
+path = "talizman-ostatecznego-zla.html"
+url = "/talizman-ostatecznego-zla.html"
+title = "Talizman ostatecznego zła"
+
+[[input.files]]
+path = "tanczace-swiatla.html"
+url = "/tanczace-swiatla.html"
+title = "Tańczące światła"
+
+[[input.files]]
+path = "tanczacy-miecz.html"
+url = "/tanczacy-miecz.html"
+title = "Tańczący miecz"
+
+[[input.files]]
+path = "tarcza.html"
+url = "/tarcza.html"
+title = "Tarcza"
+
+[[input.files]]
+path = "tarcza-1.html"
+url = "/tarcza-1.html"
+title = "Tarcza +1"
+
+[[input.files]]
+path = "tarcza-1-2-lub-3.html"
+url = "/tarcza-1-2-lub-3.html"
+title = "Tarcza, +1, +2 lub +3"
+
+[[input.files]]
+path = "tarcza-2.html"
+url = "/tarcza-2.html"
+title = "Tarcza +2"
+
+[[input.files]]
+path = "tarcza-3.html"
+url = "/tarcza-3.html"
+title = "Tarcza +3"
+
+[[input.files]]
+path = "tarcza-chroniaca-przed-zakleciami.html"
+url = "/tarcza-chroniaca-przed-zakleciami.html"
+title = "Tarcza chroniąca przed zaklęciami"
+
+[[input.files]]
+path = "tarcza-ognia.html"
+url = "/tarcza-ognia.html"
+title = "Tarcza ognia"
+
+[[input.files]]
+path = "tarcza-przyciagania-pociskow.html"
+url = "/tarcza-przyciagania-pociskow.html"
+title = "Tarcza przyciągania pocisków"
+
+[[input.files]]
+path = "tarcza-sloneczna.html"
+url = "/tarcza-sloneczna.html"
+title = "Tarcza słoneczna"
+
+[[input.files]]
+path = "tarcza-wiary.html"
+url = "/tarcza-wiary.html"
+title = "Tarcza wiary"
+
+[[input.files]]
+path = "tarcza-wylapujaca-strzaly.html"
+url = "/tarcza-wylapujaca-strzaly.html"
+title = "Tarcza wyłapująca strzały"
+
+[[input.files]]
+path = "taumaturgia.html"
+url = "/taumaturgia.html"
+title = "Taumaturgia"
+
+[[input.files]]
+path = "telekineza.html"
+url = "/telekineza.html"
+title = "Telekineza"
+
+[[input.files]]
+path = "telepatia.html"
+url = "/telepatia.html"
+title = "Telepatia"
+
+[[input.files]]
+path = "telepatyczna-wiez-raryego.html"
+url = "/telepatyczna-wiez-raryego.html"
+title = "Telepatyczna więź rary'ego"
+
+[[input.files]]
+path = "teleportacja.html"
+url = "/teleportacja.html"
+title = "Teleportacja"
+
+[[input.files]]
+path = "tluszcz.html"
+url = "/tluszcz.html"
+title = "Tłuszcz"
+
+[[input.files]]
+path = "tom-jasnych-mysli.html"
+url = "/tom-jasnych-mysli.html"
+title = "Tom jasnych myśli"
+
+[[input.files]]
+path = "tom-o-przywodztwie-i-wplywach.html"
+url = "/tom-o-przywodztwie-i-wplywach.html"
+title = "Tom o przywództwie i wpływach"
+
+[[input.files]]
+path = "tom-zrozumienia.html"
+url = "/tom-zrozumienia.html"
+title = "Tom zrozumienia"
+
+[[input.files]]
+path = "tome-of-the-stilled-tongue.html"
+url = "/tome-of-the-stilled-tongue.html"
+title = "Tome of the stilled tongue"
+
+[[input.files]]
+path = "topor-berserka.html"
+url = "/topor-berserka.html"
+title = "Topór berserka"
+
+[[input.files]]
+path = "topor-krasnoludzkich-wladcow.html"
+url = "/topor-krasnoludzkich-wladcow.html"
+title = "Topór krasnoludzkich władców"
+
+[[input.files]]
+path = "torba-pozeracza.html"
+url = "/torba-pozeracza.html"
+title = "Torba pożeracza"
+
+[[input.files]]
+path = "traba-powietrzna.html"
+url = "/traba-powietrzna.html"
+title = "Trąba powietrzna"
+
+[[input.files]]
+path = "trujacy-rozprysk.html"
+url = "/trujacy-rozprysk.html"
+title = "Trujący rozprysk"
+
+[[input.files]]
+path = "trzask.html"
+url = "/trzask.html"
+title = "Trzask"
+
+[[input.files]]
+path = "trzesienie-ziemi.html"
+url = "/trzesienie-ziemi.html"
+title = "Trzęsienie ziemi"
+
+[[input.files]]
+path = "trzewiki-wspinaczkowe-z-pajakiem.html"
+url = "/trzewiki-wspinaczkowe-z-pajakiem.html"
+title = "Trzewiki wspinaczkowe z pająkiem"
+
+[[input.files]]
+path = "tsunami.html"
+url = "/tsunami.html"
+title = "Tsunami"
+
+[[input.files]]
+path = "uczta-bohaterow.html"
+url = "/uczta-bohaterow.html"
+title = "Uczta bohaterów"
+
+[[input.files]]
+path = "uderzenie-stalowego-wichru.html"
+url = "/uderzenie-stalowego-wichru.html"
+title = "Uderzenie stalowego wichru"
+
+[[input.files]]
+path = "uderzenie-zefiru.html"
+url = "/uderzenie-zefiru.html"
+title = "Uderzenie zefiru"
+
+[[input.files]]
+path = "uleczenie.html"
+url = "/uleczenie.html"
+title = "Uleczenie"
+
+[[input.files]]
+path = "unieruchomienie-osoby.html"
+url = "/unieruchomienie-osoby.html"
+title = "Unieruchomienie osoby"
+
+[[input.files]]
+path = "unieruchomienie-potwora.html"
+url = "/unieruchomienie-potwora.html"
+title = "Unieruchomienie potwora"
+
+[[input.files]]
+path = "urocza-laska.html"
+url = "/urocza-laska.html"
+title = "Urocza laska"
+
+[[input.files]]
+path = "urojona-sila.html"
+url = "/urojona-sila.html"
+title = "Urojona siła"
+
+[[input.files]]
+path = "urojony-zabojca.html"
+url = "/urojony-zabojca.html"
+title = "Urojony zabójca"
+
+[[input.files]]
+path = "urok.html"
+url = "/urok.html"
+title = "Urok"
+
+[[input.files]]
+path = "uspienie.html"
+url = "/uspienie.html"
+title = "Uśpienie"
+
+[[input.files]]
+path = "uwiezienie.html"
+url = "/uwiezienie.html"
+title = "Uwięzienie"
+
+[[input.files]]
+path = "uzdrawiajaca-modlitwa.html"
+url = "/uzdrawiajaca-modlitwa.html"
+title = "Uzdrawiająca modlitwa"
+
+[[input.files]]
+path = "uzdrawiajacy-duch.html"
+url = "/uzdrawiajacy-duch.html"
+title = "Uzdrawiający duch"
+
+[[input.files]]
+path = "uziemienie.html"
+url = "/uziemienie.html"
+title = "Uziemienie"
+
+[[input.files]]
+path = "wampiryczny-dotyk.html"
+url = "/wampiryczny-dotyk.html"
+title = "Wampiryczny dotyk"
+
+[[input.files]]
+path = "wedrujacy-dysk-tensera.html"
+url = "/wedrujacy-dysk-tensera.html"
+title = "Wędrujący dysk tensera"
+
+[[input.files]]
+path = "wentylator-wiatrowy.html"
+url = "/wentylator-wiatrowy.html"
+title = "Wentylator wiatrowy"
+
+[[input.files]]
+path = "wezwanie-blyskawicy.html"
+url = "/wezwanie-blyskawicy.html"
+title = "Wezwanie błyskawicy"
+
+[[input.files]]
+path = "whelm.html"
+url = "/whelm.html"
+title = "Whelm"
+
+[[input.files]]
+path = "wiadomosc.html"
+url = "/wiadomosc.html"
+title = "Wiadomość"
+
+[[input.files]]
+path = "widmowy-wierzchowiec.html"
+url = "/widmowy-wierzchowiec.html"
+title = "Widmowy wierzchowiec"
+
+[[input.files]]
+path = "widzenie-niewidzialnego.html"
+url = "/widzenie-niewidzialnego.html"
+title = "Widzenie niewidzialnego"
+
+[[input.files]]
+path = "widzenie-w-ciemnosci.html"
+url = "/widzenie-w-ciemnosci.html"
+title = "Widzenie w ciemności"
+
+[[input.files]]
+path = "wieczny-ogien.html"
+url = "/wieczny-ogien.html"
+title = "Wieczny ogień"
+
+[[input.files]]
+path = "wiedzmi-pocisk.html"
+url = "/wiedzmi-pocisk.html"
+title = "Wiedźmi pocisk"
+
+[[input.files]]
+path = "wieksza-niewidzialnosc.html"
+url = "/wieksza-niewidzialnosc.html"
+title = "Większa niewidzialność"
+
+[[input.files]]
+path = "wieksze-przywrocenie.html"
+url = "/wieksze-przywrocenie.html"
+title = "Większe przywrócenie"
+
+[[input.files]]
+path = "wiekszy-obraz.html"
+url = "/wiekszy-obraz.html"
+title = "Większy obraz"
+
+[[input.files]]
+path = "wierny-ogar-mordenkainena.html"
+url = "/wierny-ogar-mordenkainena.html"
+title = "Wierny ogar mordenkainena"
+
+[[input.files]]
+path = "wieszczenie.html"
+url = "/wieszczenie.html"
+title = "Wieszczenie"
+
+[[input.files]]
+path = "wiez-z-bestia.html"
+url = "/wiez-z-bestia.html"
+title = "Więź z bestią"
+
+[[input.files]]
+path = "wiezienie-duszy.html"
+url = "/wiezienie-duszy.html"
+title = "Więzienie duszy"
+
+[[input.files]]
+path = "wizja.html"
+url = "/wizja.html"
+title = "Wizja"
+
+[[input.files]]
+path = "wodna-kula.html"
+url = "/wodna-kula.html"
+title = "Wodna kula"
+
+[[input.files]]
+path = "worek-fasoli.html"
+url = "/worek-fasoli.html"
+title = "Worek fasoli"
+
+[[input.files]]
+path = "worek-sztuczek.html"
+url = "/worek-sztuczek.html"
+title = "Worek sztuczek"
+
+[[input.files]]
+path = "wrozba.html"
+url = "/wrozba.html"
+title = "Wróżba"
+
+[[input.files]]
+path = "wscieklosc-natury.html"
+url = "/wscieklosc-natury.html"
+title = "Wściekłość natury"
+
+[[input.files]]
+path = "wskazowki.html"
+url = "/wskazowki.html"
+title = "Wskazówki"
+
+[[input.files]]
+path = "wskrzeszenie.html"
+url = "/wskrzeszenie.html"
+title = "Wskrzeszenie"
+
+[[input.files]]
+path = "wspaniala-posiadlosc-mordenkainena.html"
+url = "/wspaniala-posiadlosc-mordenkainena.html"
+title = "Wspaniała posiadłość mordenkainena"
+
+[[input.files]]
+path = "wstrzas-ziemi.html"
+url = "/wstrzas-ziemi.html"
+title = "Wstrząs ziemi"
+
+[[input.files]]
+path = "wstrzasajace-ugodzenie.html"
+url = "/wstrzasajace-ugodzenie.html"
+title = "Wstrząsające ugodzenie"
+
+[[input.files]]
+path = "wtopienie-w-kamien.html"
+url = "/wtopienie-w-kamien.html"
+title = "Wtopienie w kamień"
+
+[[input.files]]
+path = "wybuch-ziemi.html"
+url = "/wybuch-ziemi.html"
+title = "Wybuch ziemi"
+
+[[input.files]]
+path = "wyciszenie-emocji.html"
+url = "/wyciszenie-emocji.html"
+title = "Wyciszenie emocji"
+
+[[input.files]]
+path = "wykrycie-dobra-i-zla.html"
+url = "/wykrycie-dobra-i-zla.html"
+title = "Wykrycie dobra i zła"
+
+[[input.files]]
+path = "wykrycie-magii.html"
+url = "/wykrycie-magii.html"
+title = "Wykrycie magii"
+
+[[input.files]]
+path = "wykrycie-mysli.html"
+url = "/wykrycie-mysli.html"
+title = "Wykrycie myśli"
+
+[[input.files]]
+path = "wykrycie-pulapek.html"
+url = "/wykrycie-pulapek.html"
+title = "Wykrycie pułapek"
+
+[[input.files]]
+path = "wykrycie-trucizny-i-choroby.html"
+url = "/wykrycie-trucizny-i-choroby.html"
+title = "Wykrycie trucizny i choroby"
+
+[[input.files]]
+path = "wylaczenie.html"
+url = "/wylaczenie.html"
+title = "Wyłączenie"
+
+[[input.files]]
+path = "wylew-negatywnej-energii.html"
+url = "/wylew-negatywnej-energii.html"
+title = "Wylew negatywnej energii"
+
+[[input.files]]
+path = "wypalajacy-promien.html"
+url = "/wypalajacy-promien.html"
+title = "Wypalający promień"
+
+[[input.files]]
+path = "wypedzajace-ugodzenie.html"
+url = "/wypedzajace-ugodzenie.html"
+title = "Wypędzające ugodzenie"
+
+[[input.files]]
+path = "wypedzenie.html"
+url = "/wypedzenie.html"
+title = "Wypędzenie"
+
+[[input.files]]
+path = "wysylanie-kamieni.html"
+url = "/wysylanie-kamieni.html"
+title = "Wysyłanie kamieni"
+
+[[input.files]]
+path = "wywolanie-plomienia.html"
+url = "/wywolanie-plomienia.html"
+title = "Wywołanie płomienia"
+
+[[input.files]]
+path = "wzmocnienie-cechy.html"
+url = "/wzmocnienie-cechy.html"
+title = "Wzmocnienie cechy"
+
+[[input.files]]
+path = "wzmocnienie-umiejetnosci.html"
+url = "/wzmocnienie-umiejetnosci.html"
+title = "Wzmocnienie umiejętności"
+
+[[input.files]]
+path = "wzrost-kolcow.html"
+url = "/wzrost-kolcow.html"
+title = "Wzrost kolców"
+
+[[input.files]]
+path = "zabojcza-chmura.html"
+url = "/zabojcza-chmura.html"
+title = "Zabójcza chmura"
+
+[[input.files]]
+path = "zadawanie-ran.html"
+url = "/zadawanie-ran.html"
+title = "Zadawanie ran"
+
+[[input.files]]
+path = "zamet.html"
+url = "/zamet.html"
+title = "Zamęt"
+
+[[input.files]]
+path = "zaplanowana-iluzja.html"
+url = "/zaplanowana-iluzja.html"
+title = "Zaplanowana iluzja"
+
+[[input.files]]
+path = "zaraza.html"
+url = "/zaraza.html"
+title = "Zaraza"
+
+[[input.files]]
+path = "zastraszenie.html"
+url = "/zastraszenie.html"
+title = "Zastraszenie"
+
+[[input.files]]
+path = "zatrzymanie-czasu.html"
+url = "/zatrzymanie-czasu.html"
+title = "Zatrzymanie czasu"
+
+[[input.files]]
+path = "zauroczenie-osoby.html"
+url = "/zauroczenie-osoby.html"
+title = "Zauroczenie osoby"
+
+[[input.files]]
+path = "zauroczenie-potwora.html"
+url = "/zauroczenie-potwora.html"
+title = "Zauroczenie potwora"
+
+[[input.files]]
+path = "zbroja-agathys.html"
+url = "/zbroja-agathys.html"
+title = "Zbroja agathys"
+
+[[input.files]]
+path = "zbroja-demona.html"
+url = "/zbroja-demona.html"
+title = "Zbroja demona"
+
+[[input.files]]
+path = "zbroja-maga.html"
+url = "/zbroja-maga.html"
+title = "Zbroja maga"
+
+[[input.files]]
+path = "zbroja-marinera.html"
+url = "/zbroja-marinera.html"
+title = "Zbroja Marinera"
+
+[[input.files]]
+path = "zbroja-wrazliwosci.html"
+url = "/zbroja-wrazliwosci.html"
+title = "Zbroja wrażliwości"
+
+[[input.files]]
+path = "zdjecie-klatwy.html"
+url = "/zdjecie-klatwy.html"
+title = "Zdjęcie klątwy"
+
+[[input.files]]
+path = "zelazna-kolba.html"
+url = "/zelazna-kolba.html"
+title = "Żelazna kolba"
+
+[[input.files]]
+path = "zelazne-pasma-bilarro.html"
+url = "/zelazne-pasma-bilarro.html"
+title = "Żelazne pasma bilarro"
+
+[[input.files]]
+path = "zeton-piora-quaala.html"
+url = "/zeton-piora-quaala.html"
+title = "Żeton pióra Quaala"
+
+[[input.files]]
+path = "zguba.html"
+url = "/zguba.html"
+title = "Zguba"
+
+[[input.files]]
+path = "ziemny-uscisk-maximiliana.html"
+url = "/ziemny-uscisk-maximiliana.html"
+title = "Ziemny uścisk maximiliana"
+
+[[input.files]]
+path = "zjadliwe-szyderstwo.html"
+url = "/zjadliwe-szyderstwo.html"
+title = "Zjadliwe szyderstwo"
+
+[[input.files]]
+path = "zlodziejskie-rekawice.html"
+url = "/zlodziejskie-rekawice.html"
+title = "Złodziejskie rękawice"
+
+[[input.files]]
+path = "zmartwychwstanie.html"
+url = "/zmartwychwstanie.html"
+title = "Zmartwychwstanie"
+
+[[input.files]]
+path = "zmiana-siebie.html"
+url = "/zmiana-siebie.html"
+title = "Zmiana siebie"
+
+[[input.files]]
+path = "zmiennoksztaltnosc.html"
+url = "/zmiennoksztaltnosc.html"
+title = "Zmiennokształtność"
+
+[[input.files]]
+path = "zmylka.html"
+url = "/zmylka.html"
+title = "Zmyłka"
+
+[[input.files]]
+path = "znak-lowcy.html"
+url = "/znak-lowcy.html"
+title = "Znak łowcy"
+
+[[input.files]]
+path = "znalezienie-chowanca.html"
+url = "/znalezienie-chowanca.html"
+title = "Znalezienie chowańca"
+
+[[input.files]]
+path = "znalezienie-potezniejszego-wierzchowga.html"
+url = "/znalezienie-potezniejszego-wierzchowga.html"
+title = "Znalezienie potężniejszego wierzchowga"
+
+[[input.files]]
+path = "znalezienie-wierzchowca.html"
+url = "/znalezienie-wierzchowca.html"
+title = "Znalezienie wierzchowca"
+
+[[input.files]]
+path = "zraca-kula.html"
+url = "/zraca-kula.html"
+title = "Żrąca kula"
+
+[[input.files]]
+path = "zwierzece-ksztalty.html"
+url = "/zwierzece-ksztalty.html"
+title = "Zwierzęce kształty"
+
+[[input.files]]
+path = "zwierzece-zmysly.html"
+url = "/zwierzece-zmysly.html"
+title = "Zwierzęce zmysły"
+
+[[input.files]]
+path = "zwierzecy-poslaniec.html"
+url = "/zwierzecy-poslaniec.html"
+title = "Zwierzęcy posłaniec"
+
+[[input.files]]
+path = "zwoj-ochrony.html"
+url = "/zwoj-ochrony.html"
+title = "Zwój ochrony"
+
+[[input.files]]
+path = "zwoj-zaklec.html"
+url = "/zwoj-zaklec.html"
+title = "Zwój zaklęć"
+
+[[input.files]]
+path = "zwoj-zaklecia-1-poziom.html"
+url = "/zwoj-zaklecia-1-poziom.html"
+title = "Zwój zaklęcia (1. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-2-poziom.html"
+url = "/zwoj-zaklecia-2-poziom.html"
+title = "Zwój zaklęcia (2. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-3-poziom.html"
+url = "/zwoj-zaklecia-3-poziom.html"
+title = "Zwój zaklęcia (3. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-4-poziom.html"
+url = "/zwoj-zaklecia-4-poziom.html"
+title = "Zwój zaklęcia (4. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-5-poziom.html"
+url = "/zwoj-zaklecia-5-poziom.html"
+title = "Zwój zaklęcia (5. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-6-poziom.html"
+url = "/zwoj-zaklecia-6-poziom.html"
+title = "Zwój zaklęcia (6. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-7-poziom.html"
+url = "/zwoj-zaklecia-7-poziom.html"
+title = "Zwój zaklęcia (7. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-8-poziom.html"
+url = "/zwoj-zaklecia-8-poziom.html"
+title = "Zwój zaklęcia (8. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-9-poziom.html"
+url = "/zwoj-zaklecia-9-poziom.html"
+title = "Zwój zaklęcia (9. poziom)"
+
+[[input.files]]
+path = "zwoj-zaklecia-cantrip.html"
+url = "/zwoj-zaklecia-cantrip.html"
+title = "Zwój zaklęcia (cantrip)"
+
+[[input.files]]
+path = "zyczenie.html"
+url = "/zyczenie.html"
+title = "Życzenie"
+
+[[input.files]]
+path = "zywiol-zguby.html"
+url = "/zywiol-zguby.html"
+title = "Żywioł zguby"
+

@@ -17,6 +17,12 @@
         href="https://ciszko.github.io/DnDHelp/feeds/all.atom.xml"
         type="application/atom+xml" rel="alternate" title="DnDHelp Full Atom Feed" />
     <link rel="shortcut icon" type="image/png" href="https://ciszko.github.io/DnDHelp/favicon.ico">
+    <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
+    <link
+        rel="stylesheet"
+        media="screen and (prefers-color-scheme: dark)"
+        href="https://files.stork-search.net/dark.css"
+    />
 </head>
 
 <body style="margin-bottom: 60px;">
@@ -33,13 +39,19 @@
                 <a class="nav-link border-bottom" href="https://ciszko.github.io/DnDHelp/category/przedmioty.html">przedmioty</a>
                 </li>
         </ul>
+        <div class="row g-3 justify-content-center">
+            <div class="col-auto">
+                <input data-stork="sitesearch" placeholder="Szukajka" type="text" class="form-control form-control-sm">
+            </div>
+        <div data-stork="sitesearch-output"></div>
+        </div>
     </header>
 
     <main>
         <div class="container">
 
 <div class="row justify-content-center">
-<div class="col-md-8 align-self-center">
+<div class="col-md-8 align-self-center pt-3 border-top">
     <h1 class="my-4 text-center">Czary 7 kręgu</h1>
     <ul>
         <li class="active"><a href="https://ciszko.github.io/DnDHelp/burza-ognia.html">Burza ognia</a>
@@ -110,6 +122,11 @@
             </div>
             </div>
     </footer>
+
+    <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+    <script>
+        stork.register("sitesearch", "https://ciszko.github.io/DnDHelp/search-index.st");
+    </script>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
         integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
