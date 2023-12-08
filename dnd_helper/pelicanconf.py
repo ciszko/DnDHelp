@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-PLUGINS = ["dnd_parser.dnd_parser"]
+PLUGINS = ["plugins.dnd_parser", "plugins.search"]
 THEME = BASE_DIR / "themes" / "DnD"
 
 STATIC_PATHS = ["images", "extra"]
