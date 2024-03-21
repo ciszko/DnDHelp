@@ -3,4076 +3,4076 @@ html_selector = "main"
 base_directory = "output"
 [[input.files]]
 path = "adamantynowa-zbroja.html"
-url = "/adamantynowa-zbroja.html"
+url = "/DnDHelp/adamantynowa-zbroja.html"
 title = "Adamantynowa zbroja"
 
 [[input.files]]
 path = "alarm.html"
-url = "/alarm.html"
+url = "/DnDHelp/alarm.html"
 title = "Alarm"
 
 [[input.files]]
 path = "alchemy-jug.html"
-url = "/alchemy-jug.html"
+url = "/DnDHelp/alchemy-jug.html"
 title = "Alchemy jug"
 
 [[input.files]]
 path = "amulet-chroniacy-przed-wykryciem-i-lokalizacja.html"
-url = "/amulet-chroniacy-przed-wykryciem-i-lokalizacja.html"
+url = "/DnDHelp/amulet-chroniacy-przed-wykryciem-i-lokalizacja.html"
 title = "Amulet chroniący przed wykryciem i lokalizacją"
 
 [[input.files]]
 path = "amulet-samolotow.html"
-url = "/amulet-samolotow.html"
+url = "/DnDHelp/amulet-samolotow.html"
 title = "Amulet samolotów"
 
 [[input.files]]
 path = "amulet-zdrowia.html"
-url = "/amulet-zdrowia.html"
+url = "/DnDHelp/amulet-zdrowia.html"
 title = "Amulet zdrowia"
 
 [[input.files]]
 path = "amunicja-1.html"
-url = "/amunicja-1.html"
+url = "/DnDHelp/amunicja-1.html"
 title = "Amunicja +1"
 
 [[input.files]]
 path = "amunicja-1-2-lub-3.html"
-url = "/amunicja-1-2-lub-3.html"
+url = "/DnDHelp/amunicja-1-2-lub-3.html"
 title = "Amunicja +1, +2 lub +3"
 
 [[input.files]]
 path = "amunicja-2.html"
-url = "/amunicja-2.html"
+url = "/DnDHelp/amunicja-2.html"
 title = "Amunicja +2"
 
 [[input.files]]
 path = "amunicja-3.html"
-url = "/amunicja-3.html"
+url = "/DnDHelp/amunicja-3.html"
 title = "Amunicja +3"
 
 [[input.files]]
 path = "animowana-tarcza.html"
-url = "/animowana-tarcza.html"
+url = "/DnDHelp/animowana-tarcza.html"
 title = "Animowana tarcza"
 
 [[input.files]]
 path = "animowanie-obiektu.html"
-url = "/animowanie-obiektu.html"
+url = "/DnDHelp/animowanie-obiektu.html"
 title = "Animowanie obiektu"
 
 [[input.files]]
 path = "animowanie-zmarlego.html"
-url = "/animowanie-zmarlego.html"
+url = "/DnDHelp/animowanie-zmarlego.html"
 title = "Animowanie zmarłego"
 
 [[input.files]]
 path = "antypatia_sympatia.html"
-url = "/antypatia_sympatia.html"
+url = "/DnDHelp/antypatia_sympatia.html"
 title = "Antypatia_sympatia"
 
 [[input.files]]
 path = "aparatura-jakosciowa.html"
-url = "/aparatura-jakosciowa.html"
+url = "/DnDHelp/aparatura-jakosciowa.html"
 title = "Aparatura jakościowa"
 
 [[input.files]]
 path = "aura-czystosci.html"
-url = "/aura-czystosci.html"
+url = "/DnDHelp/aura-czystosci.html"
 title = "Aura czystości"
 
 [[input.files]]
 path = "aura-witalnosci.html"
-url = "/aura-witalnosci.html"
+url = "/DnDHelp/aura-witalnosci.html"
 title = "Aura witalności"
 
 [[input.files]]
 path = "aura-zycia.html"
-url = "/aura-zycia.html"
+url = "/DnDHelp/aura-zycia.html"
 title = "Aura życia"
 
 [[input.files]]
 path = "automatyczny-kolczan.html"
-url = "/automatyczny-kolczan.html"
+url = "/DnDHelp/automatyczny-kolczan.html"
 title = "Automatyczny kołczan"
 
 [[input.files]]
 path = "bag-of-holding.html"
-url = "/bag-of-holding.html"
+url = "/DnDHelp/bag-of-holding.html"
 title = "Bag of holding"
 
 [[input.files]]
 path = "bariera-ostrzy.html"
-url = "/bariera-ostrzy.html"
+url = "/DnDHelp/bariera-ostrzy.html"
 title = "Bariera ostrzy"
 
 [[input.files]]
 path = "bariera-przeciw-zyciu.html"
-url = "/bariera-przeciw-zyciu.html"
+url = "/DnDHelp/bariera-przeciw-zyciu.html"
 title = "Bariera przeciw życiu"
 
 [[input.files]]
 path = "barwna-kula.html"
-url = "/barwna-kula.html"
+url = "/DnDHelp/barwna-kula.html"
 title = "Barwna kula"
 
 [[input.files]]
 path = "bezpieczny-spoczynek.html"
-url = "/bezpieczny-spoczynek.html"
+url = "/DnDHelp/bezpieczny-spoczynek.html"
 title = "Bezpieczny spoczynek"
 
 [[input.files]]
 path = "blackrazor.html"
-url = "/blackrazor.html"
+url = "/DnDHelp/blackrazor.html"
 title = "Blackrazor"
 
 [[input.files]]
 path = "blask-faerie.html"
-url = "/blask-faerie.html"
+url = "/DnDHelp/blask-faerie.html"
 title = "Blask faerie"
 
 [[input.files]]
 path = "blogoslawienstwo.html"
-url = "/blogoslawienstwo.html"
+url = "/DnDHelp/blogoslawienstwo.html"
 title = "Błogosławieństwo"
 
 [[input.files]]
 path = "blyskawiczne-przywolanie-drawmija.html"
-url = "/blyskawiczne-przywolanie-drawmija.html"
+url = "/DnDHelp/blyskawiczne-przywolanie-drawmija.html"
 title = "Błyskawiczne przywołanie drawmija"
 
 [[input.files]]
 path = "blyskawiczny-odwrot.html"
-url = "/blyskawiczny-odwrot.html"
+url = "/DnDHelp/blyskawiczny-odwrot.html"
 title = "Błyskawiczny odwrót"
 
 [[input.files]]
 path = "boska-laska.html"
-url = "/boska-laska.html"
+url = "/DnDHelp/boska-laska.html"
 title = "Boska łaska"
 
 [[input.files]]
 path = "brama.html"
-url = "/brama.html"
+url = "/DnDHelp/brama.html"
 title = "Brama"
 
 [[input.files]]
 path = "bramka-szescienna.html"
-url = "/bramka-szescienna.html"
+url = "/DnDHelp/bramka-szescienna.html"
 title = "Bramka sześcienna"
 
 [[input.files]]
 path = "bron-1.html"
-url = "/bron-1.html"
+url = "/DnDHelp/bron-1.html"
 title = "Broń +1"
 
 [[input.files]]
 path = "bron-1-2-lub-3.html"
-url = "/bron-1-2-lub-3.html"
+url = "/DnDHelp/bron-1-2-lub-3.html"
 title = "Broń +1, +2 lub +3"
 
 [[input.files]]
 path = "bron-2.html"
-url = "/bron-2.html"
+url = "/DnDHelp/bron-2.html"
 title = "Broń +2"
 
 [[input.files]]
 path = "bron-3.html"
-url = "/bron-3.html"
+url = "/DnDHelp/bron-3.html"
 title = "Broń +3"
 
 [[input.files]]
 path = "bron-ostrzegawcza.html"
-url = "/bron-ostrzegawcza.html"
+url = "/DnDHelp/bron-ostrzegawcza.html"
 title = "Broń ostrzegawcza"
 
 [[input.files]]
 path = "bron-zywiolu.html"
-url = "/bron-zywiolu.html"
+url = "/DnDHelp/bron-zywiolu.html"
 title = "Broń żywiołu"
 
 [[input.files]]
 path = "broszka-oslony.html"
-url = "/broszka-oslony.html"
+url = "/DnDHelp/broszka-oslony.html"
 title = "Broszka osłony"
 
 [[input.files]]
 path = "burza-lodu.html"
-url = "/burza-lodu.html"
+url = "/DnDHelp/burza-lodu.html"
 title = "Burza lodu"
 
 [[input.files]]
 path = "burza-ognia.html"
-url = "/burza-ognia.html"
+url = "/DnDHelp/burza-ognia.html"
 title = "Burza ognia"
 
 [[input.files]]
 path = "burza-zemsty.html"
-url = "/burza-zemsty.html"
+url = "/DnDHelp/burza-zemsty.html"
 title = "Burza zemsty"
 
 [[input.files]]
 path = "burzowa-kula.html"
-url = "/burzowa-kula.html"
+url = "/DnDHelp/burzowa-kula.html"
 title = "Burzowa kula"
 
 [[input.files]]
 path = "butelka-efreeti.html"
-url = "/butelka-efreeti.html"
+url = "/DnDHelp/butelka-efreeti.html"
 title = "Butelka Efreeti"
 
 [[input.files]]
 path = "butelka-eversmoking.html"
-url = "/butelka-eversmoking.html"
+url = "/DnDHelp/butelka-eversmoking.html"
 title = "Butelka Eversmoking"
 
 [[input.files]]
 path = "buty-elfow.html"
-url = "/buty-elfow.html"
+url = "/DnDHelp/buty-elfow.html"
 title = "Buty elfów"
 
 [[input.files]]
 path = "buty-kroczace-i-sprezynujace.html"
-url = "/buty-kroczace-i-sprezynujace.html"
+url = "/DnDHelp/buty-kroczace-i-sprezynujace.html"
 title = "Buty kroczące i sprężynujące"
 
 [[input.files]]
 path = "buty-lewitacji.html"
-url = "/buty-lewitacji.html"
+url = "/DnDHelp/buty-lewitacji.html"
 title = "Buty lewitacji"
 
 [[input.files]]
 path = "buty-predkosci.html"
-url = "/buty-predkosci.html"
+url = "/DnDHelp/buty-predkosci.html"
 title = "Buty prędkości"
 
 [[input.files]]
 path = "buty-z-zimowych-krain.html"
-url = "/buty-z-zimowych-krain.html"
+url = "/DnDHelp/buty-z-zimowych-krain.html"
 title = "Buty z zimowych krain"
 
 [[input.files]]
 path = "buty-ze-skrzydlami.html"
-url = "/buty-ze-skrzydlami.html"
+url = "/DnDHelp/buty-ze-skrzydlami.html"
 title = "Buty ze skrzydłami"
 
 [[input.files]]
 path = "buzdygan-terroru.html"
-url = "/buzdygan-terroru.html"
+url = "/DnDHelp/buzdygan-terroru.html"
 title = "Buzdygan terroru"
 
 [[input.files]]
 path = "buzdygan-zaklocen.html"
-url = "/buzdygan-zaklocen.html"
+url = "/DnDHelp/buzdygan-zaklocen.html"
 title = "Buzdygan zakłóceń"
 
 [[input.files]]
 path = "cela-mocy.html"
-url = "/cela-mocy.html"
+url = "/DnDHelp/cela-mocy.html"
 title = "Cela mocy"
 
 [[input.files]]
 path = "ceremonia.html"
-url = "/ceremonia.html"
+url = "/DnDHelp/ceremonia.html"
 title = "Ceremonia"
 
 [[input.files]]
 path = "chaotyczny-pocisk.html"
-url = "/chaotyczny-pocisk.html"
+url = "/DnDHelp/chaotyczny-pocisk.html"
 title = "Chaotyczny pocisk"
 
 [[input.files]]
 path = "chatka-leomunda.html"
-url = "/chatka-leomunda.html"
+url = "/DnDHelp/chatka-leomunda.html"
 title = "Chatka leomunda"
 
 [[input.files]]
 path = "chmura-mgly.html"
-url = "/chmura-mgly.html"
+url = "/DnDHelp/chmura-mgly.html"
 title = "Chmura mgły"
 
 [[input.files]]
 path = "chmura-sztyletow.html"
-url = "/chmura-sztyletow.html"
+url = "/DnDHelp/chmura-sztyletow.html"
 title = "Chmura sztyletów"
 
 [[input.files]]
 path = "chmura-zaru.html"
-url = "/chmura-zaru.html"
+url = "/DnDHelp/chmura-zaru.html"
 title = "Chmura żaru"
 
 [[input.files]]
 path = "chwytne-pnacze.html"
-url = "/chwytne-pnacze.html"
+url = "/DnDHelp/chwytne-pnacze.html"
 title = "Chwytne pnącze"
 
 [[input.files]]
 path = "cialo-w-kamien.html"
-url = "/cialo-w-kamien.html"
+url = "/DnDHelp/cialo-w-kamien.html"
 title = "Ciało w kamień"
 
 [[input.files]]
 path = "ciemnosc.html"
-url = "/ciemnosc.html"
+url = "/DnDHelp/ciemnosc.html"
 title = "Ciemność"
 
 [[input.files]]
 path = "ciemnosc-obledu.html"
-url = "/ciemnosc-obledu.html"
+url = "/DnDHelp/ciemnosc-obledu.html"
 title = "Ciemność obłędu"
 
 [[input.files]]
 path = "cieniste-formowanie.html"
-url = "/cieniste-formowanie.html"
+url = "/DnDHelp/cieniste-formowanie.html"
 title = "Cieniste formowanie"
 
 [[input.files]]
 path = "cieniste-ostrze.html"
-url = "/cieniste-ostrze.html"
+url = "/DnDHelp/cieniste-ostrze.html"
 title = "Cieniste ostrze"
 
 [[input.files]]
 path = "cierniowy-bicz.html"
-url = "/cierniowy-bicz.html"
+url = "/DnDHelp/cierniowy-bicz.html"
 title = "Cierniowy bicz"
 
 [[input.files]]
 path = "cisza.html"
-url = "/cisza.html"
+url = "/DnDHelp/cisza.html"
 title = "Cisza"
 
 [[input.files]]
 path = "cudowne-pigmenty-nolzur.html"
-url = "/cudowne-pigmenty-nolzur.html"
+url = "/DnDHelp/cudowne-pigmenty-nolzur.html"
 title = "Cudowne pigmenty Nolzur"
 
 [[input.files]]
 path = "czarne-macki-evarda.html"
-url = "/czarne-macki-evarda.html"
+url = "/DnDHelp/czarne-macki-evarda.html"
 title = "Czarne macki evarda"
 
 [[input.files]]
 path = "czysty-umysl.html"
-url = "/czysty-umysl.html"
+url = "/DnDHelp/czysty-umysl.html"
 title = "Czysty umysł"
 
 [[input.files]]
 path = "daleki-krok.html"
-url = "/daleki-krok.html"
+url = "/DnDHelp/daleki-krok.html"
 title = "Daleki krok"
 
 [[input.files]]
 path = "danse-macabre.html"
-url = "/danse-macabre.html"
+url = "/DnDHelp/danse-macabre.html"
 title = "Danse macabre"
 
 [[input.files]]
 path = "demisfera.html"
-url = "/demisfera.html"
+url = "/DnDHelp/demisfera.html"
 title = "Demisfera"
 
 [[input.files]]
 path = "dezintegracja.html"
-url = "/dezintegracja.html"
+url = "/DnDHelp/dezintegracja.html"
 title = "Dezintegracja"
 
 [[input.files]]
 path = "dlon-bigbyego.html"
-url = "/dlon-bigbyego.html"
+url = "/DnDHelp/dlon-bigbyego.html"
 title = "Dłoń bigby'ego"
 
 [[input.files]]
 path = "dobre-jagody.html"
-url = "/dobre-jagody.html"
+url = "/DnDHelp/dobre-jagody.html"
 title = "Dobre jagody"
 
 [[input.files]]
 path = "dominacja-nad-bestia.html"
-url = "/dominacja-nad-bestia.html"
+url = "/DnDHelp/dominacja-nad-bestia.html"
 title = "Dominacja nad bestią"
 
 [[input.files]]
 path = "dominacja-nad-osoba.html"
-url = "/dominacja-nad-osoba.html"
+url = "/DnDHelp/dominacja-nad-osoba.html"
 title = "Dominacja nad osobą"
 
 [[input.files]]
 path = "dominacja-nad-potworem.html"
-url = "/dominacja-nad-potworem.html"
+url = "/DnDHelp/dominacja-nad-potworem.html"
 title = "Dominacja nad potworem"
 
 [[input.files]]
 path = "dowodztwo-trojzebu-ryb.html"
-url = "/dowodztwo-trojzebu-ryb.html"
+url = "/DnDHelp/dowodztwo-trojzebu-ryb.html"
 title = "Dowództwo trójzębu ryb"
 
 [[input.files]]
 path = "driftglobe.html"
-url = "/driftglobe.html"
+url = "/DnDHelp/driftglobe.html"
 title = "Driftglobe"
 
 [[input.files]]
 path = "druidyczny-gaj.html"
-url = "/druidyczny-gaj.html"
+url = "/DnDHelp/druidyczny-gaj.html"
 title = "Druidyczny gaj"
 
 [[input.files]]
 path = "druidzkie-sztuczki.html"
-url = "/druidzkie-sztuczki.html"
+url = "/DnDHelp/druidzkie-sztuczki.html"
 title = "Druidzkie sztuczki"
 
 [[input.files]]
 path = "drzemka.html"
-url = "/drzemka.html"
+url = "/DnDHelp/drzemka.html"
 title = "Drzemka"
 
 [[input.files]]
 path = "drzwi-przez-wymiary.html"
-url = "/drzwi-przez-wymiary.html"
+url = "/DnDHelp/drzwi-przez-wymiary.html"
 title = "Drzwi przez wymiary"
 
 [[input.files]]
 path = "duchowa-bron.html"
-url = "/duchowa-bron.html"
+url = "/DnDHelp/duchowa-bron.html"
 title = "Duchowa broń"
 
 [[input.files]]
 path = "duchowi-straznicy.html"
-url = "/duchowi-straznicy.html"
+url = "/DnDHelp/duchowi-straznicy.html"
 title = "Duchowi strażnicy"
 
 [[input.files]]
 path = "dywan-latania.html"
-url = "/dywan-latania.html"
+url = "/DnDHelp/dywan-latania.html"
 title = "Dywan latania"
 
 [[input.files]]
 path = "dziwo.html"
-url = "/dziwo.html"
+url = "/DnDHelp/dziwo.html"
 title = "Dziwo"
 
 [[input.files]]
 path = "efektowna-skora-nabijana-cwiekami.html"
-url = "/efektowna-skora-nabijana-cwiekami.html"
+url = "/DnDHelp/efektowna-skora-nabijana-cwiekami.html"
 title = "Efektowna skóra nabijana ćwiekami"
 
 [[input.files]]
 path = "eliksir-bohaterstwa.html"
-url = "/eliksir-bohaterstwa.html"
+url = "/DnDHelp/eliksir-bohaterstwa.html"
 title = "Eliksir bohaterstwa"
 
 [[input.files]]
 path = "eliksir-przyjazni-dla-zwierzat.html"
-url = "/eliksir-przyjazni-dla-zwierzat.html"
+url = "/DnDHelp/eliksir-przyjazni-dla-zwierzat.html"
 title = "Eliksir przyjaźni dla zwierząt"
 
 [[input.files]]
 path = "eliksir-zdrowia.html"
-url = "/eliksir-zdrowia.html"
+url = "/DnDHelp/eliksir-zdrowia.html"
 title = "Eliksir zdrowia"
 
 [[input.files]]
 path = "elokwencja.html"
-url = "/elokwencja.html"
+url = "/DnDHelp/elokwencja.html"
 title = "Elokwencja"
 
 [[input.files]]
 path = "eterycznosc.html"
-url = "/eterycznosc.html"
+url = "/DnDHelp/eterycznosc.html"
 title = "Eteryczność"
 
 [[input.files]]
 path = "fala.html"
-url = "/fala.html"
+url = "/DnDHelp/fala.html"
 title = "Fala"
 
 [[input.files]]
 path = "fala-gromu.html"
-url = "/fala-gromu.html"
+url = "/DnDHelp/fala-gromu.html"
 title = "Fala gromu"
 
 [[input.files]]
 path = "fala-przyplywu.html"
-url = "/fala-przyplywu.html"
+url = "/DnDHelp/fala-przyplywu.html"
 title = "Fala przypływu"
 
 [[input.files]]
 path = "fala-zniszczenia.html"
-url = "/fala-zniszczenia.html"
+url = "/DnDHelp/fala-zniszczenia.html"
 title = "Fala zniszczenia"
 
 [[input.files]]
 path = "falszywe-podszepty.html"
-url = "/falszywe-podszepty.html"
+url = "/DnDHelp/falszywe-podszepty.html"
 title = "Fałszywe podszepty"
 
 [[input.files]]
 path = "falszywe-zycie.html"
-url = "/falszywe-zycie.html"
+url = "/DnDHelp/falszywe-zycie.html"
 title = "Fałszywe życie"
 
 [[input.files]]
 path = "fascynacja.html"
-url = "/fascynacja.html"
+url = "/DnDHelp/fascynacja.html"
 title = "Fascynacja"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-gryf-z-brazu.html"
-url = "/figurka-cudownej-mocy-gryf-z-brazu.html"
+url = "/DnDHelp/figurka-cudownej-mocy-gryf-z-brazu.html"
 title = "Figurka cudownej mocy (gryf z brązu)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-hebanowa-mucha.html"
-url = "/figurka-cudownej-mocy-hebanowa-mucha.html"
+url = "/DnDHelp/figurka-cudownej-mocy-hebanowa-mucha.html"
 title = "Figurka cudownej mocy (hebanowa mucha)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-koziol-z-kosci-sloniowej.html"
-url = "/figurka-cudownej-mocy-koziol-z-kosci-sloniowej.html"
+url = "/DnDHelp/figurka-cudownej-mocy-koziol-z-kosci-sloniowej.html"
 title = "Figurka cudownej mocy (kozioł z kości słoniowej)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-marmurowy-slon.html"
-url = "/figurka-cudownej-mocy-marmurowy-slon.html"
+url = "/DnDHelp/figurka-cudownej-mocy-marmurowy-slon.html"
 title = "Figurka cudownej mocy (marmurowy słoń)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-obsydianowy-rumak.html"
-url = "/figurka-cudownej-mocy-obsydianowy-rumak.html"
+url = "/DnDHelp/figurka-cudownej-mocy-obsydianowy-rumak.html"
 title = "Figurka cudownej mocy (obsydianowy rumak)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-pies-z-onyksu.html"
-url = "/figurka-cudownej-mocy-pies-z-onyksu.html"
+url = "/DnDHelp/figurka-cudownej-mocy-pies-z-onyksu.html"
 title = "Figurka cudownej mocy (pies z onyksu)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-srebrny-kruk.html"
-url = "/figurka-cudownej-mocy-srebrny-kruk.html"
+url = "/DnDHelp/figurka-cudownej-mocy-srebrny-kruk.html"
 title = "Figurka cudownej mocy (srebrny kruk)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-wezowa-sowa.html"
-url = "/figurka-cudownej-mocy-wezowa-sowa.html"
+url = "/DnDHelp/figurka-cudownej-mocy-wezowa-sowa.html"
 title = "Figurka cudownej mocy (wężowa sowa)"
 
 [[input.files]]
 path = "figurka-cudownej-mocy-zlote-lwy.html"
-url = "/figurka-cudownej-mocy-zlote-lwy.html"
+url = "/DnDHelp/figurka-cudownej-mocy-zlote-lwy.html"
 title = "Figurka cudownej mocy (złote lwy)"
 
 [[input.files]]
 path = "figurka-o-cudownej-mocy.html"
-url = "/figurka-o-cudownej-mocy.html"
+url = "/DnDHelp/figurka-o-cudownej-mocy.html"
 title = "Figurka o cudownej mocy"
 
 [[input.files]]
 path = "filtry-milosci.html"
-url = "/filtry-milosci.html"
+url = "/DnDHelp/filtry-milosci.html"
 title = "Filtry miłości"
 
 [[input.files]]
 path = "forma-gazowa.html"
-url = "/forma-gazowa.html"
+url = "/DnDHelp/forma-gazowa.html"
 title = "Forma gazowa"
 
 [[input.files]]
 path = "geas.html"
-url = "/geas.html"
+url = "/DnDHelp/geas.html"
 title = "Geas"
 
 [[input.files]]
 path = "glif-strazniczy.html"
-url = "/glif-strazniczy.html"
+url = "/DnDHelp/glif-strazniczy.html"
 title = "Glif strażniczy"
 
 [[input.files]]
 path = "glod-hadara.html"
-url = "/glod-hadara.html"
+url = "/DnDHelp/glod-hadara.html"
 title = "Głód hadara"
 
 [[input.files]]
 path = "gluchota_slepota.html"
-url = "/gluchota_slepota.html"
+url = "/DnDHelp/gluchota_slepota.html"
 title = "Głuchota_ślepota"
 
 [[input.files]]
 path = "gniewne-ugodzenie.html"
-url = "/gniewne-ugodzenie.html"
+url = "/DnDHelp/gniewne-ugodzenie.html"
 title = "Gniewne ugodzenie"
 
 [[input.files]]
 path = "gogle-nocy.html"
-url = "/gogle-nocy.html"
+url = "/DnDHelp/gogle-nocy.html"
 title = "Gogle nocy"
 
 [[input.files]]
 path = "gong-otwarcia.html"
-url = "/gong-otwarcia.html"
+url = "/DnDHelp/gong-otwarcia.html"
 title = "Gong otwarcia"
 
 [[input.files]]
 path = "grad-cierni.html"
-url = "/grad-cierni.html"
+url = "/DnDHelp/grad-cierni.html"
 title = "Grad cierni"
 
 [[input.files]]
 path = "gromiace-uderzenie.html"
-url = "/gromiace-uderzenie.html"
+url = "/DnDHelp/gromiace-uderzenie.html"
 title = "Gromiące uderzenie"
 
 [[input.files]]
 path = "grzmiacy-krok.html"
-url = "/grzmiacy-krok.html"
+url = "/DnDHelp/grzmiacy-krok.html"
 title = "Grzmiący krok"
 
 [[input.files]]
 path = "grzmot.html"
-url = "/grzmot.html"
+url = "/DnDHelp/grzmot.html"
 title = "Grzmot"
 
 [[input.files]]
 path = "gwiezdzista-korona.html"
-url = "/gwiezdzista-korona.html"
+url = "/DnDHelp/gwiezdzista-korona.html"
 title = "Gwieżdzista korona"
 
 [[input.files]]
 path = "helm-blasku.html"
-url = "/helm-blasku.html"
+url = "/DnDHelp/helm-blasku.html"
 title = "Hełm blasku"
 
 [[input.files]]
 path = "heroizm.html"
-url = "/heroizm.html"
+url = "/DnDHelp/heroizm.html"
 title = "Heroizm"
 
 [[input.files]]
 path = "hipnotyczny-wzor.html"
-url = "/hipnotyczny-wzor.html"
+url = "/DnDHelp/hipnotyczny-wzor.html"
 title = "Hipnotyczny wzór"
 
 [[input.files]]
 path = "identyfikacja.html"
-url = "/identyfikacja.html"
+url = "/DnDHelp/identyfikacja.html"
 title = "Identyfikacja"
 
 [[input.files]]
 path = "iluzoryczny-manuskrypt.html"
-url = "/iluzoryczny-manuskrypt.html"
+url = "/DnDHelp/iluzoryczny-manuskrypt.html"
 title = "Iluzoryczny manuskrypt"
 
 [[input.files]]
 path = "iluzoryczny-teren.html"
-url = "/iluzoryczny-teren.html"
+url = "/DnDHelp/iluzoryczny-teren.html"
 title = "Iluzoryczny teren"
 
 [[input.files]]
 path = "instrument-barda-fochlucan-bandore.html"
-url = "/instrument-barda-fochlucan-bandore.html"
+url = "/DnDHelp/instrument-barda-fochlucan-bandore.html"
 title = "Instrument barda (fochlucan bandore)"
 
 [[input.files]]
 path = "instrument-barda-harfa-anstrutha.html"
-url = "/instrument-barda-harfa-anstrutha.html"
+url = "/DnDHelp/instrument-barda-harfa-anstrutha.html"
 title = "Instrument barda (harfa anstrutha)"
 
 [[input.files]]
 path = "instrument-barda-harfa-ollamh.html"
-url = "/instrument-barda-harfa-ollamh.html"
+url = "/DnDHelp/instrument-barda-harfa-ollamh.html"
 title = "Instrument barda (harfa ollamh)"
 
 [[input.files]]
 path = "instrument-barda-lira-cli.html"
-url = "/instrument-barda-lira-cli.html"
+url = "/DnDHelp/instrument-barda-lira-cli.html"
 title = "Instrument barda (lira cli)"
 
 [[input.files]]
 path = "instrument-barda-lutnia-doss.html"
-url = "/instrument-barda-lutnia-doss.html"
+url = "/DnDHelp/instrument-barda-lutnia-doss.html"
 title = "Instrument barda (lutnia doss)"
 
 [[input.files]]
 path = "instrument-barda-mac-fuirmidh-cittern.html"
-url = "/instrument-barda-mac-fuirmidh-cittern.html"
+url = "/DnDHelp/instrument-barda-mac-fuirmidh-cittern.html"
 title = "Instrument barda (mac-fuirmidh cittern)"
 
 [[input.files]]
 path = "instrument-barda-mandolina-canaith.html"
-url = "/instrument-barda-mandolina-canaith.html"
+url = "/DnDHelp/instrument-barda-mandolina-canaith.html"
 title = "Instrument barda (mandolina canaith)"
 
 [[input.files]]
 path = "inwestytura-kamienia.html"
-url = "/inwestytura-kamienia.html"
+url = "/DnDHelp/inwestytura-kamienia.html"
 title = "Inwestytura kamienia"
 
 [[input.files]]
 path = "inwestytura-lodu.html"
-url = "/inwestytura-lodu.html"
+url = "/DnDHelp/inwestytura-lodu.html"
 title = "Inwestytura lodu"
 
 [[input.files]]
 path = "inwestytura-ognia.html"
-url = "/inwestytura-ognia.html"
+url = "/DnDHelp/inwestytura-ognia.html"
 title = "Inwestytura ognia"
 
 [[input.files]]
 path = "inwestytura-wiatru.html"
-url = "/inwestytura-wiatru.html"
+url = "/DnDHelp/inwestytura-wiatru.html"
 title = "Inwestytura wiatru"
 
 [[input.files]]
 path = "jasnowidzenie.html"
-url = "/jasnowidzenie.html"
+url = "/DnDHelp/jasnowidzenie.html"
 title = "Jasnowidzenie"
 
 [[input.files]]
 path = "jezyki.html"
-url = "/jezyki.html"
+url = "/DnDHelp/jezyki.html"
 title = "Języki"
 
 [[input.files]]
 path = "kadzielnica-kontrolujaca-zywiolaki-powietrza.html"
-url = "/kadzielnica-kontrolujaca-zywiolaki-powietrza.html"
+url = "/DnDHelp/kadzielnica-kontrolujaca-zywiolaki-powietrza.html"
 title = "Kadzielnica kontrolująca żywiołaki powietrza"
 
 [[input.files]]
 path = "kamien-ioun.html"
-url = "/kamien-ioun.html"
+url = "/DnDHelp/kamien-ioun.html"
 title = "Kamień Ioun"
 
 [[input.files]]
 path = "kamien-ioun-hart-ducha.html"
-url = "/kamien-ioun-hart-ducha.html"
+url = "/DnDHelp/kamien-ioun-hart-ducha.html"
 title = "Kamień Ioun (hart ducha)"
 
 [[input.files]]
 path = "kamien-ioun-intelekt.html"
-url = "/kamien-ioun-intelekt.html"
+url = "/DnDHelp/kamien-ioun-intelekt.html"
 title = "Kamień Ioun (intelekt)"
 
 [[input.files]]
 path = "kamien-ioun-mistrzostwo.html"
-url = "/kamien-ioun-mistrzostwo.html"
+url = "/DnDHelp/kamien-ioun-mistrzostwo.html"
 title = "Kamień Ioun (mistrzostwo)"
 
 [[input.files]]
 path = "kamien-ioun-ochrona.html"
-url = "/kamien-ioun-ochrona.html"
+url = "/DnDHelp/kamien-ioun-ochrona.html"
 title = "Kamień Ioun (ochrona)"
 
 [[input.files]]
 path = "kamien-ioun-przywodztwo.html"
-url = "/kamien-ioun-przywodztwo.html"
+url = "/DnDHelp/kamien-ioun-przywodztwo.html"
 title = "Kamień Ioun (przywództwo)"
 
 [[input.files]]
 path = "kamien-ioun-regeneracja.html"
-url = "/kamien-ioun-regeneracja.html"
+url = "/DnDHelp/kamien-ioun-regeneracja.html"
 title = "Kamień Ioun (regeneracja)"
 
 [[input.files]]
 path = "kamien-ioun-rezerwa.html"
-url = "/kamien-ioun-rezerwa.html"
+url = "/DnDHelp/kamien-ioun-rezerwa.html"
 title = "Kamień Ioun (rezerwa)"
 
 [[input.files]]
 path = "kamien-ioun-swiadomosc.html"
-url = "/kamien-ioun-swiadomosc.html"
+url = "/DnDHelp/kamien-ioun-swiadomosc.html"
 title = "Kamień Ioun (świadomość)"
 
 [[input.files]]
 path = "kamien-ioun-utrzymanie.html"
-url = "/kamien-ioun-utrzymanie.html"
+url = "/DnDHelp/kamien-ioun-utrzymanie.html"
 title = "Kamień Ioun (utrzymanie)"
 
 [[input.files]]
 path = "kamien-ioun-wglad.html"
-url = "/kamien-ioun-wglad.html"
+url = "/DnDHelp/kamien-ioun-wglad.html"
 title = "Kamień Ioun (wgląd)"
 
 [[input.files]]
 path = "kamien-ioun-wieksza-absorpcja.html"
-url = "/kamien-ioun-wieksza-absorpcja.html"
+url = "/DnDHelp/kamien-ioun-wieksza-absorpcja.html"
 title = "Kamień Ioun (większa absorpcja)"
 
 [[input.files]]
 path = "kamien-ioun-wytrzymalosc.html"
-url = "/kamien-ioun-wytrzymalosc.html"
+url = "/DnDHelp/kamien-ioun-wytrzymalosc.html"
 title = "Kamień Ioun (wytrzymałość)"
 
 [[input.files]]
 path = "kamien-ioun-zwinnosc.html"
-url = "/kamien-ioun-zwinnosc.html"
+url = "/DnDHelp/kamien-ioun-zwinnosc.html"
 title = "Kamień Ioun (zwinność)"
 
 [[input.files]]
 path = "kamien-jonowy-absorpcja.html"
-url = "/kamien-jonowy-absorpcja.html"
+url = "/DnDHelp/kamien-jonowy-absorpcja.html"
 title = "Kamień jonowy (absorpcja)"
 
 [[input.files]]
 path = "kamien-kontrolowania-zywiolakow-ziemi.html"
-url = "/kamien-kontrolowania-zywiolakow-ziemi.html"
+url = "/DnDHelp/kamien-kontrolowania-zywiolakow-ziemi.html"
 title = "Kamień kontrolowania żywiołaków ziemi"
 
 [[input.files]]
 path = "kamien-szczescia-kamien-szczescia.html"
-url = "/kamien-szczescia-kamien-szczescia.html"
+url = "/DnDHelp/kamien-szczescia-kamien-szczescia.html"
 title = "Kamień szczęścia (kamień szczęścia)"
 
 [[input.files]]
 path = "kamienna-skora.html"
-url = "/kamienna-skora.html"
+url = "/DnDHelp/kamienna-skora.html"
 title = "Kamienna skóra"
 
 [[input.files]]
 path = "kamienny-ksztalt.html"
-url = "/kamienny-ksztalt.html"
+url = "/DnDHelp/kamienny-ksztalt.html"
 title = "Kamienny kształt"
 
 [[input.files]]
 path = "kapelusz-przebrania.html"
-url = "/kapelusz-przebrania.html"
+url = "/DnDHelp/kapelusz-przebrania.html"
 title = "Kapelusz przebrania"
 
 [[input.files]]
 path = "karafka-z-niekonczaca-sie-woda.html"
-url = "/karafka-z-niekonczaca-sie-woda.html"
+url = "/DnDHelp/karafka-z-niekonczaca-sie-woda.html"
 title = "Karafka z niekończącą się wodą"
 
 [[input.files]]
 path = "kasliwy-wzrok.html"
-url = "/kasliwy-wzrok.html"
+url = "/DnDHelp/kasliwy-wzrok.html"
 title = "Kąśliwy wzrok"
 
 [[input.files]]
 path = "katapulta.html"
-url = "/katapulta.html"
+url = "/DnDHelp/katapulta.html"
 title = "Katapulta"
 
 [[input.files]]
 path = "kipiel.html"
-url = "/kipiel.html"
+url = "/DnDHelp/kipiel.html"
 title = "Kipiel"
 
 [[input.files]]
 path = "klejnot-jasnosci.html"
-url = "/klejnot-jasnosci.html"
+url = "/DnDHelp/klejnot-jasnosci.html"
 title = "Klejnot jasności"
 
 [[input.files]]
 path = "klejnot-widzenia.html"
-url = "/klejnot-widzenia.html"
+url = "/DnDHelp/klejnot-widzenia.html"
 title = "Klejnot widzenia"
 
 [[input.files]]
 path = "klejnot-zywiolow.html"
-url = "/klejnot-zywiolow.html"
+url = "/DnDHelp/klejnot-zywiolow.html"
 title = "Klejnot żywiołów"
 
 [[input.files]]
 path = "klon.html"
-url = "/klon.html"
+url = "/DnDHelp/klon.html"
 title = "Klon"
 
 [[input.files]]
 path = "kociol-dowodzacy-zywiolakami-ognia.html"
-url = "/kociol-dowodzacy-zywiolakami-ognia.html"
+url = "/DnDHelp/kociol-dowodzacy-zywiolakami-ognia.html"
 title = "Kocioł dowodzący żywiołakami ognia"
 
 [[input.files]]
 path = "kojace-slowo.html"
-url = "/kojace-slowo.html"
+url = "/DnDHelp/kojace-slowo.html"
 title = "Kojące słowo"
 
 [[input.files]]
 path = "kolatka.html"
-url = "/kolatka.html"
+url = "/DnDHelp/kolatka.html"
 title = "Kołatka"
 
 [[input.files]]
 path = "kolczan-ehlonna.html"
-url = "/kolczan-ehlonna.html"
+url = "/DnDHelp/kolczan-ehlonna.html"
 title = "Kołczan ehlonna"
 
 [[input.files]]
 path = "kolorowy-rozprysk.html"
-url = "/kolorowy-rozprysk.html"
+url = "/DnDHelp/kolorowy-rozprysk.html"
 title = "Kolorowy rozprysk"
 
 [[input.files]]
 path = "komu-bije-dzwon.html"
-url = "/komu-bije-dzwon.html"
+url = "/DnDHelp/komu-bije-dzwon.html"
 title = "Komu bije dzwon"
 
 [[input.files]]
 path = "konsekracja.html"
-url = "/konsekracja.html"
+url = "/DnDHelp/konsekracja.html"
 title = "Konsekracja"
 
 [[input.files]]
 path = "kontakt-z-bostwem.html"
-url = "/kontakt-z-bostwem.html"
+url = "/DnDHelp/kontakt-z-bostwem.html"
 title = "Kontakt z bóstwem"
 
 [[input.files]]
 path = "kontakt-z-inna-sfera.html"
-url = "/kontakt-z-inna-sfera.html"
+url = "/DnDHelp/kontakt-z-inna-sfera.html"
 title = "Kontakt z inną sferą"
 
 [[input.files]]
 path = "kontakt-z-natura.html"
-url = "/kontakt-z-natura.html"
+url = "/DnDHelp/kontakt-z-natura.html"
 title = "Kontakt z naturą"
 
 [[input.files]]
 path = "kontrola-plomieni.html"
-url = "/kontrola-plomieni.html"
+url = "/DnDHelp/kontrola-plomieni.html"
 title = "Kontrola płomieni"
 
 [[input.files]]
 path = "kontrola-pogody.html"
-url = "/kontrola-pogody.html"
+url = "/DnDHelp/kontrola-pogody.html"
 title = "Kontrola pogody"
 
 [[input.files]]
 path = "kontrola-wiatru.html"
-url = "/kontrola-wiatru.html"
+url = "/DnDHelp/kontrola-wiatru.html"
 title = "Kontrola wiatru"
 
 [[input.files]]
 path = "kontrola-wody.html"
-url = "/kontrola-wody.html"
+url = "/DnDHelp/kontrola-wody.html"
 title = "Kontrola wody"
 
 [[input.files]]
 path = "koralik-sily.html"
-url = "/koralik-sily.html"
+url = "/DnDHelp/koralik-sily.html"
 title = "Koralik siły"
 
 [[input.files]]
 path = "kordon-strzal.html"
-url = "/kordon-strzal.html"
+url = "/DnDHelp/kordon-strzal.html"
 title = "Kordon strzał"
 
 [[input.files]]
 path = "korona-obledu.html"
-url = "/korona-obledu.html"
+url = "/DnDHelp/korona-obledu.html"
 title = "Korona obłędu"
 
 [[input.files]]
 path = "korowa-skora.html"
-url = "/korowa-skora.html"
+url = "/DnDHelp/korowa-skora.html"
 title = "Korowa skóra"
 
 [[input.files]]
 path = "kosci-ziemi.html"
-url = "/kosci-ziemi.html"
+url = "/DnDHelp/kosci-ziemi.html"
 title = "Kości ziemi"
 
 [[input.files]]
 path = "kradziez-dziewieciu-zyc.html"
-url = "/kradziez-dziewieciu-zyc.html"
+url = "/DnDHelp/kradziez-dziewieciu-zyc.html"
 title = "Kradzież dziewięciu żyć"
 
 [[input.files]]
 path = "krag-magii.html"
-url = "/krag-magii.html"
+url = "/DnDHelp/krag-magii.html"
 title = "Krąg magii"
 
 [[input.files]]
 path = "krag-mocy.html"
-url = "/krag-mocy.html"
+url = "/DnDHelp/krag-mocy.html"
 title = "Krąg mocy"
 
 [[input.files]]
 path = "krag-smierci.html"
-url = "/krag-smierci.html"
+url = "/DnDHelp/krag-smierci.html"
 title = "Krąg śmierci"
 
 [[input.files]]
 path = "krag-teleportacyjny.html"
-url = "/krag-teleportacyjny.html"
+url = "/DnDHelp/krag-teleportacyjny.html"
 title = "Krąg teleportacyjny"
 
 [[input.files]]
 path = "krag-wybuchow.html"
-url = "/krag-wybuchow.html"
+url = "/DnDHelp/krag-wybuchow.html"
 title = "Krąg wybuchów"
 
 [[input.files]]
 path = "krasnoludzki-miotacz-ognia.html"
-url = "/krasnoludzki-miotacz-ognia.html"
+url = "/DnDHelp/krasnoludzki-miotacz-ognia.html"
 title = "Krasnoludzki miotacz ognia"
 
 [[input.files]]
 path = "krok-przez-mgle.html"
-url = "/krok-przez-mgle.html"
+url = "/DnDHelp/krok-przez-mgle.html"
 title = "Krok przez mgłę"
 
 [[input.files]]
 path = "krysztalowa-kula.html"
-url = "/krysztalowa-kula.html"
+url = "/DnDHelp/krysztalowa-kula.html"
 title = "Kryształowa kula"
 
 [[input.files]]
 path = "krysztalowa-kula-czytania-w-myslach.html"
-url = "/krysztalowa-kula-czytania-w-myslach.html"
+url = "/DnDHelp/krysztalowa-kula-czytania-w-myslach.html"
 title = "Kryształowa kula czytania w myślach"
 
 [[input.files]]
 path = "krysztalowa-kula-prawdziwego-widzenia.html"
-url = "/krysztalowa-kula-prawdziwego-widzenia.html"
+url = "/DnDHelp/krysztalowa-kula-prawdziwego-widzenia.html"
 title = "Kryształowa kula prawdziwego widzenia"
 
 [[input.files]]
 path = "krysztalowa-kula-telepatii.html"
-url = "/krysztalowa-kula-telepatii.html"
+url = "/DnDHelp/krysztalowa-kula-telepatii.html"
 title = "Kryształowa kula telepatii"
 
 [[input.files]]
 path = "krzywda.html"
-url = "/krzywda.html"
+url = "/DnDHelp/krzywda.html"
 title = "Krzywda"
 
 [[input.files]]
 path = "ksiega-nikczemnej-ciemnosci.html"
-url = "/ksiega-nikczemnej-ciemnosci.html"
+url = "/DnDHelp/ksiega-nikczemnej-ciemnosci.html"
 title = "Księga nikczemnej ciemności"
 
 [[input.files]]
 path = "ksiega-wznioslych-czynow.html"
-url = "/ksiega-wznioslych-czynow.html"
+url = "/DnDHelp/ksiega-wznioslych-czynow.html"
 title = "Księga wzniosłych czynów"
 
 [[input.files]]
 path = "ksiezycowy-promien.html"
-url = "/ksiezycowy-promien.html"
+url = "/DnDHelp/ksiezycowy-promien.html"
 title = "Księżycowy promień"
 
 [[input.files]]
 path = "ksztaltowanie-wody.html"
-url = "/ksztaltowanie-wody.html"
+url = "/DnDHelp/ksztaltowanie-wody.html"
 title = "Kształtowanie wody"
 
 [[input.files]]
 path = "ksztaltowanie-ziemi.html"
-url = "/ksztaltowanie-ziemi.html"
+url = "/DnDHelp/ksztaltowanie-ziemi.html"
 title = "Kształtowanie ziemi"
 
 [[input.files]]
 path = "kuglarstwo.html"
-url = "/kuglarstwo.html"
+url = "/DnDHelp/kuglarstwo.html"
 title = "Kuglarstwo"
 
 [[input.files]]
 path = "kula-ognia.html"
-url = "/kula-ognia.html"
+url = "/DnDHelp/kula-ognia.html"
 title = "Kula ognia"
 
 [[input.files]]
 path = "kula-smoczego-rodzaju.html"
-url = "/kula-smoczego-rodzaju.html"
+url = "/DnDHelp/kula-smoczego-rodzaju.html"
 title = "Kula smoczego rodzaju"
 
 [[input.files]]
 path = "kwasowa-strzala-melfa.html"
-url = "/kwasowa-strzala-melfa.html"
+url = "/DnDHelp/kwasowa-strzala-melfa.html"
 title = "Kwasowa strzała melfa"
 
 [[input.files]]
 path = "kwasowy-rozprysk.html"
-url = "/kwasowy-rozprysk.html"
+url = "/DnDHelp/kwasowy-rozprysk.html"
 title = "Kwasowy rozprysk"
 
 [[input.files]]
 path = "labirynt.html"
-url = "/labirynt.html"
+url = "/DnDHelp/labirynt.html"
 title = "Labirynt"
 
 [[input.files]]
 path = "lancuch-blyskawic.html"
-url = "/lancuch-blyskawic.html"
+url = "/DnDHelp/lancuch-blyskawic.html"
 title = "Łańcuch błyskawic"
 
 [[input.files]]
 path = "lancuch-efreeti.html"
-url = "/lancuch-efreeti.html"
+url = "/DnDHelp/lancuch-efreeti.html"
 title = "Łańcuch Efreeti"
 
 [[input.files]]
 path = "lancuch-elfow.html"
-url = "/lancuch-elfow.html"
+url = "/DnDHelp/lancuch-elfow.html"
 title = "Łańcuch elfów"
 
 [[input.files]]
 path = "laska-grzmotow-i-blyskawic.html"
-url = "/laska-grzmotow-i-blyskawic.html"
+url = "/DnDHelp/laska-grzmotow-i-blyskawic.html"
 title = "Laska grzmotów i błyskawic"
 
 [[input.files]]
 path = "laska-magow.html"
-url = "/laska-magow.html"
+url = "/DnDHelp/laska-magow.html"
 title = "Laska magów"
 
 [[input.files]]
 path = "laska-mrozu.html"
-url = "/laska-mrozu.html"
+url = "/DnDHelp/laska-mrozu.html"
 title = "Laska mrozu"
 
 [[input.files]]
 path = "laska-ognia.html"
-url = "/laska-ognia.html"
+url = "/DnDHelp/laska-ognia.html"
 title = "Laska ognia"
 
 [[input.files]]
 path = "laska-pytona.html"
-url = "/laska-pytona.html"
+url = "/DnDHelp/laska-pytona.html"
 title = "Laska pytona"
 
 [[input.files]]
 path = "laska-rojacych-sie-owadow.html"
-url = "/laska-rojacych-sie-owadow.html"
+url = "/DnDHelp/laska-rojacych-sie-owadow.html"
 title = "Laska rojących się owadów"
 
 [[input.files]]
 path = "laska-uderzajacy.html"
-url = "/laska-uderzajacy.html"
+url = "/DnDHelp/laska-uderzajacy.html"
 title = "Laska uderzający"
 
 [[input.files]]
 path = "laska-usychajacy.html"
-url = "/laska-usychajacy.html"
+url = "/DnDHelp/laska-usychajacy.html"
 title = "Laska usychający"
 
 [[input.files]]
 path = "laska-uzdrawiajacy.html"
-url = "/laska-uzdrawiajacy.html"
+url = "/DnDHelp/laska-uzdrawiajacy.html"
 title = "Laska uzdrawiający"
 
 [[input.files]]
 path = "laska-wladzy.html"
-url = "/laska-wladzy.html"
+url = "/DnDHelp/laska-wladzy.html"
 title = "Laska władzy"
 
 [[input.files]]
 path = "laska-zmija.html"
-url = "/laska-zmija.html"
+url = "/DnDHelp/laska-zmija.html"
 title = "Laska żmija"
 
 [[input.files]]
 path = "latarnia-ujawniajaca.html"
-url = "/latarnia-ujawniajaca.html"
+url = "/DnDHelp/latarnia-ujawniajaca.html"
 title = "Latarnia ujawniająca"
 
 [[input.files]]
 path = "leczenie-ran.html"
-url = "/leczenie-ran.html"
+url = "/DnDHelp/leczenie-ran.html"
 title = "Leczenie ran"
 
 [[input.files]]
 path = "legendarna-wiedza.html"
-url = "/legendarna-wiedza.html"
+url = "/DnDHelp/legendarna-wiedza.html"
 title = "Legendarna wiedza"
 
 [[input.files]]
 path = "lewitacja.html"
-url = "/lewitacja.html"
+url = "/DnDHelp/lewitacja.html"
 title = "Lewitacja"
 
 [[input.files]]
 path = "lina-splatania.html"
-url = "/lina-splatania.html"
+url = "/DnDHelp/lina-splatania.html"
 title = "Lina splątania"
 
 [[input.files]]
 path = "lina-wspinaczkowa.html"
-url = "/lina-wspinaczkowa.html"
+url = "/DnDHelp/lina-wspinaczkowa.html"
 title = "Lina wspinaczkowa"
 
 [[input.files]]
 path = "lodowy-noz.html"
-url = "/lodowy-noz.html"
+url = "/DnDHelp/lodowy-noz.html"
 title = "Lodowy nóż"
 
 [[input.files]]
 path = "lot.html"
-url = "/lot.html"
+url = "/DnDHelp/lot.html"
 title = "Lot"
 
 [[input.files]]
 path = "lustro-zycia-w-pulapce.html"
-url = "/lustro-zycia-w-pulapce.html"
+url = "/DnDHelp/lustro-zycia-w-pulapce.html"
 title = "Lustro życia w pułapce"
 
 [[input.files]]
 path = "lustrzane-odbicia.html"
-url = "/lustrzane-odbicia.html"
+url = "/DnDHelp/lustrzane-odbicia.html"
 title = "Lustrzane odbicia"
 
 [[input.files]]
 path = "maczuga-biczowania.html"
-url = "/maczuga-biczowania.html"
+url = "/DnDHelp/maczuga-biczowania.html"
 title = "Maczuga biczowania"
 
 [[input.files]]
 path = "magiczna-aura-nystula.html"
-url = "/magiczna-aura-nystula.html"
+url = "/DnDHelp/magiczna-aura-nystula.html"
 title = "Magiczna aura nystula"
 
 [[input.files]]
 path = "magiczna-bron.html"
-url = "/magiczna-bron.html"
+url = "/DnDHelp/magiczna-bron.html"
 title = "Magiczna broń"
 
 [[input.files]]
 path = "magiczna-dlon.html"
-url = "/magiczna-dlon.html"
+url = "/DnDHelp/magiczna-dlon.html"
 title = "Magiczna dłoń"
 
 [[input.files]]
 path = "magiczne-oko.html"
-url = "/magiczne-oko.html"
+url = "/DnDHelp/magiczne-oko.html"
 title = "Magiczne oko"
 
 [[input.files]]
 path = "magiczne-usta.html"
-url = "/magiczne-usta.html"
+url = "/DnDHelp/magiczne-usta.html"
 title = "Magiczne usta"
 
 [[input.files]]
 path = "magiczne-wrota.html"
-url = "/magiczne-wrota.html"
+url = "/DnDHelp/magiczne-wrota.html"
 title = "Magiczne wrota"
 
 [[input.files]]
 path = "magiczny-kamyk.html"
-url = "/magiczny-kamyk.html"
+url = "/DnDHelp/magiczny-kamyk.html"
 title = "Magiczny kamyk"
 
 [[input.files]]
 path = "magiczny-pocisk.html"
-url = "/magiczny-pocisk.html"
+url = "/DnDHelp/magiczny-pocisk.html"
 title = "Magiczny pocisk"
 
 [[input.files]]
 path = "magiczny-sloj.html"
-url = "/magiczny-sloj.html"
+url = "/DnDHelp/magiczny-sloj.html"
 title = "Magiczny słój"
 
 [[input.files]]
 path = "magiczny-zamek.html"
-url = "/magiczny-zamek.html"
+url = "/DnDHelp/magiczny-zamek.html"
 title = "Magiczny zamek"
 
 [[input.files]]
 path = "malutki-sluga.html"
-url = "/malutki-sluga.html"
+url = "/DnDHelp/malutki-sluga.html"
 title = "Malutki sługa"
 
 [[input.files]]
 path = "marka-frost.html"
-url = "/marka-frost.html"
+url = "/DnDHelp/marka-frost.html"
 title = "Marka Frost"
 
 [[input.files]]
 path = "masc-keoghtoma.html"
-url = "/masc-keoghtoma.html"
+url = "/DnDHelp/masc-keoghtoma.html"
 title = "Maść Keoghtoma"
 
 [[input.files]]
 path = "masowa-polimorfia.html"
-url = "/masowa-polimorfia.html"
+url = "/DnDHelp/masowa-polimorfia.html"
 title = "Masowa polimorfia"
 
 [[input.files]]
 path = "masowa-sugestia.html"
-url = "/masowa-sugestia.html"
+url = "/DnDHelp/masowa-sugestia.html"
 title = "Masowa sugestia"
 
 [[input.files]]
 path = "masowe-kojace-slowo.html"
-url = "/masowe-kojace-slowo.html"
+url = "/DnDHelp/masowe-kojace-slowo.html"
 title = "Masowe kojące słowo"
 
 [[input.files]]
 path = "masowe-leczenie-ran.html"
-url = "/masowe-leczenie-ran.html"
+url = "/DnDHelp/masowe-leczenie-ran.html"
 title = "Masowe leczenie ran"
 
 [[input.files]]
 path = "masowe-uleczenie.html"
-url = "/masowe-uleczenie.html"
+url = "/DnDHelp/masowe-uleczenie.html"
 title = "Masowe uleczenie"
 
 [[input.files]]
 path = "medalion-mysli.html"
-url = "/medalion-mysli.html"
+url = "/DnDHelp/medalion-mysli.html"
 title = "Medalion myśli"
 
 [[input.files]]
 path = "mentalne-wiezienie.html"
-url = "/mentalne-wiezienie.html"
+url = "/DnDHelp/mentalne-wiezienie.html"
 title = "Mentalne więzienie"
 
 [[input.files]]
 path = "miecz-gotowki.html"
-url = "/miecz-gotowki.html"
+url = "/DnDHelp/miecz-gotowki.html"
 title = "Miecz gotówki"
 
 [[input.files]]
 path = "miecz-kradziezy-zycia.html"
-url = "/miecz-kradziezy-zycia.html"
+url = "/DnDHelp/miecz-kradziezy-zycia.html"
 title = "Miecz kradzieży życia"
 
 [[input.files]]
 path = "miecz-mordenkainena.html"
-url = "/miecz-mordenkainena.html"
+url = "/DnDHelp/miecz-mordenkainena.html"
 title = "Miecz mordenkainena"
 
 [[input.files]]
 path = "miecz-odpowiedzi.html"
-url = "/miecz-odpowiedzi.html"
+url = "/DnDHelp/miecz-odpowiedzi.html"
 title = "Miecz odpowiedzi"
 
 [[input.files]]
 path = "miecz-ostrosci.html"
-url = "/miecz-ostrosci.html"
+url = "/DnDHelp/miecz-ostrosci.html"
 title = "Miecz ostrości"
 
 [[input.files]]
 path = "miecz-vorpal.html"
-url = "/miecz-vorpal.html"
+url = "/DnDHelp/miecz-vorpal.html"
 title = "Miecz Vorpal"
 
 [[input.files]]
 path = "miecz-zadawania-ran.html"
-url = "/miecz-zadawania-ran.html"
+url = "/DnDHelp/miecz-zadawania-ran.html"
 title = "Miecz zadawania ran"
 
 [[input.files]]
 path = "miecz-zemsty.html"
-url = "/miecz-zemsty.html"
+url = "/DnDHelp/miecz-zemsty.html"
 title = "Miecz zemsty"
 
 [[input.files]]
 path = "migniecie.html"
-url = "/migniecie.html"
+url = "/DnDHelp/migniecie.html"
 title = "Mignięcie"
 
 [[input.files]]
 path = "mikstura-czytania-w-myslach.html"
-url = "/mikstura-czytania-w-myslach.html"
+url = "/DnDHelp/mikstura-czytania-w-myslach.html"
 title = "Mikstura czytania w myślach"
 
 [[input.files]]
 path = "mikstura-dlugowiecznosci.html"
-url = "/mikstura-dlugowiecznosci.html"
+url = "/DnDHelp/mikstura-dlugowiecznosci.html"
 title = "Mikstura długowieczności"
 
 [[input.files]]
 path = "mikstura-doskonalego-leczenia.html"
-url = "/mikstura-doskonalego-leczenia.html"
+url = "/DnDHelp/mikstura-doskonalego-leczenia.html"
 title = "Mikstura doskonałego leczenia"
 
 [[input.files]]
 path = "mikstura-gigantycznej-sily.html"
-url = "/mikstura-gigantycznej-sily.html"
+url = "/DnDHelp/mikstura-gigantycznej-sily.html"
 title = "Mikstura gigantycznej siły"
 
 [[input.files]]
 path = "mikstura-gigantycznej-sily-chmurny-olbrzym.html"
-url = "/mikstura-gigantycznej-sily-chmurny-olbrzym.html"
+url = "/DnDHelp/mikstura-gigantycznej-sily-chmurny-olbrzym.html"
 title = "Mikstura gigantycznej siły (chmurny olbrzym)"
 
 [[input.files]]
 path = "mikstura-jasnowidzenia.html"
-url = "/mikstura-jasnowidzenia.html"
+url = "/DnDHelp/mikstura-jasnowidzenia.html"
 title = "Mikstura jasnowidzenia"
 
 [[input.files]]
 path = "mikstura-latania.html"
-url = "/mikstura-latania.html"
+url = "/DnDHelp/mikstura-latania.html"
 title = "Mikstura latania"
 
 [[input.files]]
 path = "mikstura-najwyzszego-uzdrowienia.html"
-url = "/mikstura-najwyzszego-uzdrowienia.html"
+url = "/DnDHelp/mikstura-najwyzszego-uzdrowienia.html"
 title = "Mikstura najwyższego uzdrowienia"
 
 [[input.files]]
 path = "mikstura-niewidzialnosci.html"
-url = "/mikstura-niewidzialnosci.html"
+url = "/DnDHelp/mikstura-niewidzialnosci.html"
 title = "Mikstura niewidzialności"
 
 [[input.files]]
 path = "mikstura-niewrazliwosci.html"
-url = "/mikstura-niewrazliwosci.html"
+url = "/DnDHelp/mikstura-niewrazliwosci.html"
 title = "Mikstura niewrażliwości"
 
 [[input.files]]
 path = "mikstura-oddychania-woda.html"
-url = "/mikstura-oddychania-woda.html"
+url = "/DnDHelp/mikstura-oddychania-woda.html"
 title = "Mikstura oddychania wodą"
 
 [[input.files]]
 path = "mikstura-odpornosci.html"
-url = "/mikstura-odpornosci.html"
+url = "/DnDHelp/mikstura-odpornosci.html"
 title = "Mikstura odporności"
 
 [[input.files]]
 path = "mikstura-ognistego-oddechu.html"
-url = "/mikstura-ognistego-oddechu.html"
+url = "/DnDHelp/mikstura-ognistego-oddechu.html"
 title = "Mikstura ognistego oddechu"
 
 [[input.files]]
 path = "mikstura-sily-olbrzyma-gorski-olbrzym.html"
-url = "/mikstura-sily-olbrzyma-gorski-olbrzym.html"
+url = "/DnDHelp/mikstura-sily-olbrzyma-gorski-olbrzym.html"
 title = "Mikstura siły olbrzyma (górski olbrzym)"
 
 [[input.files]]
 path = "mikstura-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
-url = "/mikstura-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
+url = "/DnDHelp/mikstura-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
 title = "Mikstura siły olbrzyma (mroźnego lub kamiennego olbrzyma)"
 
 [[input.files]]
 path = "mikstura-sily-olbrzyma-ognisty-olbrzym.html"
-url = "/mikstura-sily-olbrzyma-ognisty-olbrzym.html"
+url = "/DnDHelp/mikstura-sily-olbrzyma-ognisty-olbrzym.html"
 title = "Mikstura siły olbrzyma (ognisty olbrzym)"
 
 [[input.files]]
 path = "mikstura-sily-olbrzyma-olbrzym-burzowy.html"
-url = "/mikstura-sily-olbrzyma-olbrzym-burzowy.html"
+url = "/DnDHelp/mikstura-sily-olbrzyma-olbrzym-burzowy.html"
 title = "Mikstura siły olbrzyma (olbrzym burzowy)"
 
 [[input.files]]
 path = "mikstura-szybkosci.html"
-url = "/mikstura-szybkosci.html"
+url = "/DnDHelp/mikstura-szybkosci.html"
 title = "Mikstura szybkości"
 
 [[input.files]]
 path = "mikstura-trucizny.html"
-url = "/mikstura-trucizny.html"
+url = "/DnDHelp/mikstura-trucizny.html"
 title = "Mikstura trucizny"
 
 [[input.files]]
 path = "mikstura-uzdrawiajaca.html"
-url = "/mikstura-uzdrawiajaca.html"
+url = "/DnDHelp/mikstura-uzdrawiajaca.html"
 title = "Mikstura uzdrawiająca"
 
 [[input.files]]
 path = "mikstura-w-postaci-gazowej.html"
-url = "/mikstura-w-postaci-gazowej.html"
+url = "/DnDHelp/mikstura-w-postaci-gazowej.html"
 title = "Mikstura w postaci gazowej"
 
 [[input.files]]
 path = "mikstura-wiekszego-uzdrowienia.html"
-url = "/mikstura-wiekszego-uzdrowienia.html"
+url = "/DnDHelp/mikstura-wiekszego-uzdrowienia.html"
 title = "Mikstura większego uzdrowienia"
 
 [[input.files]]
 path = "mikstura-witalnosci.html"
-url = "/mikstura-witalnosci.html"
+url = "/DnDHelp/mikstura-witalnosci.html"
 title = "Mikstura witalności"
 
 [[input.files]]
 path = "mikstura-wspinaczki.html"
-url = "/mikstura-wspinaczki.html"
+url = "/DnDHelp/mikstura-wspinaczki.html"
 title = "Mikstura wspinaczki"
 
 [[input.files]]
 path = "mikstura-wzrostu.html"
-url = "/mikstura-wzrostu.html"
+url = "/DnDHelp/mikstura-wzrostu.html"
 title = "Mikstura wzrostu"
 
 [[input.files]]
 path = "mikstura-zmniejszajaca.html"
-url = "/mikstura-zmniejszajaca.html"
+url = "/DnDHelp/mikstura-zmniejszajaca.html"
 title = "Mikstura zmniejszająca"
 
 [[input.files]]
 path = "milczacy-obraz.html"
-url = "/milczacy-obraz.html"
+url = "/DnDHelp/milczacy-obraz.html"
 title = "Milczący obraz"
 
 [[input.files]]
 path = "miniaturowe-meteory-melfa.html"
-url = "/miniaturowe-meteory-melfa.html"
+url = "/DnDHelp/miniaturowe-meteory-melfa.html"
 title = "Miniaturowe meteory melfa"
 
 [[input.files]]
 path = "miotla-latania.html"
-url = "/miotla-latania.html"
+url = "/DnDHelp/miotla-latania.html"
 title = "Miotła latania"
 
 [[input.files]]
 path = "miraz.html"
-url = "/miraz.html"
+url = "/DnDHelp/miraz.html"
 title = "Miraż"
 
 [[input.files]]
 path = "miska-dowodzenia-zywiolakami-wody.html"
-url = "/miska-dowodzenia-zywiolakami-wody.html"
+url = "/DnDHelp/miska-dowodzenia-zywiolakami-wody.html"
 title = "Miska dowodzenia żywiołakami wody"
 
 [[input.files]]
 path = "mithralowa-zbroja.html"
-url = "/mithralowa-zbroja.html"
+url = "/DnDHelp/mithralowa-zbroja.html"
 title = "Mithralowa zbroja"
 
 [[input.files]]
 path = "mlot-piorunow.html"
-url = "/mlot-piorunow.html"
+url = "/DnDHelp/mlot-piorunow.html"
 title = "Młot piorunów"
 
 [[input.files]]
 path = "mniejsze-przwrocenie.html"
-url = "/mniejsze-przwrocenie.html"
+url = "/DnDHelp/mniejsze-przwrocenie.html"
 title = "Mniejsze przwrócenie"
 
 [[input.files]]
 path = "moonblade.html"
-url = "/moonblade.html"
+url = "/DnDHelp/moonblade.html"
 title = "Moonblade"
 
 [[input.files]]
 path = "mrowie-wrogow.html"
-url = "/mrowie-wrogow.html"
+url = "/DnDHelp/mrowie-wrogow.html"
 title = "Mrowie wrogow"
 
 [[input.files]]
 path = "mrozaca-sfera-otilukea.html"
-url = "/mrozaca-sfera-otilukea.html"
+url = "/DnDHelp/mrozaca-sfera-otilukea.html"
 title = "Mrożąca sfera otiluke'a"
 
 [[input.files]]
 path = "myslowy-ciern.html"
-url = "/myslowy-ciern.html"
+url = "/DnDHelp/myslowy-ciern.html"
 title = "Myślowy cierń"
 
 [[input.files]]
 path = "nadanie-wiadomosci.html"
-url = "/nadanie-wiadomosci.html"
+url = "/DnDHelp/nadanie-wiadomosci.html"
 title = "Nadanie wiadomości"
 
 [[input.files]]
 path = "nakretka-do-oddychania-woda.html"
-url = "/nakretka-do-oddychania-woda.html"
+url = "/DnDHelp/nakretka-do-oddychania-woda.html"
 title = "Nakrętka do oddychania wodą"
 
 [[input.files]]
 path = "nalozenie-klatwy.html"
-url = "/nalozenie-klatwy.html"
+url = "/DnDHelp/nalozenie-klatwy.html"
 title = "Nałożenie klątwy"
 
 [[input.files]]
 path = "naprawa.html"
-url = "/naprawa.html"
+url = "/DnDHelp/naprawa.html"
 title = "Naprawa"
 
 [[input.files]]
 path = "naszyjnik-adaptacji.html"
-url = "/naszyjnik-adaptacji.html"
+url = "/DnDHelp/naszyjnik-adaptacji.html"
 title = "Naszyjnik adaptacji"
 
 [[input.files]]
 path = "naszyjnik-z-koralikow-modlitewnych.html"
-url = "/naszyjnik-z-koralikow-modlitewnych.html"
+url = "/DnDHelp/naszyjnik-z-koralikow-modlitewnych.html"
 title = "Naszyjnik z koralików modlitewnych"
 
 [[input.files]]
 path = "naszyjnik-z-ognistych-kul.html"
-url = "/naszyjnik-z-ognistych-kul.html"
+url = "/DnDHelp/naszyjnik-z-ognistych-kul.html"
 title = "Naszyjnik z ognistych kul"
 
 [[input.files]]
 path = "natychmiastowa-forteca-daerna.html"
-url = "/natychmiastowa-forteca-daerna.html"
+url = "/DnDHelp/natychmiastowa-forteca-daerna.html"
 title = "Natychmiastowa forteca Daerna"
 
 [[input.files]]
 path = "nieodparty-taniec-ottona.html"
-url = "/nieodparty-taniec-ottona.html"
+url = "/DnDHelp/nieodparty-taniec-ottona.html"
 title = "Nieodparty taniec ottona"
 
 [[input.files]]
 path = "niepodatnosc.html"
-url = "/niepodatnosc.html"
+url = "/DnDHelp/niepodatnosc.html"
 title = "Niepodatność"
 
 [[input.files]]
 path = "nieruchoma-rozdzka.html"
-url = "/nieruchoma-rozdzka.html"
+url = "/DnDHelp/nieruchoma-rozdzka.html"
 title = "Nieruchoma różdżka"
 
 [[input.files]]
 path = "nieruchomy-rozdzka.html"
-url = "/nieruchomy-rozdzka.html"
+url = "/DnDHelp/nieruchomy-rozdzka.html"
 title = "Nieruchomy różdżka"
 
 [[input.files]]
 path = "niewidoczny-sluga.html"
-url = "/niewidoczny-sluga.html"
+url = "/DnDHelp/niewidoczny-sluga.html"
 title = "Niewidoczny sługa"
 
 [[input.files]]
 path = "niewidzialnosc.html"
-url = "/niewidzialnosc.html"
+url = "/DnDHelp/niewidzialnosc.html"
 title = "Niewidzialność"
 
 [[input.files]]
 path = "niewykrywalnosc.html"
-url = "/niewykrywalnosc.html"
+url = "/DnDHelp/niewykrywalnosc.html"
 title = "Niewykrywalność"
 
 [[input.files]]
 path = "nieziemskie-uderzenie.html"
-url = "/nieziemskie-uderzenie.html"
+url = "/DnDHelp/nieziemskie-uderzenie.html"
 title = "Nieziemskie uderzenie"
 
 [[input.files]]
 path = "oathbow.html"
-url = "/oathbow.html"
+url = "/DnDHelp/oathbow.html"
 title = "Oathbow"
 
 [[input.files]]
 path = "obronca.html"
-url = "/obronca.html"
+url = "/DnDHelp/obronca.html"
 title = "Obrońca"
 
 [[input.files]]
 path = "ochrona-przed-dobrem-i-zlem.html"
-url = "/ochrona-przed-dobrem-i-zlem.html"
+url = "/DnDHelp/ochrona-przed-dobrem-i-zlem.html"
 title = "Ochrona przed dobrem i złem"
 
 [[input.files]]
 path = "ochrona-przed-energia.html"
-url = "/ochrona-przed-energia.html"
+url = "/DnDHelp/ochrona-przed-energia.html"
 title = "Ochrona przed energią"
 
 [[input.files]]
 path = "ochrona-przed-trucizna.html"
-url = "/ochrona-przed-trucizna.html"
+url = "/DnDHelp/ochrona-przed-trucizna.html"
 title = "Ochrona przed trucizną"
 
 [[input.files]]
 path = "ochronna-wiez.html"
-url = "/ochronna-wiez.html"
+url = "/DnDHelp/ochronna-wiez.html"
 title = "Ochronna więź"
 
 [[input.files]]
 path = "ochronne-glify.html"
-url = "/ochronne-glify.html"
+url = "/DnDHelp/ochronne-glify.html"
 title = "Ochronne glify"
 
 [[input.files]]
 path = "ochronny-wiatr.html"
-url = "/ochronny-wiatr.html"
+url = "/DnDHelp/ochronny-wiatr.html"
 title = "Ochronny wiatr"
 
 [[input.files]]
 path = "oczy-orla.html"
-url = "/oczy-orla.html"
+url = "/DnDHelp/oczy-orla.html"
 title = "Oczy orła"
 
 [[input.files]]
 path = "oczy-pelne-uroku.html"
-url = "/oczy-pelne-uroku.html"
+url = "/DnDHelp/oczy-pelne-uroku.html"
 title = "Oczy pełne uroku"
 
 [[input.files]]
 path = "oczy-widzace-na-minute.html"
-url = "/oczy-widzace-na-minute.html"
+url = "/DnDHelp/oczy-widzace-na-minute.html"
 title = "Oczy widzące na minutę"
 
 [[input.files]]
 path = "oczyszczenie-jadla-i-napoju.html"
-url = "/oczyszczenie-jadla-i-napoju.html"
+url = "/DnDHelp/oczyszczenie-jadla-i-napoju.html"
 title = "Oczyszczenie jadła i napoju"
 
 [[input.files]]
 path = "oddychanie-pod-woda.html"
-url = "/oddychanie-pod-woda.html"
+url = "/DnDHelp/oddychanie-pod-woda.html"
 title = "Oddychanie pod wodą"
 
 [[input.files]]
 path = "odebranie-sil.html"
-url = "/odebranie-sil.html"
+url = "/DnDHelp/odebranie-sil.html"
 title = "Odebranie sił"
 
 [[input.files]]
 path = "odmrozenie.html"
-url = "/odmrozenie.html"
+url = "/DnDHelp/odmrozenie.html"
 title = "Odmrożenie"
 
 [[input.files]]
 path = "odnalezienie-istoty.html"
-url = "/odnalezienie-istoty.html"
+url = "/DnDHelp/odnalezienie-istoty.html"
 title = "Odnalezienie istoty"
 
 [[input.files]]
 path = "odnalezienie-obiektu.html"
-url = "/odnalezienie-obiektu.html"
+url = "/DnDHelp/odnalezienie-obiektu.html"
 title = "Odnalezienie obiektu"
 
 [[input.files]]
 path = "odnalezienie-sciezki.html"
-url = "/odnalezienie-sciezki.html"
+url = "/DnDHelp/odnalezienie-sciezki.html"
 title = "Odnalezienie ścieżki"
 
 [[input.files]]
 path = "odnalezienie-zwierzat-lub-roslin.html"
-url = "/odnalezienie-zwierzat-lub-roslin.html"
+url = "/DnDHelp/odnalezienie-zwierzat-lub-roslin.html"
 title = "Odnalezienie zwierząt lub roślin"
 
 [[input.files]]
 path = "odosobnienie.html"
-url = "/odosobnienie.html"
+url = "/DnDHelp/odosobnienie.html"
 title = "Odosobnienie"
 
 [[input.files]]
 path = "odpornosc.html"
-url = "/odpornosc.html"
+url = "/DnDHelp/odpornosc.html"
 title = "Odporność"
 
 [[input.files]]
 path = "odwrocenie-grawitacji.html"
-url = "/odwrocenie-grawitacji.html"
+url = "/DnDHelp/odwrocenie-grawitacji.html"
 title = "Odwrócenie grawitacji"
 
 [[input.files]]
 path = "ognisty-pocisk.html"
-url = "/ognisty-pocisk.html"
+url = "/DnDHelp/ognisty-pocisk.html"
 title = "Ognisty pocisk"
 
 [[input.files]]
 path = "ohydny-smiech-tashy.html"
-url = "/ohydny-smiech-tashy.html"
+url = "/DnDHelp/ohydny-smiech-tashy.html"
 title = "Ohydny śmiech tashy"
 
 [[input.files]]
 path = "oko-i-dlon-vecny.html"
-url = "/oko-i-dlon-vecny.html"
+url = "/DnDHelp/oko-i-dlon-vecny.html"
 title = "Oko i dłoń vecny"
 
 [[input.files]]
 path = "olbrzymie-owady.html"
-url = "/olbrzymie-owady.html"
+url = "/DnDHelp/olbrzymie-owady.html"
 title = "Olbrzymie owady"
 
 [[input.files]]
 path = "olej-o-sliskosci.html"
-url = "/olej-o-sliskosci.html"
+url = "/DnDHelp/olej-o-sliskosci.html"
 title = "Olej o śliskości"
 
 [[input.files]]
 path = "olej-ostrosci.html"
-url = "/olej-ostrosci.html"
+url = "/DnDHelp/olej-ostrosci.html"
 title = "Olej ostrości"
 
 [[input.files]]
 path = "olejek-eterycznosci.html"
-url = "/olejek-eterycznosci.html"
+url = "/DnDHelp/olejek-eterycznosci.html"
 title = "Olejek eteryczności"
 
 [[input.files]]
 path = "opaska-intelektu.html"
-url = "/opaska-intelektu.html"
+url = "/DnDHelp/opaska-intelektu.html"
 title = "Opaska intelektu"
 
 [[input.files]]
 path = "oplatanie.html"
-url = "/oplatanie.html"
+url = "/DnDHelp/oplatanie.html"
 title = "Oplątanie"
 
 [[input.files]]
 path = "opozniona-kula-ognia.html"
-url = "/opozniona-kula-ognia.html"
+url = "/DnDHelp/opozniona-kula-ognia.html"
 title = "Opóźniona kula ognia"
 
 [[input.files]]
 path = "oslabienie-umyslu.html"
-url = "/oslabienie-umyslu.html"
+url = "/DnDHelp/oslabienie-umyslu.html"
 title = "Osłabienie umysłu"
 
 [[input.files]]
 path = "oslepiajace-ugodzenie.html"
-url = "/oslepiajace-ugodzenie.html"
+url = "/DnDHelp/oslepiajace-ugodzenie.html"
 title = "Oślepiające ugodzenie"
 
 [[input.files]]
 path = "oslona-przed-orezem.html"
-url = "/oslona-przed-orezem.html"
+url = "/DnDHelp/oslona-przed-orezem.html"
 title = "Osłona przed orężem"
 
 [[input.files]]
 path = "oslona-przed-smiercia.html"
-url = "/oslona-przed-smiercia.html"
+url = "/DnDHelp/oslona-przed-smiercia.html"
 title = "Osłona przed śmiercią"
 
 [[input.files]]
 path = "oslona-sentinel.html"
-url = "/oslona-sentinel.html"
+url = "/DnDHelp/oslona-sentinel.html"
 title = "Osłona Sentinel"
 
 [[input.files]]
 path = "osobiste-sanktuarium-mordenkainena.html"
-url = "/osobiste-sanktuarium-mordenkainena.html"
+url = "/DnDHelp/osobiste-sanktuarium-mordenkainena.html"
 title = "Osobiste sanktuarium mordenkainena"
 
 [[input.files]]
 path = "ostrze-szczescia.html"
-url = "/ostrze-szczescia.html"
+url = "/DnDHelp/ostrze-szczescia.html"
 title = "Ostrze szczęścia"
 
 [[input.files]]
 path = "oszczep-blyskawicy.html"
-url = "/oszczep-blyskawicy.html"
+url = "/DnDHelp/oszczep-blyskawicy.html"
 title = "Oszczep błyskawicy"
 
 [[input.files]]
 path = "ozywienie.html"
-url = "/ozywienie.html"
+url = "/DnDHelp/ozywienie.html"
 title = "Ożywienie"
 
 [[input.files]]
 path = "pajecza-wspinaczka.html"
-url = "/pajecza-wspinaczka.html"
+url = "/DnDHelp/pajecza-wspinaczka.html"
 title = "Pajęcza wspinaczka"
 
 [[input.files]]
 path = "pajeczyna.html"
-url = "/pajeczyna.html"
+url = "/DnDHelp/pajeczyna.html"
 title = "Pajęczyna"
 
 [[input.files]]
 path = "palace-ugodzenie.html"
-url = "/palace-ugodzenie.html"
+url = "/DnDHelp/palace-ugodzenie.html"
 title = "Palące ugodzenie"
 
 [[input.files]]
 path = "palec-smierci.html"
-url = "/palec-smierci.html"
+url = "/DnDHelp/palec-smierci.html"
 title = "Palec śmierci"
 
 [[input.files]]
 path = "pancerz-1.html"
-url = "/pancerz-1.html"
+url = "/DnDHelp/pancerz-1.html"
 title = "Pancerz +1"
 
 [[input.files]]
 path = "pancerz-1-2-lub-3.html"
-url = "/pancerz-1-2-lub-3.html"
+url = "/DnDHelp/pancerz-1-2-lub-3.html"
 title = "Pancerz +1, +2 lub +3"
 
 [[input.files]]
 path = "pancerz-2.html"
-url = "/pancerz-2.html"
+url = "/DnDHelp/pancerz-2.html"
 title = "Pancerz +2"
 
 [[input.files]]
 path = "pancerz-3.html"
-url = "/pancerz-3.html"
+url = "/DnDHelp/pancerz-3.html"
 title = "Pancerz +3"
 
 [[input.files]]
 path = "pancerz-niewrazliwosci.html"
-url = "/pancerz-niewrazliwosci.html"
+url = "/DnDHelp/pancerz-niewrazliwosci.html"
 title = "Pancerz niewrażliwości"
 
 [[input.files]]
 path = "pancerz-odpornosci.html"
-url = "/pancerz-odpornosci.html"
+url = "/DnDHelp/pancerz-odpornosci.html"
 title = "Pancerz odporności"
 
 [[input.files]]
 path = "pancerze-lucznicze.html"
-url = "/pancerze-lucznicze.html"
+url = "/DnDHelp/pancerze-lucznicze.html"
 title = "Pancerze łucznicze"
 
 [[input.files]]
 path = "pancerze-obronne.html"
-url = "/pancerze-obronne.html"
+url = "/DnDHelp/pancerze-obronne.html"
 title = "Pancerze obronne"
 
 [[input.files]]
 path = "pas-gigantycznej-sily.html"
-url = "/pas-gigantycznej-sily.html"
+url = "/DnDHelp/pas-gigantycznej-sily.html"
 title = "Pas gigantycznej siły"
 
 [[input.files]]
 path = "pas-gigantycznej-sily-gigant-burzowy.html"
-url = "/pas-gigantycznej-sily-gigant-burzowy.html"
+url = "/DnDHelp/pas-gigantycznej-sily-gigant-burzowy.html"
 title = "Pas gigantycznej siły (gigant burzowy)"
 
 [[input.files]]
 path = "pas-gigantycznej-sily-gigant-chmurowy.html"
-url = "/pas-gigantycznej-sily-gigant-chmurowy.html"
+url = "/DnDHelp/pas-gigantycznej-sily-gigant-chmurowy.html"
 title = "Pas gigantycznej siły (gigant chmurowy)"
 
 [[input.files]]
 path = "pas-gigantycznej-sily-gigant-ze-wzgorza.html"
-url = "/pas-gigantycznej-sily-gigant-ze-wzgorza.html"
+url = "/DnDHelp/pas-gigantycznej-sily-gigant-ze-wzgorza.html"
 title = "Pas gigantycznej siły (gigant ze wzgórza)"
 
 [[input.files]]
 path = "pas-krasnoludzkosci.html"
-url = "/pas-krasnoludzkosci.html"
+url = "/DnDHelp/pas-krasnoludzkosci.html"
 title = "Pas krasnoludzkości"
 
 [[input.files]]
 path = "pas-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
-url = "/pas-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
+url = "/DnDHelp/pas-sily-olbrzyma-mroznego-lub-kamiennego-olbrzyma.html"
 title = "Pas siły olbrzyma (mroźnego lub kamiennego olbrzyma)"
 
 [[input.files]]
 path = "pas-sily-olbrzyma-ognisty-olbrzym.html"
-url = "/pas-sily-olbrzyma-ognisty-olbrzym.html"
+url = "/DnDHelp/pas-sily-olbrzyma-ognisty-olbrzym.html"
 title = "Pas siły olbrzyma (ognisty olbrzym)"
 
 [[input.files]]
 path = "periapt-dowodu-przeciwko-truciznie.html"
-url = "/periapt-dowodu-przeciwko-truciznie.html"
+url = "/DnDHelp/periapt-dowodu-przeciwko-truciznie.html"
 title = "Periapt dowodu przeciwko truciźnie"
 
 [[input.files]]
 path = "periapt-zamkniecia-rany.html"
-url = "/periapt-zamkniecia-rany.html"
+url = "/DnDHelp/periapt-zamkniecia-rany.html"
 title = "Periapt zamknięcia rany"
 
 [[input.files]]
 path = "periapt-zdrowia.html"
-url = "/periapt-zdrowia.html"
+url = "/DnDHelp/periapt-zdrowia.html"
 title = "Periapt zdrowia"
 
 [[input.files]]
 path = "perla-mocy.html"
-url = "/perla-mocy.html"
+url = "/DnDHelp/perla-mocy.html"
 title = "Perła mocy"
 
 [[input.files]]
 path = "petajace-uderzenie.html"
-url = "/petajace-uderzenie.html"
+url = "/DnDHelp/petajace-uderzenie.html"
 title = "Pętające uderzenie"
 
 [[input.files]]
 path = "piekielna-reprymenda.html"
-url = "/piekielna-reprymenda.html"
+url = "/DnDHelp/piekielna-reprymenda.html"
 title = "Piekielna reprymenda"
 
 [[input.files]]
 path = "piekielne-wezwanie.html"
-url = "/piekielne-wezwanie.html"
+url = "/DnDHelp/piekielne-wezwanie.html"
 title = "Piekielne wezwanie"
 
 [[input.files]]
 path = "pierscien-barana.html"
-url = "/pierscien-barana.html"
+url = "/DnDHelp/pierscien-barana.html"
 title = "Pierścień barana"
 
 [[input.files]]
 path = "pierscien-chodzenia-po-wodzie.html"
-url = "/pierscien-chodzenia-po-wodzie.html"
+url = "/DnDHelp/pierscien-chodzenia-po-wodzie.html"
 title = "Pierścień chodzenia po wodzie"
 
 [[input.files]]
 path = "pierscien-ciepla.html"
-url = "/pierscien-ciepla.html"
+url = "/DnDHelp/pierscien-ciepla.html"
 title = "Pierścień ciepła"
 
 [[input.files]]
 path = "pierscien-darmowych-akcji.html"
-url = "/pierscien-darmowych-akcji.html"
+url = "/DnDHelp/pierscien-darmowych-akcji.html"
 title = "Pierścień darmowych akcji"
 
 [[input.files]]
 path = "pierscien-dowodzenia-zywiolami.html"
-url = "/pierscien-dowodzenia-zywiolami.html"
+url = "/DnDHelp/pierscien-dowodzenia-zywiolami.html"
 title = "Pierścień dowodzenia żywiołami"
 
 [[input.files]]
 path = "pierscien-dowodzenia-zywiolem-powietrza.html"
-url = "/pierscien-dowodzenia-zywiolem-powietrza.html"
+url = "/DnDHelp/pierscien-dowodzenia-zywiolem-powietrza.html"
 title = "Pierścień dowodzenia żywiołem powietrza"
 
 [[input.files]]
 path = "pierscien-dowodzenia-zywiolem-wody.html"
-url = "/pierscien-dowodzenia-zywiolem-wody.html"
+url = "/DnDHelp/pierscien-dowodzenia-zywiolem-wody.html"
 title = "Pierścień dowodzenia żywiołem wody"
 
 [[input.files]]
 path = "pierscien-dowodzenia-zywiolem-ziemi.html"
-url = "/pierscien-dowodzenia-zywiolem-ziemi.html"
+url = "/DnDHelp/pierscien-dowodzenia-zywiolem-ziemi.html"
 title = "Pierścień dowodzenia żywiołem ziemi"
 
 [[input.files]]
 path = "pierscien-niewidzialnosci.html"
-url = "/pierscien-niewidzialnosci.html"
+url = "/DnDHelp/pierscien-niewidzialnosci.html"
 title = "Pierścień niewidzialności"
 
 [[input.files]]
 path = "pierscien-ochrony.html"
-url = "/pierscien-ochrony.html"
+url = "/DnDHelp/pierscien-ochrony.html"
 title = "Pierścień ochrony"
 
 [[input.files]]
 path = "pierscien-odpornosci-na-trucizne.html"
-url = "/pierscien-odpornosci-na-trucizne.html"
+url = "/DnDHelp/pierscien-odpornosci-na-trucizne.html"
 title = "Pierścień odporności na truciznę"
 
 [[input.files]]
 path = "pierscien-odwracania-zaklec.html"
-url = "/pierscien-odwracania-zaklec.html"
+url = "/DnDHelp/pierscien-odwracania-zaklec.html"
 title = "Pierścień odwracania zaklęć"
 
 [[input.files]]
 path = "pierscien-oporu.html"
-url = "/pierscien-oporu.html"
+url = "/DnDHelp/pierscien-oporu.html"
 title = "Pierścień oporu"
 
 [[input.files]]
 path = "pierscien-oslony-umyslu.html"
-url = "/pierscien-oslony-umyslu.html"
+url = "/DnDHelp/pierscien-oslony-umyslu.html"
 title = "Pierścień osłony umysłu"
 
 [[input.files]]
 path = "pierscien-plywacki.html"
-url = "/pierscien-plywacki.html"
+url = "/DnDHelp/pierscien-plywacki.html"
 title = "Pierścień pływacki"
 
 [[input.files]]
 path = "pierscien-przechowywania-zaklec.html"
-url = "/pierscien-przechowywania-zaklec.html"
+url = "/DnDHelp/pierscien-przechowywania-zaklec.html"
 title = "Pierścień przechowywania zaklęć"
 
 [[input.files]]
 path = "pierscien-przywolania-djinni.html"
-url = "/pierscien-przywolania-djinni.html"
+url = "/DnDHelp/pierscien-przywolania-djinni.html"
 title = "Pierścień przywołania djinni"
 
 [[input.files]]
 path = "pierscien-regeneracji.html"
-url = "/pierscien-regeneracji.html"
+url = "/DnDHelp/pierscien-regeneracji.html"
 title = "Pierścień regeneracji"
 
 [[input.files]]
 path = "pierscien-skokow.html"
-url = "/pierscien-skokow.html"
+url = "/DnDHelp/pierscien-skokow.html"
 title = "Pierścień skoków"
 
 [[input.files]]
 path = "pierscien-spadajacego-piora.html"
-url = "/pierscien-spadajacego-piora.html"
+url = "/DnDHelp/pierscien-spadajacego-piora.html"
 title = "Pierścień spadającego pióra"
 
 [[input.files]]
 path = "pierscien-spadajacych-gwiazd.html"
-url = "/pierscien-spadajacych-gwiazd.html"
+url = "/DnDHelp/pierscien-spadajacych-gwiazd.html"
 title = "Pierścień spadających gwiazd"
 
 [[input.files]]
 path = "pierscien-telekinezy.html"
-url = "/pierscien-telekinezy.html"
+url = "/DnDHelp/pierscien-telekinezy.html"
 title = "Pierścień telekinezy"
 
 [[input.files]]
 path = "pierscien-trzech-zyczen.html"
-url = "/pierscien-trzech-zyczen.html"
+url = "/DnDHelp/pierscien-trzech-zyczen.html"
 title = "Pierścień trzech życzeń"
 
 [[input.files]]
 path = "pierscien-uniku.html"
-url = "/pierscien-uniku.html"
+url = "/DnDHelp/pierscien-uniku.html"
 title = "Pierścień uniku"
 
 [[input.files]]
 path = "pierscien-widzenia-rentgenowskiego.html"
-url = "/pierscien-widzenia-rentgenowskiego.html"
+url = "/DnDHelp/pierscien-widzenia-rentgenowskiego.html"
 title = "Pierścień widzenia rentgenowskiego"
 
 [[input.files]]
 path = "pierscien-wplywu-zwierzat.html"
-url = "/pierscien-wplywu-zwierzat.html"
+url = "/DnDHelp/pierscien-wplywu-zwierzat.html"
 title = "Pierścień wpływu zwierząt"
 
 [[input.files]]
 path = "pierscien-zywiolu-ognia.html"
-url = "/pierscien-zywiolu-ognia.html"
+url = "/DnDHelp/pierscien-zywiolu-ognia.html"
 title = "Pierścień żywiołu ognia"
 
 [[input.files]]
 path = "pierwotna-dzikosc.html"
-url = "/pierwotna-dzikosc.html"
+url = "/DnDHelp/pierwotna-dzikosc.html"
 title = "Pierwotna dzikość"
 
 [[input.files]]
 path = "pierwotna-ochrona.html"
-url = "/pierwotna-ochrona.html"
+url = "/DnDHelp/pierwotna-ochrona.html"
 title = "Pierwotna ochrona"
 
 [[input.files]]
 path = "pietnujace-ugodzenie.html"
-url = "/pietnujace-ugodzenie.html"
+url = "/DnDHelp/pietnujace-ugodzenie.html"
 title = "Piętnujące ugodzenie"
 
 [[input.files]]
 path = "piorkospadanie.html"
-url = "/piorkospadanie.html"
+url = "/DnDHelp/piorkospadanie.html"
 title = "Piórkospadanie"
 
 [[input.files]]
 path = "piorun.html"
-url = "/piorun.html"
+url = "/DnDHelp/piorun.html"
 title = "Piorun"
 
 [[input.files]]
 path = "piorunostrzal.html"
-url = "/piorunostrzal.html"
+url = "/DnDHelp/piorunostrzal.html"
 title = "Piorunostrzał"
 
 [[input.files]]
 path = "pirotechnika.html"
-url = "/pirotechnika.html"
+url = "/DnDHelp/pirotechnika.html"
 title = "Pirotechnika"
 
 [[input.files]]
 path = "pisanie-na-niebie.html"
-url = "/pisanie-na-niebie.html"
+url = "/DnDHelp/pisanie-na-niebie.html"
 title = "Pisanie na niebie"
 
 [[input.files]]
 path = "plaga.html"
-url = "/plaga.html"
+url = "/DnDHelp/plaga.html"
 title = "Plaga"
 
 [[input.files]]
 path = "plaga-owadow.html"
-url = "/plaga-owadow.html"
+url = "/DnDHelp/plaga-owadow.html"
 title = "Plaga owadów"
 
 [[input.files]]
 path = "plaszcz-elfow.html"
-url = "/plaszcz-elfow.html"
+url = "/DnDHelp/plaszcz-elfow.html"
 title = "Płaszcz elfów"
 
 [[input.files]]
 path = "plaszcz-krzyzowca.html"
-url = "/plaszcz-krzyzowca.html"
+url = "/DnDHelp/plaszcz-krzyzowca.html"
 title = "Płaszcz krzyżowca"
 
 [[input.files]]
 path = "plaszcz-manty.html"
-url = "/plaszcz-manty.html"
+url = "/DnDHelp/plaszcz-manty.html"
 title = "Płaszcz manty"
 
 [[input.files]]
 path = "plaszcz-nietoperza.html"
-url = "/plaszcz-nietoperza.html"
+url = "/DnDHelp/plaszcz-nietoperza.html"
 title = "Płaszcz nietoperza"
 
 [[input.files]]
 path = "plaszcz-niewidzialnosci.html"
-url = "/plaszcz-niewidzialnosci.html"
+url = "/DnDHelp/plaszcz-niewidzialnosci.html"
 title = "Płaszcz niewidzialności"
 
 [[input.files]]
 path = "plaszcz-ochronny.html"
-url = "/plaszcz-ochronny.html"
+url = "/DnDHelp/plaszcz-ochronny.html"
 title = "Płaszcz ochronny"
 
 [[input.files]]
 path = "plaszcz-odpornosci-na-zaklecia.html"
-url = "/plaszcz-odpornosci-na-zaklecia.html"
+url = "/DnDHelp/plaszcz-odpornosci-na-zaklecia.html"
 title = "Płaszcz odporności na zaklęcia"
 
 [[input.files]]
 path = "plaszcz-pajeczakow.html"
-url = "/plaszcz-pajeczakow.html"
+url = "/DnDHelp/plaszcz-pajeczakow.html"
 title = "Płaszcz pajęczaków"
 
 [[input.files]]
 path = "plaszcz-przemieszczenia.html"
-url = "/plaszcz-przemieszczenia.html"
+url = "/DnDHelp/plaszcz-przemieszczenia.html"
 title = "Płaszcz przemieszczenia"
 
 [[input.files]]
 path = "plomienie-aganazzara.html"
-url = "/plomienie-aganazzara.html"
+url = "/DnDHelp/plomienie-aganazzara.html"
 title = "Płomienie aganazzara"
 
 [[input.files]]
 path = "plomienna-kula.html"
-url = "/plomienna-kula.html"
+url = "/DnDHelp/plomienna-kula.html"
 title = "Płomienna kula"
 
 [[input.files]]
 path = "plomienne-ostrze.html"
-url = "/plomienne-ostrze.html"
+url = "/DnDHelp/plomienne-ostrze.html"
 title = "Płomienne ostrze"
 
 [[input.files]]
 path = "plomienne-strzaly.html"
-url = "/plomienne-strzaly.html"
+url = "/DnDHelp/plomienne-strzaly.html"
 title = "Płomienne strzały"
 
 [[input.files]]
 path = "plomienny-jezyk.html"
-url = "/plomienny-jezyk.html"
+url = "/DnDHelp/plomienny-jezyk.html"
 title = "Płomienny język"
 
 [[input.files]]
 path = "plonace-dlonie.html"
-url = "/plonace-dlonie.html"
+url = "/DnDHelp/plonace-dlonie.html"
 title = "Płonące dłonie"
 
 [[input.files]]
 path = "plugawy-uwiad-abi-dalzima.html"
-url = "/plugawy-uwiad-abi-dalzima.html"
+url = "/DnDHelp/plugawy-uwiad-abi-dalzima.html"
 title = "Plugawy uwiąd abi- dalzima"
 
 [[input.files]]
 path = "plyta-krasnoludzka.html"
-url = "/plyta-krasnoludzka.html"
+url = "/DnDHelp/plyta-krasnoludzka.html"
 title = "Płyta krasnoludzka"
 
 [[input.files]]
 path = "plytowa-zbroja-eterycznosci.html"
-url = "/plytowa-zbroja-eterycznosci.html"
+url = "/DnDHelp/plytowa-zbroja-eterycznosci.html"
 title = "Płytowa zbroja eteryczności"
 
 [[input.files]]
 path = "pochloniecie-zywiolow.html"
-url = "/pochloniecie-zywiolow.html"
+url = "/DnDHelp/pochloniecie-zywiolow.html"
 title = "Pochłonięcie żywiołów"
 
 [[input.files]]
 path = "pocisk-wiodacy.html"
-url = "/pocisk-wiodacy.html"
+url = "/DnDHelp/pocisk-wiodacy.html"
 title = "Pocisk wiodący"
 
 [[input.files]]
 path = "poczta-ze-smoczej-luski.html"
-url = "/poczta-ze-smoczej-luski.html"
+url = "/DnDHelp/poczta-ze-smoczej-luski.html"
 title = "Poczta ze smoczej łuski"
 
 [[input.files]]
 path = "podkowy-predkosci.html"
-url = "/podkowy-predkosci.html"
+url = "/DnDHelp/podkowy-predkosci.html"
 title = "Podkowy prędkości"
 
 [[input.files]]
 path = "podkowy-zefiru.html"
-url = "/podkowy-zefiru.html"
+url = "/DnDHelp/podkowy-zefiru.html"
 title = "Podkowy zefiru"
 
 [[input.files]]
 path = "podmiana-wspomnien.html"
-url = "/podmiana-wspomnien.html"
+url = "/DnDHelp/podmiana-wspomnien.html"
 title = "Podmiana wspomnień"
 
 [[input.files]]
 path = "podmuch.html"
-url = "/podmuch.html"
+url = "/DnDHelp/podmuch.html"
 title = "Podmuch"
 
 [[input.files]]
 path = "podrecznik-cwiczen-zarobkowych.html"
-url = "/podrecznik-cwiczen-zarobkowych.html"
+url = "/DnDHelp/podrecznik-cwiczen-zarobkowych.html"
 title = "Podręcznik ćwiczeń zarobkowych"
 
 [[input.files]]
 path = "podrecznik-golemow.html"
-url = "/podrecznik-golemow.html"
+url = "/DnDHelp/podrecznik-golemow.html"
 title = "Podręcznik golemów"
 
 [[input.files]]
 path = "podrecznik-szybkosci-dzialania.html"
-url = "/podrecznik-szybkosci-dzialania.html"
+url = "/DnDHelp/podrecznik-szybkosci-dzialania.html"
 title = "Podręcznik szybkości działania"
 
 [[input.files]]
 path = "podrecznik-zdrowia-ciala.html"
-url = "/podrecznik-zdrowia-ciala.html"
+url = "/DnDHelp/podrecznik-zdrowia-ciala.html"
 title = "Podręcznik zdrowia ciała"
 
 [[input.files]]
 path = "podreczny-plecak-hewarda.html"
-url = "/podreczny-plecak-hewarda.html"
+url = "/DnDHelp/podreczny-plecak-hewarda.html"
 title = "Podręczny plecak Hewarda"
 
 [[input.files]]
 path = "podroz-przez-rosliny.html"
-url = "/podroz-przez-rosliny.html"
+url = "/DnDHelp/podroz-przez-rosliny.html"
 title = "Podróż przez rośliny"
 
 [[input.files]]
 path = "podstepna-bron.html"
-url = "/podstepna-bron.html"
+url = "/DnDHelp/podstepna-bron.html"
 title = "Podstępna broń"
 
 [[input.files]]
 path = "pogromca-olbrzymow.html"
-url = "/pogromca-olbrzymow.html"
+url = "/DnDHelp/pogromca-olbrzymow.html"
 title = "Pogromca olbrzymów"
 
 [[input.files]]
 path = "pogromca-smokow.html"
-url = "/pogromca-smokow.html"
+url = "/DnDHelp/pogromca-smokow.html"
 title = "Pogromca smoków"
 
 [[input.files]]
 path = "poklad-iluzji.html"
-url = "/poklad-iluzji.html"
+url = "/DnDHelp/poklad-iluzji.html"
 title = "Pokład iluzji"
 
 [[input.files]]
 path = "poklad-wielu-rzeczy.html"
-url = "/poklad-wielu-rzeczy.html"
+url = "/DnDHelp/poklad-wielu-rzeczy.html"
 title = "Pokład wielu rzeczy"
 
 [[input.files]]
 path = "pole-antymagii.html"
-url = "/pole-antymagii.html"
+url = "/DnDHelp/pole-antymagii.html"
 title = "Pole antymagii"
 
 [[input.files]]
 path = "polimorfia.html"
-url = "/polimorfia.html"
+url = "/DnDHelp/polimorfia.html"
 title = "Polimorfia"
 
 [[input.files]]
 path = "pomniejsza-iluzja.html"
-url = "/pomniejsza-iluzja.html"
+url = "/DnDHelp/pomniejsza-iluzja.html"
 title = "Pomniejsza iluzja"
 
 [[input.files]]
 path = "pomoc.html"
-url = "/pomoc.html"
+url = "/DnDHelp/pomoc.html"
 title = "Pomoc"
 
 [[input.files]]
 path = "porazajacy-uscisk.html"
-url = "/porazajacy-uscisk.html"
+url = "/DnDHelp/porazajacy-uscisk.html"
 title = "Porażający uścisk"
 
 [[input.files]]
 path = "poruszenie-ziemi.html"
-url = "/poruszenie-ziemi.html"
+url = "/DnDHelp/poruszenie-ziemi.html"
 title = "Poruszenie ziemi"
 
 [[input.files]]
 path = "poryw-wiatru.html"
-url = "/poryw-wiatru.html"
+url = "/DnDHelp/poryw-wiatru.html"
 title = "Poryw wiatru"
 
 [[input.files]]
 path = "potezna-forteca.html"
-url = "/potezna-forteca.html"
+url = "/DnDHelp/potezna-forteca.html"
 title = "Potężna forteca"
 
 [[input.files]]
 path = "powiekszenie_pomniejszenie.html"
-url = "/powiekszenie_pomniejszenie.html"
+url = "/DnDHelp/powiekszenie_pomniejszenie.html"
 title = "Powiększenie_pomniejszenie"
 
 [[input.files]]
 path = "powstrzymanie-smierci.html"
-url = "/powstrzymanie-smierci.html"
+url = "/DnDHelp/powstrzymanie-smierci.html"
 title = "Powstrzymanie śmierci"
 
 [[input.files]]
 path = "pozor-smierci.html"
-url = "/pozor-smierci.html"
+url = "/DnDHelp/pozor-smierci.html"
 title = "Pozór śmierci"
 
 [[input.files]]
 path = "pozory.html"
-url = "/pozory.html"
+url = "/DnDHelp/pozory.html"
 title = "Pozory"
 
 [[input.files]]
 path = "pracownicy-lasow.html"
-url = "/pracownicy-lasow.html"
+url = "/DnDHelp/pracownicy-lasow.html"
 title = "Pracownicy lasów"
 
 [[input.files]]
 path = "prawdziwa-polimorfia.html"
-url = "/prawdziwa-polimorfia.html"
+url = "/DnDHelp/prawdziwa-polimorfia.html"
 title = "Prawdziwa polimorfia"
 
 [[input.files]]
 path = "prawdziwe-uderzenie.html"
-url = "/prawdziwe-uderzenie.html"
+url = "/DnDHelp/prawdziwe-uderzenie.html"
 title = "Prawdziwe uderzenie"
 
 [[input.files]]
 path = "prawdziwe-widzenie.html"
-url = "/prawdziwe-widzenie.html"
+url = "/DnDHelp/prawdziwe-widzenie.html"
 title = "Prawdziwe widzenie"
 
 [[input.files]]
 path = "prawdziwe-zmartwychwstanie.html"
-url = "/prawdziwe-zmartwychwstanie.html"
+url = "/DnDHelp/prawdziwe-zmartwychwstanie.html"
 title = "Prawdziwe zmartwychwstanie"
 
 [[input.files]]
 path = "produkcja.html"
-url = "/produkcja.html"
+url = "/DnDHelp/produkcja.html"
 title = "Produkcja"
 
 [[input.files]]
 path = "profetyzm.html"
-url = "/profetyzm.html"
+url = "/DnDHelp/profetyzm.html"
 title = "Profetyzm"
 
 [[input.files]]
 path = "projekcja-astralna.html"
-url = "/projekcja-astralna.html"
+url = "/DnDHelp/projekcja-astralna.html"
 title = "Projekcja astralna"
 
 [[input.files]]
 path = "projekcja-obrazu.html"
-url = "/projekcja-obrazu.html"
+url = "/DnDHelp/projekcja-obrazu.html"
 title = "Projekcja obrazu"
 
 [[input.files]]
 path = "promien-mrozu.html"
-url = "/promien-mrozu.html"
+url = "/DnDHelp/promien-mrozu.html"
 title = "Promień mrozu"
 
 [[input.files]]
 path = "promien-nadziei.html"
-url = "/promien-nadziei.html"
+url = "/DnDHelp/promien-nadziei.html"
 title = "Promień nadziei"
 
 [[input.files]]
 path = "promien-oslabienia.html"
-url = "/promien-oslabienia.html"
+url = "/DnDHelp/promien-oslabienia.html"
 title = "Promień osłabienia"
 
 [[input.files]]
 path = "promien-slonca.html"
-url = "/promien-slonca.html"
+url = "/DnDHelp/promien-slonca.html"
 title = "Promień słońca"
 
 [[input.files]]
 path = "promien-zatrucia.html"
-url = "/promien-zatrucia.html"
+url = "/DnDHelp/promien-zatrucia.html"
 title = "Promień zatrucia"
 
 [[input.files]]
 path = "prowokacja.html"
-url = "/prowokacja.html"
+url = "/DnDHelp/prowokacja.html"
 title = "Prowokacja"
 
 [[input.files]]
 path = "pryzmatyczny-mur.html"
-url = "/pryzmatyczny-mur.html"
+url = "/DnDHelp/pryzmatyczny-mur.html"
 title = "Pryzmatyczny mur"
 
 [[input.files]]
 path = "pryzmatyczny-rozprysk.html"
-url = "/pryzmatyczny-rozprysk.html"
+url = "/DnDHelp/pryzmatyczny-rozprysk.html"
 title = "Pryzmatyczny rozprysk"
 
 [[input.files]]
 path = "przebranie-siebie.html"
-url = "/przebranie-siebie.html"
+url = "/DnDHelp/przebranie-siebie.html"
 title = "Przebranie siebie"
 
 [[input.files]]
 path = "przebudzenie.html"
-url = "/przebudzenie.html"
+url = "/DnDHelp/przebudzenie.html"
 title = "Przebudzenie"
 
 [[input.files]]
 path = "przeciwzaklecie.html"
-url = "/przeciwzaklecie.html"
+url = "/DnDHelp/przeciwzaklecie.html"
 title = "Przeciwzaklęcie"
 
 [[input.files]]
 path = "przejscie-bez-sladu.html"
-url = "/przejscie-bez-sladu.html"
+url = "/DnDHelp/przejscie-bez-sladu.html"
 title = "Przejście bez śladu"
 
 [[input.files]]
 path = "przejscie-w-murze.html"
-url = "/przejscie-w-murze.html"
+url = "/DnDHelp/przejscie-w-murze.html"
 title = "Przejście w murze"
 
 [[input.files]]
 path = "przemiana-skaly.html"
-url = "/przemiana-skaly.html"
+url = "/DnDHelp/przemiana-skaly.html"
 title = "Przemiana skały"
 
 [[input.files]]
 path = "przemiana-tensera.html"
-url = "/przemiana-tensera.html"
+url = "/DnDHelp/przemiana-tensera.html"
 title = "Przemiana tensera"
 
 [[input.files]]
 path = "przeniesienie-zycia.html"
-url = "/przeniesienie-zycia.html"
+url = "/DnDHelp/przeniesienie-zycia.html"
 title = "Przeniesienie życia"
 
 [[input.files]]
 path = "przenosny-otwor.html"
-url = "/przenosny-otwor.html"
+url = "/DnDHelp/przenosny-otwor.html"
 title = "Przenośny otwór"
 
 [[input.files]]
 path = "przeszywajacy-dotyk.html"
-url = "/przeszywajacy-dotyk.html"
+url = "/DnDHelp/przeszywajacy-dotyk.html"
 title = "Przeszywający dotyk"
 
 [[input.files]]
 path = "przezornosc.html"
-url = "/przezornosc.html"
+url = "/DnDHelp/przezornosc.html"
 title = "Przezorność"
 
 [[input.files]]
 path = "przyjaciel-zwierzat.html"
-url = "/przyjaciel-zwierzat.html"
+url = "/DnDHelp/przyjaciel-zwierzat.html"
 title = "Przyjaciel zwierząt"
 
 [[input.files]]
 path = "przyjazn.html"
-url = "/przyjazn.html"
+url = "/DnDHelp/przyjazn.html"
 title = "Przyjaźń"
 
 [[input.files]]
 path = "przyladek-mountebank.html"
-url = "/przyladek-mountebank.html"
+url = "/DnDHelp/przyladek-mountebank.html"
 title = "Przylądek Mountebank"
 
 [[input.files]]
 path = "przymus.html"
-url = "/przymus.html"
+url = "/DnDHelp/przymus.html"
 title = "Przymus"
 
 [[input.files]]
 path = "przyspieszenie.html"
-url = "/przyspieszenie.html"
+url = "/DnDHelp/przyspieszenie.html"
 title = "Przyspieszenie"
 
 [[input.files]]
 path = "przywolanie-fey.html"
-url = "/przywolanie-fey.html"
+url = "/DnDHelp/przywolanie-fey.html"
 title = "Przywołanie fey"
 
 [[input.files]]
 path = "przywolanie-lesnych-istot.html"
-url = "/przywolanie-lesnych-istot.html"
+url = "/DnDHelp/przywolanie-lesnych-istot.html"
 title = "Przywołanie leśnych istot"
 
 [[input.files]]
 path = "przywolanie-mniejszych-zywiolakow.html"
-url = "/przywolanie-mniejszych-zywiolakow.html"
+url = "/DnDHelp/przywolanie-mniejszych-zywiolakow.html"
 title = "Przywołanie mniejszych żywiołaków"
 
 [[input.files]]
 path = "przywolanie-niebianina.html"
-url = "/przywolanie-niebianina.html"
+url = "/DnDHelp/przywolanie-niebianina.html"
 title = "Przywołanie niebianina"
 
 [[input.files]]
 path = "przywolanie-ognia-zaporowego.html"
-url = "/przywolanie-ognia-zaporowego.html"
+url = "/DnDHelp/przywolanie-ognia-zaporowego.html"
 title = "Przywołanie ognia zaporowego"
 
 [[input.files]]
 path = "przywolanie-ostrzalu.html"
-url = "/przywolanie-ostrzalu.html"
+url = "/DnDHelp/przywolanie-ostrzalu.html"
 title = "Przywołanie ostrzału"
 
 [[input.files]]
 path = "przywolanie-pomniejszych-demonow.html"
-url = "/przywolanie-pomniejszych-demonow.html"
+url = "/DnDHelp/przywolanie-pomniejszych-demonow.html"
 title = "Przywołanie pomniejszych demonów"
 
 [[input.files]]
 path = "przywolanie-wiekszego-demona.html"
-url = "/przywolanie-wiekszego-demona.html"
+url = "/DnDHelp/przywolanie-wiekszego-demona.html"
 title = "Przywołanie większego demona"
 
 [[input.files]]
 path = "przywolanie-zwierzat.html"
-url = "/przywolanie-zwierzat.html"
+url = "/DnDHelp/przywolanie-zwierzat.html"
 title = "Przywołanie zwierząt"
 
 [[input.files]]
 path = "przywolanie-zywiolaka.html"
-url = "/przywolanie-zywiolaka.html"
+url = "/DnDHelp/przywolanie-zywiolaka.html"
 title = "Przywołanie żywiołaka"
 
 [[input.files]]
 path = "psychiczny-wrzask.html"
-url = "/psychiczny-wrzask.html"
+url = "/DnDHelp/psychiczny-wrzask.html"
 title = "Psychiczny wrzask"
 
 [[input.files]]
 path = "pyl-powodujacy-kichanie-i-krztuszenie-sie.html"
-url = "/pyl-powodujacy-kichanie-i-krztuszenie-sie.html"
+url = "/DnDHelp/pyl-powodujacy-kichanie-i-krztuszenie-sie.html"
 title = "Pył powodujący kichanie i krztuszenie się"
 
 [[input.files]]
 path = "pyl-suchosci.html"
-url = "/pyl-suchosci.html"
+url = "/DnDHelp/pyl-suchosci.html"
 title = "Pył suchości"
 
 [[input.files]]
 path = "pyl-znikniecia.html"
-url = "/pyl-znikniecia.html"
+url = "/DnDHelp/pyl-znikniecia.html"
 title = "Pył zniknięcia"
 
 [[input.files]]
 path = "pylowy-wir.html"
-url = "/pylowy-wir.html"
+url = "/DnDHelp/pylowy-wir.html"
 title = "Pyłowy wir"
 
 [[input.files]]
 path = "ramiona-hadara.html"
-url = "/ramiona-hadara.html"
+url = "/DnDHelp/ramiona-hadara.html"
 title = "Ramiona hadara"
 
 [[input.files]]
 path = "regeneracja.html"
-url = "/regeneracja.html"
+url = "/DnDHelp/regeneracja.html"
 title = "Regeneracja"
 
 [[input.files]]
 path = "reinkarnacja.html"
-url = "/reinkarnacja.html"
+url = "/DnDHelp/reinkarnacja.html"
 title = "Reinkarnacja"
 
 [[input.files]]
 path = "rekawice-do-plywania-i-wspinaczki.html"
-url = "/rekawice-do-plywania-i-wspinaczki.html"
+url = "/DnDHelp/rekawice-do-plywania-i-wspinaczki.html"
 title = "Rękawice do pływania i wspinaczki"
 
 [[input.files]]
 path = "rekawice-do-wyrywania-pociskow.html"
-url = "/rekawice-do-wyrywania-pociskow.html"
+url = "/DnDHelp/rekawice-do-wyrywania-pociskow.html"
 title = "Rękawice do wyrywania pocisków"
 
 [[input.files]]
 path = "rekawice-mocy-ogra.html"
-url = "/rekawice-mocy-ogra.html"
+url = "/DnDHelp/rekawice-mocy-ogra.html"
 title = "Rękawice mocy ogra"
 
 [[input.files]]
 path = "robactwo.html"
-url = "/robactwo.html"
+url = "/DnDHelp/robactwo.html"
 title = "Robactwo"
 
 [[input.files]]
 path = "rog-strzalowy.html"
-url = "/rog-strzalowy.html"
+url = "/DnDHelp/rog-strzalowy.html"
 title = "Róg strzałowy"
 
 [[input.files]]
 path = "rog-valhalli-srebrny.html"
-url = "/rog-valhalli-srebrny.html"
+url = "/DnDHelp/rog-valhalli-srebrny.html"
 title = "Róg valhalli (srebrny)"
 
 [[input.files]]
 path = "rog-walhalli.html"
-url = "/rog-walhalli.html"
+url = "/DnDHelp/rog-walhalli.html"
 title = "Róg walhalli"
 
 [[input.files]]
 path = "rog-walhalli-braz.html"
-url = "/rog-walhalli-braz.html"
+url = "/DnDHelp/rog-walhalli-braz.html"
 title = "Róg walhalli (brąz)"
 
 [[input.files]]
 path = "rog-walhalli-mosiadz.html"
-url = "/rog-walhalli-mosiadz.html"
+url = "/DnDHelp/rog-walhalli-mosiadz.html"
 title = "Róg walhalli (mosiądz)"
 
 [[input.files]]
 path = "rog-walhalli-zelazny.html"
-url = "/rog-walhalli-zelazny.html"
+url = "/DnDHelp/rog-walhalli-zelazny.html"
 title = "Róg walhalli (żelazny)"
 
 [[input.files]]
 path = "roj-meteorytow.html"
-url = "/roj-meteorytow.html"
+url = "/DnDHelp/roj-meteorytow.html"
 title = "Rój meteorytów"
 
 [[input.files]]
 path = "roj-sniezek-snilloca.html"
-url = "/roj-sniezek-snilloca.html"
+url = "/DnDHelp/roj-sniezek-snilloca.html"
 title = "Rój śnieżek snilloca"
 
 [[input.files]]
 path = "rozdzka-absorpcji.html"
-url = "/rozdzka-absorpcji.html"
+url = "/DnDHelp/rozdzka-absorpcji.html"
 title = "Różdżka absorpcji"
 
 [[input.files]]
 path = "rozdzka-bezpieczenstwa.html"
-url = "/rozdzka-bezpieczenstwa.html"
+url = "/DnDHelp/rozdzka-bezpieczenstwa.html"
 title = "Różdżka bezpieczeństwa"
 
 [[input.files]]
 path = "rozdzka-blyskawic.html"
-url = "/rozdzka-blyskawic.html"
+url = "/DnDHelp/rozdzka-blyskawic.html"
 title = "Różdżka błyskawic"
 
 [[input.files]]
 path = "rozdzka-cudow.html"
-url = "/rozdzka-cudow.html"
+url = "/DnDHelp/rozdzka-cudow.html"
 title = "Różdżka cudów"
 
 [[input.files]]
 path = "rozdzka-czujnosci.html"
-url = "/rozdzka-czujnosci.html"
+url = "/DnDHelp/rozdzka-czujnosci.html"
 title = "Różdżka czujności"
 
 [[input.files]]
 path = "rozdzka-kul-ognia.html"
-url = "/rozdzka-kul-ognia.html"
+url = "/DnDHelp/rozdzka-kul-ognia.html"
 title = "Różdżka kul ognia"
 
 [[input.files]]
 path = "rozdzka-lordowskiej-potegi.html"
-url = "/rozdzka-lordowskiej-potegi.html"
+url = "/DnDHelp/rozdzka-lordowskiej-potegi.html"
 title = "Różdżka lordowskiej potęgi"
 
 [[input.files]]
 path = "rozdzka-macki.html"
-url = "/rozdzka-macki.html"
+url = "/DnDHelp/rozdzka-macki.html"
 title = "Różdżka macki"
 
 [[input.files]]
 path = "rozdzka-maga-wojennego-1.html"
-url = "/rozdzka-maga-wojennego-1.html"
+url = "/DnDHelp/rozdzka-maga-wojennego-1.html"
 title = "Różdżka maga wojennego +1"
 
 [[input.files]]
 path = "rozdzka-maga-wojennego-1-2-lub-3.html"
-url = "/rozdzka-maga-wojennego-1-2-lub-3.html"
+url = "/DnDHelp/rozdzka-maga-wojennego-1-2-lub-3.html"
 title = "Różdżka maga wojennego +1, +2 lub +3"
 
 [[input.files]]
 path = "rozdzka-maga-wojennego-2.html"
-url = "/rozdzka-maga-wojennego-2.html"
+url = "/DnDHelp/rozdzka-maga-wojennego-2.html"
 title = "Różdżka maga wojennego +2"
 
 [[input.files]]
 path = "rozdzka-maga-wojennego-3.html"
-url = "/rozdzka-maga-wojennego-3.html"
+url = "/DnDHelp/rozdzka-maga-wojennego-3.html"
 title = "Różdżka maga wojennego +3"
 
 [[input.files]]
 path = "rozdzka-maga-wojny-1.html"
-url = "/rozdzka-maga-wojny-1.html"
+url = "/DnDHelp/rozdzka-maga-wojny-1.html"
 title = "Różdżka maga wojny +1"
 
 [[input.files]]
 path = "rozdzka-magicznych-pociskow.html"
-url = "/rozdzka-magicznych-pociskow.html"
+url = "/DnDHelp/rozdzka-magicznych-pociskow.html"
 title = "Różdżka magicznych pocisków"
 
 [[input.files]]
 path = "rozdzka-orcus.html"
-url = "/rozdzka-orcus.html"
+url = "/DnDHelp/rozdzka-orcus.html"
 title = "Różdżka orcus"
 
 [[input.files]]
 path = "rozdzka-paralizu.html"
-url = "/rozdzka-paralizu.html"
+url = "/DnDHelp/rozdzka-paralizu.html"
 title = "Różdżka paraliżu"
 
 [[input.files]]
 path = "rozdzka-polimorfu.html"
-url = "/rozdzka-polimorfu.html"
+url = "/DnDHelp/rozdzka-polimorfu.html"
 title = "Różdżka polimorfu"
 
 [[input.files]]
 path = "rozdzka-sieci.html"
-url = "/rozdzka-sieci.html"
+url = "/DnDHelp/rozdzka-sieci.html"
 title = "Różdżka sieci"
 
 [[input.files]]
 path = "rozdzka-strachu.html"
-url = "/rozdzka-strachu.html"
+url = "/DnDHelp/rozdzka-strachu.html"
 title = "Różdżka strachu"
 
 [[input.files]]
 path = "rozdzka-straznika-paktu-1.html"
-url = "/rozdzka-straznika-paktu-1.html"
+url = "/DnDHelp/rozdzka-straznika-paktu-1.html"
 title = "Różdżka strażnika paktu +1"
 
 [[input.files]]
 path = "rozdzka-straznika-paktu-2.html"
-url = "/rozdzka-straznika-paktu-2.html"
+url = "/DnDHelp/rozdzka-straznika-paktu-2.html"
 title = "Różdżka strażnika paktu +2"
 
 [[input.files]]
 path = "rozdzka-straznika-paktu-3.html"
-url = "/rozdzka-straznika-paktu-3.html"
+url = "/DnDHelp/rozdzka-straznika-paktu-3.html"
 title = "Różdżka strażnika paktu +3"
 
 [[input.files]]
 path = "rozdzka-tajemnic.html"
-url = "/rozdzka-tajemnic.html"
+url = "/DnDHelp/rozdzka-tajemnic.html"
 title = "Różdżka tajemnic"
 
 [[input.files]]
 path = "rozdzka-wiazania.html"
-url = "/rozdzka-wiazania.html"
+url = "/DnDHelp/rozdzka-wiazania.html"
 title = "Różdżka wiązania"
 
 [[input.files]]
 path = "rozdzka-wladzy.html"
-url = "/rozdzka-wladzy.html"
+url = "/DnDHelp/rozdzka-wladzy.html"
 title = "Różdżka władzy"
 
 [[input.files]]
 path = "rozdzka-wykrywania-magii.html"
-url = "/rozdzka-wykrywania-magii.html"
+url = "/DnDHelp/rozdzka-wykrywania-magii.html"
 title = "Różdżka wykrywania magii"
 
 [[input.files]]
 path = "rozdzka-wykrywania-wrogow.html"
-url = "/rozdzka-wykrywania-wrogow.html"
+url = "/DnDHelp/rozdzka-wykrywania-wrogow.html"
 title = "Różdżka wykrywania wrogów"
 
 [[input.files]]
 path = "rozdzka-zmartwychwstania.html"
-url = "/rozdzka-zmartwychwstania.html"
+url = "/DnDHelp/rozdzka-zmartwychwstania.html"
 title = "Różdżka zmartwychwstania"
 
 [[input.files]]
 path = "rozgrzanie-metalu.html"
-url = "/rozgrzanie-metalu.html"
+url = "/DnDHelp/rozgrzanie-metalu.html"
 title = "Rozgrzanie metalu"
 
 [[input.files]]
 path = "rozkaz.html"
-url = "/rozkaz.html"
+url = "/DnDHelp/rozkaz.html"
 title = "Rozkaz"
 
 [[input.files]]
 path = "rozmawianie-z-umarlymi.html"
-url = "/rozmawianie-z-umarlymi.html"
+url = "/DnDHelp/rozmawianie-z-umarlymi.html"
 title = "Rozmawianie z umarłymi"
 
 [[input.files]]
 path = "rozmawianie-ze-zwierzetami.html"
-url = "/rozmawianie-ze-zwierzetami.html"
+url = "/DnDHelp/rozmawianie-ze-zwierzetami.html"
 title = "Rozmawianie ze zwierzętami"
 
 [[input.files]]
 path = "rozmawienie-z-roslinami.html"
-url = "/rozmawienie-z-roslinami.html"
+url = "/DnDHelp/rozmawienie-z-roslinami.html"
 title = "Rozmawienie z roślinami"
 
 [[input.files]]
 path = "rozmycie.html"
-url = "/rozmycie.html"
+url = "/DnDHelp/rozmycie.html"
 title = "Rozmycie"
 
 [[input.files]]
 path = "rozproszenie-dobra-i-zla.html"
-url = "/rozproszenie-dobra-i-zla.html"
+url = "/DnDHelp/rozproszenie-dobra-i-zla.html"
 title = "Rozproszenie dobra i zla"
 
 [[input.files]]
 path = "rozproszenie-magii.html"
-url = "/rozproszenie-magii.html"
+url = "/DnDHelp/rozproszenie-magii.html"
 title = "Rozproszenie magii"
 
 [[input.files]]
 path = "rozpuszczalnik-uniwersalny.html"
-url = "/rozpuszczalnik-uniwersalny.html"
+url = "/DnDHelp/rozpuszczalnik-uniwersalny.html"
 title = "Rozpuszczalnik uniwersalny"
 
 [[input.files]]
 path = "rozrost-roslin.html"
-url = "/rozrost-roslin.html"
+url = "/DnDHelp/rozrost-roslin.html"
 title = "Rozrost roślin"
 
 [[input.files]]
 path = "rozrzucenie.html"
-url = "/rozrzucenie.html"
+url = "/DnDHelp/rozrzucenie.html"
 title = "Rozrzucenie"
 
 [[input.files]]
 path = "rozumienie-jezykow.html"
-url = "/rozumienie-jezykow.html"
+url = "/DnDHelp/rozumienie-jezykow.html"
 title = "Rozumienie języków"
 
 [[input.files]]
 path = "rury-kanalizacyjne.html"
-url = "/rury-kanalizacyjne.html"
+url = "/DnDHelp/rury-kanalizacyjne.html"
 title = "Rury kanalizacyjne"
 
 [[input.files]]
 path = "rury-nawiedzenia.html"
-url = "/rury-nawiedzenia.html"
+url = "/DnDHelp/rury-nawiedzenia.html"
 title = "Rury nawiedzenia"
 
 [[input.files]]
 path = "sanktuarium.html"
-url = "/sanktuarium.html"
+url = "/DnDHelp/sanktuarium.html"
 title = "Sanktuarium"
 
 [[input.files]]
 path = "sciana-cierni.html"
-url = "/sciana-cierni.html"
+url = "/DnDHelp/sciana-cierni.html"
 title = "Ściana cierni"
 
 [[input.files]]
 path = "sciana-energii.html"
-url = "/sciana-energii.html"
+url = "/DnDHelp/sciana-energii.html"
 title = "Ściana energii"
 
 [[input.files]]
 path = "sciana-kamienia.html"
-url = "/sciana-kamienia.html"
+url = "/DnDHelp/sciana-kamienia.html"
 title = "Ściana kamienia"
 
 [[input.files]]
 path = "sciana-lodu.html"
-url = "/sciana-lodu.html"
+url = "/DnDHelp/sciana-lodu.html"
 title = "Ściana lodu"
 
 [[input.files]]
 path = "sciana-ognia.html"
-url = "/sciana-ognia.html"
+url = "/DnDHelp/sciana-ognia.html"
 title = "Ściana ognia"
 
 [[input.files]]
 path = "sciana-piasku.html"
-url = "/sciana-piasku.html"
+url = "/DnDHelp/sciana-piasku.html"
 title = "Ściana piasku"
 
 [[input.files]]
 path = "sciana-swiatla.html"
-url = "/sciana-swiatla.html"
+url = "/DnDHelp/sciana-swiatla.html"
 title = "Ściana światła"
 
 [[input.files]]
 path = "sciana-wichru.html"
-url = "/sciana-wichru.html"
+url = "/DnDHelp/sciana-wichru.html"
 title = "Ściana wichru"
 
 [[input.files]]
 path = "sciana-wody.html"
-url = "/sciana-wody.html"
+url = "/DnDHelp/sciana-wody.html"
 title = "Ściana wody"
 
 [[input.files]]
 path = "scimitar-predkosci.html"
-url = "/scimitar-predkosci.html"
+url = "/DnDHelp/scimitar-predkosci.html"
 title = "Scimitar prędkości"
 
 [[input.files]]
 path = "sekretny-kufer-leomunda.html"
-url = "/sekretny-kufer-leomunda.html"
+url = "/DnDHelp/sekretny-kufer-leomunda.html"
 title = "Sekretny kufer leomunda"
 
 [[input.files]]
 path = "sen.html"
-url = "/sen.html"
+url = "/DnDHelp/sen.html"
 title = "Sen"
 
 [[input.files]]
 path = "sfera-niepodatnosci.html"
-url = "/sfera-niepodatnosci.html"
+url = "/DnDHelp/sfera-niepodatnosci.html"
 title = "Sfera niepodatności"
 
 [[input.files]]
 path = "sfera-unicestwienia.html"
-url = "/sfera-unicestwienia.html"
+url = "/DnDHelp/sfera-unicestwienia.html"
 title = "Sfera unicestwienia"
 
 [[input.files]]
 path = "sferalne-wiazanie.html"
-url = "/sferalne-wiazanie.html"
+url = "/DnDHelp/sferalne-wiazanie.html"
 title = "Sferalne wiązanie"
 
 [[input.files]]
 path = "sferalny-przeskok.html"
-url = "/sferalny-przeskok.html"
+url = "/DnDHelp/sferalny-przeskok.html"
 title = "Sferalny przeskok"
 
 [[input.files]]
 path = "sferalny-sojusznik.html"
-url = "/sferalny-sojusznik.html"
+url = "/DnDHelp/sferalny-sojusznik.html"
 title = "Sferalny sojusznik"
 
 [[input.files]]
 path = "shillelagh.html"
-url = "/shillelagh.html"
+url = "/DnDHelp/shillelagh.html"
 title = "Shillelagh"
 
 [[input.files]]
 path = "sidla.html"
-url = "/sidla.html"
+url = "/DnDHelp/sidla.html"
 title = "Sidła"
 
 [[input.files]]
 path = "siodlo-cavalier.html"
-url = "/siodlo-cavalier.html"
+url = "/DnDHelp/siodlo-cavalier.html"
 title = "Siodło cavalier"
 
 [[input.files]]
 path = "skarabeusz-ochrony.html"
-url = "/skarabeusz-ochrony.html"
+url = "/DnDHelp/skarabeusz-ochrony.html"
 title = "Skarabeusz ochrony"
 
 [[input.files]]
 path = "skazone-promieniowanie.html"
-url = "/skazone-promieniowanie.html"
+url = "/DnDHelp/skazone-promieniowanie.html"
 title = "Skażone promieniowanie"
 
 [[input.files]]
 path = "skladana-lodz.html"
-url = "/skladana-lodz.html"
+url = "/DnDHelp/skladana-lodz.html"
 title = "Składana łódź"
 
 [[input.files]]
 path = "skok.html"
-url = "/skok.html"
+url = "/DnDHelp/skok.html"
 title = "Skok"
 
 [[input.files]]
 path = "skrzydla-latania.html"
-url = "/skrzydla-latania.html"
+url = "/DnDHelp/skrzydla-latania.html"
 title = "Skrzydła latania"
 
 [[input.files]]
 path = "sloneczny-blask.html"
-url = "/sloneczny-blask.html"
+url = "/DnDHelp/sloneczny-blask.html"
 title = "Słoneczny blask"
 
 [[input.files]]
 path = "slowo-blasku.html"
-url = "/slowo-blasku.html"
+url = "/DnDHelp/slowo-blasku.html"
 title = "Słowo blasku"
 
 [[input.files]]
 path = "slowo-boze.html"
-url = "/slowo-boze.html"
+url = "/DnDHelp/slowo-boze.html"
 title = "Słowo boże"
 
 [[input.files]]
 path = "slowo-mocy-bol.html"
-url = "/slowo-mocy-bol.html"
+url = "/DnDHelp/slowo-mocy-bol.html"
 title = "Słowo mocy ból"
 
 [[input.files]]
 path = "slowo-mocy-gin.html"
-url = "/slowo-mocy-gin.html"
+url = "/DnDHelp/slowo-mocy-gin.html"
 title = "Słowo mocy 'giń'"
 
 [[input.files]]
 path = "slowo-mocy-stoj.html"
-url = "/slowo-mocy-stoj.html"
+url = "/DnDHelp/slowo-mocy-stoj.html"
 title = "Słowo mocy 'stój'"
 
 [[input.files]]
 path = "slowo-mocy-ulecz.html"
-url = "/slowo-mocy-ulecz.html"
+url = "/DnDHelp/slowo-mocy-ulecz.html"
 title = "Słowo mocy 'ulecz'"
 
 [[input.files]]
 path = "slowo-powrotu.html"
-url = "/slowo-powrotu.html"
+url = "/DnDHelp/slowo-powrotu.html"
 title = "Słowo powrotu"
 
 [[input.files]]
 path = "slup-ognia.html"
-url = "/slup-ognia.html"
+url = "/DnDHelp/slup-ognia.html"
 title = "Słup ognia"
 
 [[input.files]]
 path = "smierdzaca-chmura.html"
-url = "/smierdzaca-chmura.html"
+url = "/DnDHelp/smierdzaca-chmura.html"
 title = "Śmierdząca chmura"
 
 [[input.files]]
 path = "smocze-widmo.html"
-url = "/smocze-widmo.html"
+url = "/DnDHelp/smocze-widmo.html"
 title = "Smocze widmo"
 
 [[input.files]]
 path = "smocze-zioniecie.html"
-url = "/smocze-zioniecie.html"
+url = "/DnDHelp/smocze-zioniecie.html"
 title = "Smocze zionięcie"
 
 [[input.files]]
 path = "sniezyca.html"
-url = "/sniezyca.html"
+url = "/DnDHelp/sniezyca.html"
 title = "Śnieżyca"
 
 [[input.files]]
 path = "spacer-miedzy-drzewami.html"
-url = "/spacer-miedzy-drzewami.html"
+url = "/DnDHelp/spacer-miedzy-drzewami.html"
 title = "Spacer między drzewami"
 
 [[input.files]]
 path = "spacer-na-wietrze.html"
-url = "/spacer-na-wietrze.html"
+url = "/DnDHelp/spacer-na-wietrze.html"
 title = "Spacer na wietrze"
 
 [[input.files]]
 path = "spacer-po-wodzie.html"
-url = "/spacer-po-wodzie.html"
+url = "/DnDHelp/spacer-po-wodzie.html"
 title = "Spacer po wodzie"
 
 [[input.files]]
 path = "spopielenie.html"
-url = "/spopielenie.html"
+url = "/DnDHelp/spopielenie.html"
 title = "Spopielenie"
 
 [[input.files]]
 path = "spowicie-cieniem.html"
-url = "/spowicie-cieniem.html"
+url = "/DnDHelp/spowicie-cieniem.html"
 title = "Spowicie cieniem"
 
 [[input.files]]
 path = "spowolnienie.html"
-url = "/spowolnienie.html"
+url = "/DnDHelp/spowolnienie.html"
 title = "Spowolnienie"
 
 [[input.files]]
 path = "sprezysta-sfera-otilukea.html"
-url = "/sprezysta-sfera-otilukea.html"
+url = "/DnDHelp/sprezysta-sfera-otilukea.html"
 title = "Sprężysta sfera otiluke'a"
 
 [[input.files]]
 path = "ster-telepatii.html"
-url = "/ster-telepatii.html"
+url = "/DnDHelp/ster-telepatii.html"
 title = "Ster telepatii"
 
 [[input.files]]
 path = "ster-teleportacji.html"
-url = "/ster-teleportacji.html"
+url = "/DnDHelp/ster-teleportacji.html"
 title = "Ster teleportacji"
 
 [[input.files]]
 path = "sterownik-rozumienia-jezykow.html"
-url = "/sterownik-rozumienia-jezykow.html"
+url = "/DnDHelp/sterownik-rozumienia-jezykow.html"
 title = "Sterownik rozumienia języków"
 
 [[input.files]]
 path = "stozek-zimna.html"
-url = "/stozek-zimna.html"
+url = "/DnDHelp/stozek-zimna.html"
 title = "Stożek zimna"
 
 [[input.files]]
 path = "strach.html"
-url = "/strach.html"
+url = "/DnDHelp/strach.html"
 title = "Strach"
 
 [[input.files]]
 path = "straznik-natury.html"
-url = "/straznik-natury.html"
+url = "/DnDHelp/straznik-natury.html"
 title = "Strażnik natury"
 
 [[input.files]]
 path = "straznik-wiary.html"
-url = "/straznik-wiary.html"
+url = "/DnDHelp/straznik-wiary.html"
 title = "Strażnik wiary"
 
 [[input.files]]
 path = "strefa-prawdy.html"
-url = "/strefa-prawdy.html"
+url = "/DnDHelp/strefa-prawdy.html"
 title = "Strefa prawdy"
 
 [[input.files]]
 path = "strzala-zabijania.html"
-url = "/strzala-zabijania.html"
+url = "/DnDHelp/strzala-zabijania.html"
 title = "Strzała zabijania"
 
 [[input.files]]
 path = "studnia-wielu-swiatow.html"
-url = "/studnia-wielu-swiatow.html"
+url = "/DnDHelp/studnia-wielu-swiatow.html"
 title = "Studnia wielu światów"
 
 [[input.files]]
 path = "stworzenie-homunkulusa.html"
-url = "/stworzenie-homunkulusa.html"
+url = "/DnDHelp/stworzenie-homunkulusa.html"
 title = "Stworzenie homunkulusa"
 
 [[input.files]]
 path = "stworzenie-jadla-i-wody.html"
-url = "/stworzenie-jadla-i-wody.html"
+url = "/DnDHelp/stworzenie-jadla-i-wody.html"
 title = "Stworzenie jadła i wody"
 
 [[input.files]]
 path = "stworzenie-lub-zniszczenie-wody.html"
-url = "/stworzenie-lub-zniszczenie-wody.html"
+url = "/DnDHelp/stworzenie-lub-zniszczenie-wody.html"
 title = "Stworzenie lub zniszczenie wody"
 
 [[input.files]]
 path = "stworzenie-nieumarlego.html"
-url = "/stworzenie-nieumarlego.html"
+url = "/DnDHelp/stworzenie-nieumarlego.html"
 title = "Stworzenie nieumarłego"
 
 [[input.files]]
 path = "stworzenie-ogniska.html"
-url = "/stworzenie-ogniska.html"
+url = "/DnDHelp/stworzenie-ogniska.html"
 title = "Stworzenie ogniska"
 
 [[input.files]]
 path = "sugestia.html"
-url = "/sugestia.html"
+url = "/DnDHelp/sugestia.html"
 title = "Sugestia"
 
 [[input.files]]
 path = "suwerenny-klej.html"
-url = "/suwerenny-klej.html"
+url = "/DnDHelp/suwerenny-klej.html"
 title = "Suwerenny klej"
 
 [[input.files]]
 path = "swiatlo.html"
-url = "/swiatlo.html"
+url = "/DnDHelp/swiatlo.html"
 title = "Światło"
 
 [[input.files]]
 path = "swiatlo-dnia.html"
-url = "/swiatlo-dnia.html"
+url = "/DnDHelp/swiatlo-dnia.html"
 title = "Światło dnia"
 
 [[input.files]]
 path = "swiatynia-bogow.html"
-url = "/swiatynia-bogow.html"
+url = "/DnDHelp/swiatynia-bogow.html"
 title = "Świątynia bogów"
 
 [[input.files]]
 path = "swieca-przywolania.html"
-url = "/swieca-przywolania.html"
+url = "/DnDHelp/swieca-przywolania.html"
 title = "Świeca przywołania"
 
 [[input.files]]
 path = "swieta-aura.html"
-url = "/swieta-aura.html"
+url = "/DnDHelp/swieta-aura.html"
 title = "Święta aura"
 
 [[input.files]]
 path = "swieta-bron.html"
-url = "/swieta-bron.html"
+url = "/DnDHelp/swieta-bron.html"
 title = "Święta broń"
 
 [[input.files]]
 path = "swiety-msciciel.html"
-url = "/swiety-msciciel.html"
+url = "/DnDHelp/swiety-msciciel.html"
 title = "Święty mściciel"
 
 [[input.files]]
 path = "swiety-plomien.html"
-url = "/swiety-plomien.html"
+url = "/DnDHelp/swiety-plomien.html"
 title = "Święty płomień"
 
 [[input.files]]
 path = "swit.html"
-url = "/swit.html"
+url = "/DnDHelp/swit.html"
 title = "Świt"
 
 [[input.files]]
 path = "swoboda-ruchu.html"
-url = "/swoboda-ruchu.html"
+url = "/DnDHelp/swoboda-ruchu.html"
 title = "Swoboda ruchu"
 
 [[input.files]]
 path = "symbol.html"
-url = "/symbol.html"
+url = "/DnDHelp/symbol.html"
 title = "Symbol"
 
 [[input.files]]
 path = "symulakrum.html"
-url = "/symulakrum.html"
+url = "/DnDHelp/symulakrum.html"
 title = "Symulakrum"
 
 [[input.files]]
 path = "szata-arcymagow.html"
-url = "/szata-arcymagow.html"
+url = "/DnDHelp/szata-arcymagow.html"
 title = "Szata arcymagów"
 
 [[input.files]]
 path = "szata-mieniaca-sie-kolorami.html"
-url = "/szata-mieniaca-sie-kolorami.html"
+url = "/DnDHelp/szata-mieniaca-sie-kolorami.html"
 title = "Szata mieniąca się kolorami"
 
 [[input.files]]
 path = "szata-z-gwiazd.html"
-url = "/szata-z-gwiazd.html"
+url = "/DnDHelp/szata-z-gwiazd.html"
 title = "Szata z gwiazd"
 
 [[input.files]]
 path = "szata-z-oczu.html"
-url = "/szata-z-oczu.html"
+url = "/DnDHelp/szata-z-oczu.html"
 title = "Szata z oczu"
 
 [[input.files]]
 path = "szata-z-przydatnymi-przedmiotami.html"
-url = "/szata-z-przydatnymi-przedmiotami.html"
+url = "/DnDHelp/szata-z-przydatnymi-przedmiotami.html"
 title = "Szata z przydatnymi przedmiotami"
 
 [[input.files]]
 path = "szekle-wymiarowe.html"
-url = "/szekle-wymiarowe.html"
+url = "/DnDHelp/szekle-wymiarowe.html"
 title = "Szekle wymiarowe"
 
 [[input.files]]
 path = "szescian-sily.html"
-url = "/szescian-sily.html"
+url = "/DnDHelp/szescian-sily.html"
 title = "Sześcian siły"
 
 [[input.files]]
 path = "sztuczka-z-lina.html"
-url = "/sztuczka-z-lina.html"
+url = "/DnDHelp/sztuczka-z-lina.html"
 title = "Sztuczka z liną"
 
 [[input.files]]
 path = "sztylet-jadu.html"
-url = "/sztylet-jadu.html"
+url = "/DnDHelp/sztylet-jadu.html"
 title = "Sztylet jadu"
 
 [[input.files]]
 path = "szum-synaptyczny.html"
-url = "/szum-synaptyczny.html"
+url = "/DnDHelp/szum-synaptyczny.html"
 title = "Szum synaptyczny"
 
 [[input.files]]
 path = "szybkonogi.html"
-url = "/szybkonogi.html"
+url = "/DnDHelp/szybkonogi.html"
 title = "Szybkonogi"
 
 [[input.files]]
 path = "talia-wielu-rzeczy.html"
-url = "/talia-wielu-rzeczy.html"
+url = "/DnDHelp/talia-wielu-rzeczy.html"
 title = "Talia wielu rzeczy"
 
 [[input.files]]
 path = "talizman-czystego-dobra.html"
-url = "/talizman-czystego-dobra.html"
+url = "/DnDHelp/talizman-czystego-dobra.html"
 title = "Talizman czystego dobra"
 
 [[input.files]]
 path = "talizman-kuli.html"
-url = "/talizman-kuli.html"
+url = "/DnDHelp/talizman-kuli.html"
 title = "Talizman kuli"
 
 [[input.files]]
 path = "talizman-ostatecznego-zla.html"
-url = "/talizman-ostatecznego-zla.html"
+url = "/DnDHelp/talizman-ostatecznego-zla.html"
 title = "Talizman ostatecznego zła"
 
 [[input.files]]
 path = "tanczace-swiatla.html"
-url = "/tanczace-swiatla.html"
+url = "/DnDHelp/tanczace-swiatla.html"
 title = "Tańczące światła"
 
 [[input.files]]
 path = "tanczacy-miecz.html"
-url = "/tanczacy-miecz.html"
+url = "/DnDHelp/tanczacy-miecz.html"
 title = "Tańczący miecz"
 
 [[input.files]]
 path = "tarcza.html"
-url = "/tarcza.html"
+url = "/DnDHelp/tarcza.html"
 title = "Tarcza"
 
 [[input.files]]
 path = "tarcza-1.html"
-url = "/tarcza-1.html"
+url = "/DnDHelp/tarcza-1.html"
 title = "Tarcza +1"
 
 [[input.files]]
 path = "tarcza-1-2-lub-3.html"
-url = "/tarcza-1-2-lub-3.html"
+url = "/DnDHelp/tarcza-1-2-lub-3.html"
 title = "Tarcza, +1, +2 lub +3"
 
 [[input.files]]
 path = "tarcza-2.html"
-url = "/tarcza-2.html"
+url = "/DnDHelp/tarcza-2.html"
 title = "Tarcza +2"
 
 [[input.files]]
 path = "tarcza-3.html"
-url = "/tarcza-3.html"
+url = "/DnDHelp/tarcza-3.html"
 title = "Tarcza +3"
 
 [[input.files]]
 path = "tarcza-chroniaca-przed-zakleciami.html"
-url = "/tarcza-chroniaca-przed-zakleciami.html"
+url = "/DnDHelp/tarcza-chroniaca-przed-zakleciami.html"
 title = "Tarcza chroniąca przed zaklęciami"
 
 [[input.files]]
 path = "tarcza-ognia.html"
-url = "/tarcza-ognia.html"
+url = "/DnDHelp/tarcza-ognia.html"
 title = "Tarcza ognia"
 
 [[input.files]]
 path = "tarcza-przyciagania-pociskow.html"
-url = "/tarcza-przyciagania-pociskow.html"
+url = "/DnDHelp/tarcza-przyciagania-pociskow.html"
 title = "Tarcza przyciągania pocisków"
 
 [[input.files]]
 path = "tarcza-sloneczna.html"
-url = "/tarcza-sloneczna.html"
+url = "/DnDHelp/tarcza-sloneczna.html"
 title = "Tarcza słoneczna"
 
 [[input.files]]
 path = "tarcza-wiary.html"
-url = "/tarcza-wiary.html"
+url = "/DnDHelp/tarcza-wiary.html"
 title = "Tarcza wiary"
 
 [[input.files]]
 path = "tarcza-wylapujaca-strzaly.html"
-url = "/tarcza-wylapujaca-strzaly.html"
+url = "/DnDHelp/tarcza-wylapujaca-strzaly.html"
 title = "Tarcza wyłapująca strzały"
 
 [[input.files]]
 path = "taumaturgia.html"
-url = "/taumaturgia.html"
+url = "/DnDHelp/taumaturgia.html"
 title = "Taumaturgia"
 
 [[input.files]]
 path = "telekineza.html"
-url = "/telekineza.html"
+url = "/DnDHelp/telekineza.html"
 title = "Telekineza"
 
 [[input.files]]
 path = "telepatia.html"
-url = "/telepatia.html"
+url = "/DnDHelp/telepatia.html"
 title = "Telepatia"
 
 [[input.files]]
 path = "telepatyczna-wiez-raryego.html"
-url = "/telepatyczna-wiez-raryego.html"
+url = "/DnDHelp/telepatyczna-wiez-raryego.html"
 title = "Telepatyczna więź rary'ego"
 
 [[input.files]]
 path = "teleportacja.html"
-url = "/teleportacja.html"
+url = "/DnDHelp/teleportacja.html"
 title = "Teleportacja"
 
 [[input.files]]
 path = "tluszcz.html"
-url = "/tluszcz.html"
+url = "/DnDHelp/tluszcz.html"
 title = "Tłuszcz"
 
 [[input.files]]
 path = "tom-jasnych-mysli.html"
-url = "/tom-jasnych-mysli.html"
+url = "/DnDHelp/tom-jasnych-mysli.html"
 title = "Tom jasnych myśli"
 
 [[input.files]]
 path = "tom-o-przywodztwie-i-wplywach.html"
-url = "/tom-o-przywodztwie-i-wplywach.html"
+url = "/DnDHelp/tom-o-przywodztwie-i-wplywach.html"
 title = "Tom o przywództwie i wpływach"
 
 [[input.files]]
 path = "tom-zrozumienia.html"
-url = "/tom-zrozumienia.html"
+url = "/DnDHelp/tom-zrozumienia.html"
 title = "Tom zrozumienia"
 
 [[input.files]]
 path = "tome-of-the-stilled-tongue.html"
-url = "/tome-of-the-stilled-tongue.html"
+url = "/DnDHelp/tome-of-the-stilled-tongue.html"
 title = "Tome of the stilled tongue"
 
 [[input.files]]
 path = "topor-berserka.html"
-url = "/topor-berserka.html"
+url = "/DnDHelp/topor-berserka.html"
 title = "Topór berserka"
 
 [[input.files]]
 path = "topor-krasnoludzkich-wladcow.html"
-url = "/topor-krasnoludzkich-wladcow.html"
+url = "/DnDHelp/topor-krasnoludzkich-wladcow.html"
 title = "Topór krasnoludzkich władców"
 
 [[input.files]]
 path = "torba-pozeracza.html"
-url = "/torba-pozeracza.html"
+url = "/DnDHelp/torba-pozeracza.html"
 title = "Torba pożeracza"
 
 [[input.files]]
 path = "traba-powietrzna.html"
-url = "/traba-powietrzna.html"
+url = "/DnDHelp/traba-powietrzna.html"
 title = "Trąba powietrzna"
 
 [[input.files]]
 path = "trujacy-rozprysk.html"
-url = "/trujacy-rozprysk.html"
+url = "/DnDHelp/trujacy-rozprysk.html"
 title = "Trujący rozprysk"
 
 [[input.files]]
 path = "trzask.html"
-url = "/trzask.html"
+url = "/DnDHelp/trzask.html"
 title = "Trzask"
 
 [[input.files]]
 path = "trzesienie-ziemi.html"
-url = "/trzesienie-ziemi.html"
+url = "/DnDHelp/trzesienie-ziemi.html"
 title = "Trzęsienie ziemi"
 
 [[input.files]]
 path = "trzewiki-wspinaczkowe-z-pajakiem.html"
-url = "/trzewiki-wspinaczkowe-z-pajakiem.html"
+url = "/DnDHelp/trzewiki-wspinaczkowe-z-pajakiem.html"
 title = "Trzewiki wspinaczkowe z pająkiem"
 
 [[input.files]]
 path = "tsunami.html"
-url = "/tsunami.html"
+url = "/DnDHelp/tsunami.html"
 title = "Tsunami"
 
 [[input.files]]
 path = "uczta-bohaterow.html"
-url = "/uczta-bohaterow.html"
+url = "/DnDHelp/uczta-bohaterow.html"
 title = "Uczta bohaterów"
 
 [[input.files]]
 path = "uderzenie-stalowego-wichru.html"
-url = "/uderzenie-stalowego-wichru.html"
+url = "/DnDHelp/uderzenie-stalowego-wichru.html"
 title = "Uderzenie stalowego wichru"
 
 [[input.files]]
 path = "uderzenie-zefiru.html"
-url = "/uderzenie-zefiru.html"
+url = "/DnDHelp/uderzenie-zefiru.html"
 title = "Uderzenie zefiru"
 
 [[input.files]]
 path = "uleczenie.html"
-url = "/uleczenie.html"
+url = "/DnDHelp/uleczenie.html"
 title = "Uleczenie"
 
 [[input.files]]
 path = "unieruchomienie-osoby.html"
-url = "/unieruchomienie-osoby.html"
+url = "/DnDHelp/unieruchomienie-osoby.html"
 title = "Unieruchomienie osoby"
 
 [[input.files]]
 path = "unieruchomienie-potwora.html"
-url = "/unieruchomienie-potwora.html"
+url = "/DnDHelp/unieruchomienie-potwora.html"
 title = "Unieruchomienie potwora"
 
 [[input.files]]
 path = "urocza-laska.html"
-url = "/urocza-laska.html"
+url = "/DnDHelp/urocza-laska.html"
 title = "Urocza laska"
 
 [[input.files]]
 path = "urojona-sila.html"
-url = "/urojona-sila.html"
+url = "/DnDHelp/urojona-sila.html"
 title = "Urojona siła"
 
 [[input.files]]
 path = "urojony-zabojca.html"
-url = "/urojony-zabojca.html"
+url = "/DnDHelp/urojony-zabojca.html"
 title = "Urojony zabójca"
 
 [[input.files]]
 path = "urok.html"
-url = "/urok.html"
+url = "/DnDHelp/urok.html"
 title = "Urok"
 
 [[input.files]]
 path = "uspienie.html"
-url = "/uspienie.html"
+url = "/DnDHelp/uspienie.html"
 title = "Uśpienie"
 
 [[input.files]]
 path = "uwiezienie.html"
-url = "/uwiezienie.html"
+url = "/DnDHelp/uwiezienie.html"
 title = "Uwięzienie"
 
 [[input.files]]
 path = "uzdrawiajaca-modlitwa.html"
-url = "/uzdrawiajaca-modlitwa.html"
+url = "/DnDHelp/uzdrawiajaca-modlitwa.html"
 title = "Uzdrawiająca modlitwa"
 
 [[input.files]]
 path = "uzdrawiajacy-duch.html"
-url = "/uzdrawiajacy-duch.html"
+url = "/DnDHelp/uzdrawiajacy-duch.html"
 title = "Uzdrawiający duch"
 
 [[input.files]]
 path = "uziemienie.html"
-url = "/uziemienie.html"
+url = "/DnDHelp/uziemienie.html"
 title = "Uziemienie"
 
 [[input.files]]
 path = "wampiryczny-dotyk.html"
-url = "/wampiryczny-dotyk.html"
+url = "/DnDHelp/wampiryczny-dotyk.html"
 title = "Wampiryczny dotyk"
 
 [[input.files]]
 path = "wedrujacy-dysk-tensera.html"
-url = "/wedrujacy-dysk-tensera.html"
+url = "/DnDHelp/wedrujacy-dysk-tensera.html"
 title = "Wędrujący dysk tensera"
 
 [[input.files]]
 path = "wentylator-wiatrowy.html"
-url = "/wentylator-wiatrowy.html"
+url = "/DnDHelp/wentylator-wiatrowy.html"
 title = "Wentylator wiatrowy"
 
 [[input.files]]
 path = "wezwanie-blyskawicy.html"
-url = "/wezwanie-blyskawicy.html"
+url = "/DnDHelp/wezwanie-blyskawicy.html"
 title = "Wezwanie błyskawicy"
 
 [[input.files]]
 path = "whelm.html"
-url = "/whelm.html"
+url = "/DnDHelp/whelm.html"
 title = "Whelm"
 
 [[input.files]]
 path = "wiadomosc.html"
-url = "/wiadomosc.html"
+url = "/DnDHelp/wiadomosc.html"
 title = "Wiadomość"
 
 [[input.files]]
 path = "widmowy-wierzchowiec.html"
-url = "/widmowy-wierzchowiec.html"
+url = "/DnDHelp/widmowy-wierzchowiec.html"
 title = "Widmowy wierzchowiec"
 
 [[input.files]]
 path = "widzenie-niewidzialnego.html"
-url = "/widzenie-niewidzialnego.html"
+url = "/DnDHelp/widzenie-niewidzialnego.html"
 title = "Widzenie niewidzialnego"
 
 [[input.files]]
 path = "widzenie-w-ciemnosci.html"
-url = "/widzenie-w-ciemnosci.html"
+url = "/DnDHelp/widzenie-w-ciemnosci.html"
 title = "Widzenie w ciemności"
 
 [[input.files]]
 path = "wieczny-ogien.html"
-url = "/wieczny-ogien.html"
+url = "/DnDHelp/wieczny-ogien.html"
 title = "Wieczny ogień"
 
 [[input.files]]
 path = "wiedzmi-pocisk.html"
-url = "/wiedzmi-pocisk.html"
+url = "/DnDHelp/wiedzmi-pocisk.html"
 title = "Wiedźmi pocisk"
 
 [[input.files]]
 path = "wieksza-niewidzialnosc.html"
-url = "/wieksza-niewidzialnosc.html"
+url = "/DnDHelp/wieksza-niewidzialnosc.html"
 title = "Większa niewidzialność"
 
 [[input.files]]
 path = "wieksze-przywrocenie.html"
-url = "/wieksze-przywrocenie.html"
+url = "/DnDHelp/wieksze-przywrocenie.html"
 title = "Większe przywrócenie"
 
 [[input.files]]
 path = "wiekszy-obraz.html"
-url = "/wiekszy-obraz.html"
+url = "/DnDHelp/wiekszy-obraz.html"
 title = "Większy obraz"
 
 [[input.files]]
 path = "wierny-ogar-mordenkainena.html"
-url = "/wierny-ogar-mordenkainena.html"
+url = "/DnDHelp/wierny-ogar-mordenkainena.html"
 title = "Wierny ogar mordenkainena"
 
 [[input.files]]
 path = "wieszczenie.html"
-url = "/wieszczenie.html"
+url = "/DnDHelp/wieszczenie.html"
 title = "Wieszczenie"
 
 [[input.files]]
 path = "wiez-z-bestia.html"
-url = "/wiez-z-bestia.html"
+url = "/DnDHelp/wiez-z-bestia.html"
 title = "Więź z bestią"
 
 [[input.files]]
 path = "wiezienie-duszy.html"
-url = "/wiezienie-duszy.html"
+url = "/DnDHelp/wiezienie-duszy.html"
 title = "Więzienie duszy"
 
 [[input.files]]
 path = "wizja.html"
-url = "/wizja.html"
+url = "/DnDHelp/wizja.html"
 title = "Wizja"
 
 [[input.files]]
 path = "wodna-kula.html"
-url = "/wodna-kula.html"
+url = "/DnDHelp/wodna-kula.html"
 title = "Wodna kula"
 
 [[input.files]]
 path = "worek-fasoli.html"
-url = "/worek-fasoli.html"
+url = "/DnDHelp/worek-fasoli.html"
 title = "Worek fasoli"
 
 [[input.files]]
 path = "worek-sztuczek.html"
-url = "/worek-sztuczek.html"
+url = "/DnDHelp/worek-sztuczek.html"
 title = "Worek sztuczek"
 
 [[input.files]]
 path = "wrozba.html"
-url = "/wrozba.html"
+url = "/DnDHelp/wrozba.html"
 title = "Wróżba"
 
 [[input.files]]
 path = "wscieklosc-natury.html"
-url = "/wscieklosc-natury.html"
+url = "/DnDHelp/wscieklosc-natury.html"
 title = "Wściekłość natury"
 
 [[input.files]]
 path = "wskazowki.html"
-url = "/wskazowki.html"
+url = "/DnDHelp/wskazowki.html"
 title = "Wskazówki"
 
 [[input.files]]
 path = "wskrzeszenie.html"
-url = "/wskrzeszenie.html"
+url = "/DnDHelp/wskrzeszenie.html"
 title = "Wskrzeszenie"
 
 [[input.files]]
 path = "wspaniala-posiadlosc-mordenkainena.html"
-url = "/wspaniala-posiadlosc-mordenkainena.html"
+url = "/DnDHelp/wspaniala-posiadlosc-mordenkainena.html"
 title = "Wspaniała posiadłość mordenkainena"
 
 [[input.files]]
 path = "wstrzas-ziemi.html"
-url = "/wstrzas-ziemi.html"
+url = "/DnDHelp/wstrzas-ziemi.html"
 title = "Wstrząs ziemi"
 
 [[input.files]]
 path = "wstrzasajace-ugodzenie.html"
-url = "/wstrzasajace-ugodzenie.html"
+url = "/DnDHelp/wstrzasajace-ugodzenie.html"
 title = "Wstrząsające ugodzenie"
 
 [[input.files]]
 path = "wtopienie-w-kamien.html"
-url = "/wtopienie-w-kamien.html"
+url = "/DnDHelp/wtopienie-w-kamien.html"
 title = "Wtopienie w kamień"
 
 [[input.files]]
 path = "wybuch-ziemi.html"
-url = "/wybuch-ziemi.html"
+url = "/DnDHelp/wybuch-ziemi.html"
 title = "Wybuch ziemi"
 
 [[input.files]]
 path = "wyciszenie-emocji.html"
-url = "/wyciszenie-emocji.html"
+url = "/DnDHelp/wyciszenie-emocji.html"
 title = "Wyciszenie emocji"
 
 [[input.files]]
 path = "wykrycie-dobra-i-zla.html"
-url = "/wykrycie-dobra-i-zla.html"
+url = "/DnDHelp/wykrycie-dobra-i-zla.html"
 title = "Wykrycie dobra i zła"
 
 [[input.files]]
 path = "wykrycie-magii.html"
-url = "/wykrycie-magii.html"
+url = "/DnDHelp/wykrycie-magii.html"
 title = "Wykrycie magii"
 
 [[input.files]]
 path = "wykrycie-mysli.html"
-url = "/wykrycie-mysli.html"
+url = "/DnDHelp/wykrycie-mysli.html"
 title = "Wykrycie myśli"
 
 [[input.files]]
 path = "wykrycie-pulapek.html"
-url = "/wykrycie-pulapek.html"
+url = "/DnDHelp/wykrycie-pulapek.html"
 title = "Wykrycie pułapek"
 
 [[input.files]]
 path = "wykrycie-trucizny-i-choroby.html"
-url = "/wykrycie-trucizny-i-choroby.html"
+url = "/DnDHelp/wykrycie-trucizny-i-choroby.html"
 title = "Wykrycie trucizny i choroby"
 
 [[input.files]]
 path = "wylaczenie.html"
-url = "/wylaczenie.html"
+url = "/DnDHelp/wylaczenie.html"
 title = "Wyłączenie"
 
 [[input.files]]
 path = "wylew-negatywnej-energii.html"
-url = "/wylew-negatywnej-energii.html"
+url = "/DnDHelp/wylew-negatywnej-energii.html"
 title = "Wylew negatywnej energii"
 
 [[input.files]]
 path = "wypalajacy-promien.html"
-url = "/wypalajacy-promien.html"
+url = "/DnDHelp/wypalajacy-promien.html"
 title = "Wypalający promień"
 
 [[input.files]]
 path = "wypedzajace-ugodzenie.html"
-url = "/wypedzajace-ugodzenie.html"
+url = "/DnDHelp/wypedzajace-ugodzenie.html"
 title = "Wypędzające ugodzenie"
 
 [[input.files]]
 path = "wypedzenie.html"
-url = "/wypedzenie.html"
+url = "/DnDHelp/wypedzenie.html"
 title = "Wypędzenie"
 
 [[input.files]]
 path = "wysylanie-kamieni.html"
-url = "/wysylanie-kamieni.html"
+url = "/DnDHelp/wysylanie-kamieni.html"
 title = "Wysyłanie kamieni"
 
 [[input.files]]
 path = "wywolanie-plomienia.html"
-url = "/wywolanie-plomienia.html"
+url = "/DnDHelp/wywolanie-plomienia.html"
 title = "Wywołanie płomienia"
 
 [[input.files]]
 path = "wzmocnienie-cechy.html"
-url = "/wzmocnienie-cechy.html"
+url = "/DnDHelp/wzmocnienie-cechy.html"
 title = "Wzmocnienie cechy"
 
 [[input.files]]
 path = "wzmocnienie-umiejetnosci.html"
-url = "/wzmocnienie-umiejetnosci.html"
+url = "/DnDHelp/wzmocnienie-umiejetnosci.html"
 title = "Wzmocnienie umiejętności"
 
 [[input.files]]
 path = "wzrost-kolcow.html"
-url = "/wzrost-kolcow.html"
+url = "/DnDHelp/wzrost-kolcow.html"
 title = "Wzrost kolców"
 
 [[input.files]]
 path = "zabojcza-chmura.html"
-url = "/zabojcza-chmura.html"
+url = "/DnDHelp/zabojcza-chmura.html"
 title = "Zabójcza chmura"
 
 [[input.files]]
 path = "zadawanie-ran.html"
-url = "/zadawanie-ran.html"
+url = "/DnDHelp/zadawanie-ran.html"
 title = "Zadawanie ran"
 
 [[input.files]]
 path = "zamet.html"
-url = "/zamet.html"
+url = "/DnDHelp/zamet.html"
 title = "Zamęt"
 
 [[input.files]]
 path = "zaplanowana-iluzja.html"
-url = "/zaplanowana-iluzja.html"
+url = "/DnDHelp/zaplanowana-iluzja.html"
 title = "Zaplanowana iluzja"
 
 [[input.files]]
 path = "zaraza.html"
-url = "/zaraza.html"
+url = "/DnDHelp/zaraza.html"
 title = "Zaraza"
 
 [[input.files]]
 path = "zastraszenie.html"
-url = "/zastraszenie.html"
+url = "/DnDHelp/zastraszenie.html"
 title = "Zastraszenie"
 
 [[input.files]]
 path = "zatrzymanie-czasu.html"
-url = "/zatrzymanie-czasu.html"
+url = "/DnDHelp/zatrzymanie-czasu.html"
 title = "Zatrzymanie czasu"
 
 [[input.files]]
 path = "zauroczenie-osoby.html"
-url = "/zauroczenie-osoby.html"
+url = "/DnDHelp/zauroczenie-osoby.html"
 title = "Zauroczenie osoby"
 
 [[input.files]]
 path = "zauroczenie-potwora.html"
-url = "/zauroczenie-potwora.html"
+url = "/DnDHelp/zauroczenie-potwora.html"
 title = "Zauroczenie potwora"
 
 [[input.files]]
 path = "zbroja-agathys.html"
-url = "/zbroja-agathys.html"
+url = "/DnDHelp/zbroja-agathys.html"
 title = "Zbroja agathys"
 
 [[input.files]]
 path = "zbroja-demona.html"
-url = "/zbroja-demona.html"
+url = "/DnDHelp/zbroja-demona.html"
 title = "Zbroja demona"
 
 [[input.files]]
 path = "zbroja-maga.html"
-url = "/zbroja-maga.html"
+url = "/DnDHelp/zbroja-maga.html"
 title = "Zbroja maga"
 
 [[input.files]]
 path = "zbroja-marinera.html"
-url = "/zbroja-marinera.html"
+url = "/DnDHelp/zbroja-marinera.html"
 title = "Zbroja Marinera"
 
 [[input.files]]
 path = "zbroja-wrazliwosci.html"
-url = "/zbroja-wrazliwosci.html"
+url = "/DnDHelp/zbroja-wrazliwosci.html"
 title = "Zbroja wrażliwości"
 
 [[input.files]]
 path = "zdjecie-klatwy.html"
-url = "/zdjecie-klatwy.html"
+url = "/DnDHelp/zdjecie-klatwy.html"
 title = "Zdjęcie klątwy"
 
 [[input.files]]
 path = "zelazna-kolba.html"
-url = "/zelazna-kolba.html"
+url = "/DnDHelp/zelazna-kolba.html"
 title = "Żelazna kolba"
 
 [[input.files]]
 path = "zelazne-pasma-bilarro.html"
-url = "/zelazne-pasma-bilarro.html"
+url = "/DnDHelp/zelazne-pasma-bilarro.html"
 title = "Żelazne pasma bilarro"
 
 [[input.files]]
 path = "zeton-piora-quaala.html"
-url = "/zeton-piora-quaala.html"
+url = "/DnDHelp/zeton-piora-quaala.html"
 title = "Żeton pióra Quaala"
 
 [[input.files]]
 path = "zguba.html"
-url = "/zguba.html"
+url = "/DnDHelp/zguba.html"
 title = "Zguba"
 
 [[input.files]]
 path = "ziemny-uscisk-maximiliana.html"
-url = "/ziemny-uscisk-maximiliana.html"
+url = "/DnDHelp/ziemny-uscisk-maximiliana.html"
 title = "Ziemny uścisk maximiliana"
 
 [[input.files]]
 path = "zjadliwe-szyderstwo.html"
-url = "/zjadliwe-szyderstwo.html"
+url = "/DnDHelp/zjadliwe-szyderstwo.html"
 title = "Zjadliwe szyderstwo"
 
 [[input.files]]
 path = "zlodziejskie-rekawice.html"
-url = "/zlodziejskie-rekawice.html"
+url = "/DnDHelp/zlodziejskie-rekawice.html"
 title = "Złodziejskie rękawice"
 
 [[input.files]]
 path = "zmartwychwstanie.html"
-url = "/zmartwychwstanie.html"
+url = "/DnDHelp/zmartwychwstanie.html"
 title = "Zmartwychwstanie"
 
 [[input.files]]
 path = "zmiana-siebie.html"
-url = "/zmiana-siebie.html"
+url = "/DnDHelp/zmiana-siebie.html"
 title = "Zmiana siebie"
 
 [[input.files]]
 path = "zmiennoksztaltnosc.html"
-url = "/zmiennoksztaltnosc.html"
+url = "/DnDHelp/zmiennoksztaltnosc.html"
 title = "Zmiennokształtność"
 
 [[input.files]]
 path = "zmylka.html"
-url = "/zmylka.html"
+url = "/DnDHelp/zmylka.html"
 title = "Zmyłka"
 
 [[input.files]]
 path = "znak-lowcy.html"
-url = "/znak-lowcy.html"
+url = "/DnDHelp/znak-lowcy.html"
 title = "Znak łowcy"
 
 [[input.files]]
 path = "znalezienie-chowanca.html"
-url = "/znalezienie-chowanca.html"
+url = "/DnDHelp/znalezienie-chowanca.html"
 title = "Znalezienie chowańca"
 
 [[input.files]]
 path = "znalezienie-potezniejszego-wierzchowga.html"
-url = "/znalezienie-potezniejszego-wierzchowga.html"
+url = "/DnDHelp/znalezienie-potezniejszego-wierzchowga.html"
 title = "Znalezienie potężniejszego wierzchowga"
 
 [[input.files]]
 path = "znalezienie-wierzchowca.html"
-url = "/znalezienie-wierzchowca.html"
+url = "/DnDHelp/znalezienie-wierzchowca.html"
 title = "Znalezienie wierzchowca"
 
 [[input.files]]
 path = "zraca-kula.html"
-url = "/zraca-kula.html"
+url = "/DnDHelp/zraca-kula.html"
 title = "Żrąca kula"
 
 [[input.files]]
 path = "zwierzece-ksztalty.html"
-url = "/zwierzece-ksztalty.html"
+url = "/DnDHelp/zwierzece-ksztalty.html"
 title = "Zwierzęce kształty"
 
 [[input.files]]
 path = "zwierzece-zmysly.html"
-url = "/zwierzece-zmysly.html"
+url = "/DnDHelp/zwierzece-zmysly.html"
 title = "Zwierzęce zmysły"
 
 [[input.files]]
 path = "zwierzecy-poslaniec.html"
-url = "/zwierzecy-poslaniec.html"
+url = "/DnDHelp/zwierzecy-poslaniec.html"
 title = "Zwierzęcy posłaniec"
 
 [[input.files]]
 path = "zwoj-ochrony.html"
-url = "/zwoj-ochrony.html"
+url = "/DnDHelp/zwoj-ochrony.html"
 title = "Zwój ochrony"
 
 [[input.files]]
 path = "zwoj-zaklec.html"
-url = "/zwoj-zaklec.html"
+url = "/DnDHelp/zwoj-zaklec.html"
 title = "Zwój zaklęć"
 
 [[input.files]]
 path = "zwoj-zaklecia-1-poziom.html"
-url = "/zwoj-zaklecia-1-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-1-poziom.html"
 title = "Zwój zaklęcia (1. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-2-poziom.html"
-url = "/zwoj-zaklecia-2-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-2-poziom.html"
 title = "Zwój zaklęcia (2. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-3-poziom.html"
-url = "/zwoj-zaklecia-3-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-3-poziom.html"
 title = "Zwój zaklęcia (3. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-4-poziom.html"
-url = "/zwoj-zaklecia-4-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-4-poziom.html"
 title = "Zwój zaklęcia (4. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-5-poziom.html"
-url = "/zwoj-zaklecia-5-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-5-poziom.html"
 title = "Zwój zaklęcia (5. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-6-poziom.html"
-url = "/zwoj-zaklecia-6-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-6-poziom.html"
 title = "Zwój zaklęcia (6. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-7-poziom.html"
-url = "/zwoj-zaklecia-7-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-7-poziom.html"
 title = "Zwój zaklęcia (7. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-8-poziom.html"
-url = "/zwoj-zaklecia-8-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-8-poziom.html"
 title = "Zwój zaklęcia (8. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-9-poziom.html"
-url = "/zwoj-zaklecia-9-poziom.html"
+url = "/DnDHelp/zwoj-zaklecia-9-poziom.html"
 title = "Zwój zaklęcia (9. poziom)"
 
 [[input.files]]
 path = "zwoj-zaklecia-cantrip.html"
-url = "/zwoj-zaklecia-cantrip.html"
+url = "/DnDHelp/zwoj-zaklecia-cantrip.html"
 title = "Zwój zaklęcia (cantrip)"
 
 [[input.files]]
 path = "zyczenie.html"
-url = "/zyczenie.html"
+url = "/DnDHelp/zyczenie.html"
 title = "Życzenie"
 
 [[input.files]]
 path = "zywiol-zguby.html"
-url = "/zywiol-zguby.html"
+url = "/DnDHelp/zywiol-zguby.html"
 title = "Żywioł zguby"
 
