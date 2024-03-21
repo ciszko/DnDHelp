@@ -90,7 +90,7 @@ class SearchSettingsGenerator:
             input_files.append(
                 {
                     "path": page_to_index,
-                    "url": f"/{page.url}",
+                    "url": f"/DnDHelp/{page.url}",
                     "title": f"{title}",
                 }
             )
