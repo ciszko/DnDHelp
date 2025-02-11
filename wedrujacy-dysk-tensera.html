@@ -28,25 +28,27 @@
     />
 </head>
 
-<body style="margin-bottom: 60px;">
+<body style="margin-bottom: 60px; max-width: 100%; overflow-x: hidden;">
     <header>
-        <h1 class="text-center display-4">
-            <a href="https://ciszko.github.io/DnDHelp/">
-                DnDHelp            </a>
-        </h1>
-        <ul class="nav justify-content-center mb-2">
-            <li class="active nav-item">
-                <a class="nav-link border-bottom" href="https://ciszko.github.io/DnDHelp/category/czary.html">czary</a>
-                </li>
-            <li nav-item">
-                <a class="nav-link border-bottom" href="https://ciszko.github.io/DnDHelp/category/przedmioty.html">przedmioty</a>
-                </li>
-        </ul>
-        <div class="row g-3 justify-content-center">
-            <div class="col-auto">
-                <input data-stork="sitesearch" placeholder="Szukajka" type="text" class="form-control form-control-sm">
+        <div class="container">
+            <h1 class="text-center display-4">
+                <a href="https://ciszko.github.io/DnDHelp/">
+                    DnDHelp                </a>
+            </h1>
+            <ul class="nav justify-content-center mb-2">
+                <li class="active nav-item">
+                    <a class="nav-link border-bottom" href="https://ciszko.github.io/DnDHelp/category/czary.html">czary</a>
+                    </li>
+                <li nav-item">
+                    <a class="nav-link border-bottom" href="https://ciszko.github.io/DnDHelp/category/przedmioty.html">przedmioty</a>
+                    </li>
+            </ul>
+            <div class="row g-3 justify-content-center">
+                <div class="col-auto">
+                    <input data-stork="sitesearch" placeholder="Szukajka" type="text" class="form-control form-control-sm">
+                </div>
+            <div data-stork="sitesearch-output"></div>
             </div>
-        <div data-stork="sitesearch-output"></div>
         </div>
     </header>
 
@@ -125,6 +127,7 @@ Jeżeli oddalisz się od dysku na więcej niż 30 metrów (prawdopodobnie dlateg
                 </div>          
             </div>
             </div>
+        </div>
     </footer>
 
     <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>

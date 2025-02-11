@@ -97,11 +97,6 @@ url = "/DnDHelp/automatyczny-kolczan.html"
 title = "Automatyczny kołczan"
 
 [[input.files]]
-path = "bag-of-holding.html"
-url = "/DnDHelp/bag-of-holding.html"
-title = "Bag of holding"
-
-[[input.files]]
 path = "bariera-ostrzy.html"
 url = "/DnDHelp/bariera-ostrzy.html"
 title = "Bariera ostrzy"
@@ -2197,6 +2192,11 @@ url = "/DnDHelp/plaszcz-przemieszczenia.html"
 title = "Płaszcz przemieszczenia"
 
 [[input.files]]
+path = "plaszcz-wilka.html"
+url = "/DnDHelp/plaszcz-wilka.html"
+title = "Płaszcz wilka"
+
+[[input.files]]
 path = "plomienie-aganazzara.html"
 url = "/DnDHelp/plomienie-aganazzara.html"
 title = "Płomienie aganazzara"
@@ -3700,6 +3700,11 @@ title = "Wizja"
 path = "wodna-kula.html"
 url = "/DnDHelp/wodna-kula.html"
 title = "Wodna kula"
+
+[[input.files]]
+path = "worek-bez-dna.html"
+url = "/DnDHelp/worek-bez-dna.html"
+title = "Worek bez dna"
 
 [[input.files]]
 path = "worek-fasoli.html"
