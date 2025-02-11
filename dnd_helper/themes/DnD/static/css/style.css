@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden !important;
+}
+
 body {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 100%;

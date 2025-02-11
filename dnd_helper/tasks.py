@@ -21,7 +21,7 @@ SETTINGS.update(DEFAULT_CONFIG)
 LOCAL_SETTINGS = get_settings_from_file(SETTINGS_FILE_BASE)
 SETTINGS.update(LOCAL_SETTINGS)
 BASE_DIR = Path(__file__).parent
-OBSIDIAN_DIR = Path("/mnt/d/Git/obsidian")
+OBSIDIAN_DIR = Path("/mnt/c/Users/ciszko/Documents/obsidian")
 
 DND_DIR = OBSIDIAN_DIR / "Dungeons and Dragons"
 
@@ -180,13 +180,13 @@ def pelican_run(cmd):
 def copy_articles():
     (BASE_DIR / "content" / "articles" / "czary").mkdir(parents=True, exist_ok=True)
     for spell in (DND_DIR / "Czary" / "Lista").rglob("*"):
-        print(f"Copying {spell.name}{"": <30}", flush=True, end="\r")
+        print(f"Copying {spell.name}{'': <30}", flush=True, end="\r")
         shutil.copy(spell, (BASE_DIR / "content" / "articles" / "czary" / spell.name))
     (BASE_DIR / "content" / "articles" / "przedmioty").mkdir(
         parents=True, exist_ok=True
     )
     for item in (DND_DIR / "Przedmioty" / "Lista").rglob("*"):
-        print(f"Copying {item.name}{"": <30}", flush=True, end="\r")
+        print(f"Copying {item.name}{'': <30}", flush=True, end="\r")
         shutil.copy(
             item, (BASE_DIR / "content" / "articles" / "przedmioty" / item.name)
         )
