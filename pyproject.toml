@@ -1,18 +1,22 @@
-[tool.poetry]
-name = "DnD_Helper"
-authors = ["Marcin Kalinski <marcinkalinski1997@gmail.com>"]
-description = "DnD Helper for Polish language players"
-readme = "README.rst"
+[project]
+name = "dnd-helper"
 version = "0.1.0"
-
-[tool.poetry.dependencies]
-python = "^3.12"
-pelican = "*"
-invoke = "*"
-pyyaml = "*"
-livereload = "*"
-toml = "^0.10.2"
+description = "DnD Helper for Polish language players"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [{ name = "Marcin Kalinski", email = "marcinkalinski1997@gmail.com" }]
+dependencies = [
+    "pelican",
+    "invoke",
+    "pyyaml",
+    "livereload",
+    "toml>=0.10.2",
+    "markdown",
+]
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["dnd_helper"]
