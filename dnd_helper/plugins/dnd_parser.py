@@ -76,7 +76,7 @@ class DnDReader(BaseReader):
             ]
             meta["tags"].append(
                 Tag(
-                    f'krąg {meta["krąg"]}',
+                    f"krąg {meta['krąg']}",
                     self.settings,
                     display_name=f"Krąg {meta['krąg']}",
                     type="circle",
@@ -91,42 +91,108 @@ class DnDReader(BaseReader):
 def add_reader(readers):
     readers.reader_classes["md"] = DnDReader
 
-def get_generators(pelican_object):
 
+def get_generators(pelican_object):
     def spell_class_tags(articles: Article):
         """Processes tags, returns list of unique spell class tags"""
         tags = {}
+        base_tags_by_name = {}
+
         for article in articles:
             for tag in article.tags:
-                if tag.type != "class":
+                if getattr(tag, "type", None) != "class":
                     continue
-                if len(splitted:= tag.display_name.split(" ", 1)) == 1:
-                    # base class       
-                    tag.base_class = tag.display_name
-                    if tag not in tags.keys():
-                        tags[tag] = []
+
+                splitted = tag.display_name.split(" ", 1)
+                base_name = splitted[0]
+
+                if len(splitted) == 1:
+                    # base class
+                    tag.base_class = base_name
+                    if base_name not in base_tags_by_name:
+                        base_tags_by_name[base_name] = tag
+                        tag.subclasses = []
+                        if tag not in tags:
+                            tags[tag] = []
                 else:
                     # subclass
-                    base, sub = splitted
-                    tag.base_class = base
-                    tag.sub_class = sub
-                    for base_tag, sub_tag in tags.items():
-                        if base_tag.base_class != tag.base_class:
-                            continue
-                        if tag in sub_tag:
-                            continue
-                        sub_tag.append(tag)
-        for base_class, sub_classes in tags.items():
-            tags[base_class] = sorted(sub_classes, key=lambda t: t.display_name)
-        return dict(sorted(tags.items()))
+                    tag.base_class = base_name
+                    tag.sub_class = splitted[1]
+
+                    if base_name not in base_tags_by_name:
+                        # Create a virtual base tag if it doesn't exist
+                        base_tag = type(tag)(
+                            f"czar {base_name}",
+                            tag.settings,
+                            display_name=base_name,
+                            type="class",
+                        )
+                        base_tag.base_class = base_name
+                        base_tag.subclasses = []
+                        base_tags_by_name[base_name] = base_tag
+                        tags[base_tag] = []
+
+                    target_base_tag = base_tags_by_name[base_name]
+                    if tag not in target_base_tag.subclasses:
+                        target_base_tag.subclasses.append(tag)
+                    if tag not in tags[target_base_tag]:
+                        tags[target_base_tag].append(tag)
+
+        for base_tag, sub_classes in tags.items():
+            tags[base_tag] = sorted(sub_classes, key=lambda t: t.display_name)
+            base_tag.subclasses = sorted(
+                base_tag.subclasses, key=lambda t: t.display_name
+            )
+
+        return dict(sorted(tags.items(), key=lambda x: x[0].display_name))
 
     class AddContextGenerator(Generator):
         def generate_context(self, *args, **kwargs):
             self.context[spell_class_tags.__name__] = spell_class_tags
-            
-    return AddContextGenerator
 
+            # Ensure all base class tags exist in context['tags'] and have subclasses
+            all_articles = self.context.get("articles", [])
+            class_tags_dict = spell_class_tags(all_articles)
 
+            # context['tags'] is a list of (tag, articles)
+            existing_tags_dict = {t.name: t for t, _ in self.context.get("tags", [])}
+
+            for base_tag in class_tags_dict.keys():
+                if base_tag.name in existing_tags_dict:
+                    # Update existing tag with subclasses info
+                    existing_tag = existing_tags_dict[base_tag.name]
+                    existing_tag.subclasses = getattr(base_tag, "subclasses", [])
+                else:
+                    # Add new virtual tag
+                    self.context["tags"].append((base_tag, []))
+
+    class ClassTagGenerator(Generator):
+        def generate_output(self, writer):
+            all_articles = self.context.get("articles", [])
+            class_tags_dict = spell_class_tags(all_articles)
+
+            # Pelican's TagsGenerator might skip tags with no articles.
+            # We force generation for base class tags.
+            for base_tag in class_tags_dict.keys():
+                # Check if it was already written (has articles)
+                has_articles = False
+                for t, articles in self.context.get("tags", []):
+                    if t.name == base_tag.name and articles:
+                        has_articles = True
+                        break
+
+                if not has_articles:
+                    template = self.get_template("tag")
+                    writer.write_file(
+                        base_tag.save_as,
+                        template,
+                        self.context,
+                        tag=base_tag,
+                        articles=[],
+                        template_name="tag",
+                    )
+
+    return [AddContextGenerator, ClassTagGenerator]
 
 
 def register():
