@@ -1,6 +1,37 @@
 <div class="col-md-8 align-self-center pt-3 border-top">
     <h1 class="my-4 text-center">Czary {{ tag.display_name }}</h1>
 
+    {% if not articles %}
+    <div class="alert alert-info">
+        Ta klasa nie posiada własnych czarów bazowych.
+        Wybierz podklasę, aby zobaczyć jej czary:
+    </div>
+    {% endif %}
+
+    {% if tag.subclasses %}
+    <div class="accordion accordion-flush mb-4" id="accordionSubclasses">
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseSubclasses" aria-expanded="false" aria-controls="collapseSubclasses">
+                    Podklasy ({{ tag.subclasses|count }})
+                </button>
+            </h2>
+            <div id="collapseSubclasses" class="accordion-collapse collapse" data-bs-parent="#accordionSubclasses">
+                <div class="accordion-body p-0">
+                    <div class="list-group list-group-flush">
+                        {% for sub in tag.subclasses %}
+                        <a href="{{ SITEURL }}/{{ sub.url }}" class="list-group-item list-group-item-action">
+                            {{ sub.display_name }}
+                        </a>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
     {% for level, articles in articles|groupby(attribute='krąg') %}
     {% if level == 0 %}
     {% set circle = "Sztuczki" %}
