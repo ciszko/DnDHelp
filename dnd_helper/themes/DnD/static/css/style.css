@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 html, body {
     max-width: 100%;
@@ -42,4 +45,40 @@ pre {
     color: var(--bs-list-group-color) !important;
     padding: var(--bs-list-group-item-padding-y) var(--bs-list-group-item-padding-x);
     line-height: var(--bs-body-line-height) !important;
+}
+
+.spell-name {
+    font-family: "Cinzel", serif;
+}
+
+.spell-container strong {
+    font-family: "Noto Sans", sans-serif;
+}
+
+.description-text {
+    font-family: 'Gentium Book Plus', serif;
+}
+
+a {
+    color: #f0e6d2;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+a:visited {
+    color: #dcd0b9;
+}
+
+a:hover {
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #f0e6d2, 0 0 15px #f0e6d2;
+}
+
+.nav-link {
+    color: #f0e6d2 !important;
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #fff !important;
+    text-shadow: 0 0 5px #fff, 0 0 10px #f0e6d2, 0 0 15px #f0e6d2;
 }

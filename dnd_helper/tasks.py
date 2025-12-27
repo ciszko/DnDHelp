@@ -165,10 +165,13 @@ def publish(c):
 def gh_pages(c):
     """Publish to GitHub Pages"""
     preview(c)
+    # Use custom SSH key for deployment
+    env = {"GIT_SSH_COMMAND": "ssh -i /home/kkmc/.ssh/id_rsa_ciszko"}
     c.run(
         "ghp-import -b {github_pages_branch} "
         "-m {commit_message} "
-        "{deploy_path} -p".format(**CONFIG)
+        "{deploy_path} -p".format(**CONFIG),
+        env=env
     )
 
 
