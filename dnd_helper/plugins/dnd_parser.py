@@ -1,12 +1,14 @@
-from datetime import datetime
 import re
-import yaml
+from datetime import datetime
 from pathlib import Path
+
+import yaml
 from pelican import signals
-from pelican.readers import BaseReader
+from pelican.contents import Article
+from pelican.contents import Tag as BaseTag
 from pelican.generators import Generator
+from pelican.readers import BaseReader
 from pelican.utils import pelican_open
-from pelican.contents import Tag as BaseTag, Article
 
 HEADER_RE = re.compile(
     r"\s*^---$"  # File starts with a line of "---" (preceeding blank lines accepted)
@@ -93,7 +95,7 @@ def add_reader(readers):
 
 
 def get_generators(pelican_object):
-    def spell_class_tags(articles: Article):
+    def spell_class_tags(articles: list[Article]):
         """Processes tags, returns list of unique spell class tags"""
         tags = {}
         base_tags_by_name = {}
