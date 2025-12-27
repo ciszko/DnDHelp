@@ -2,7 +2,7 @@
 {%block content %}
 <div class="row justify-content-center">
   <div class="col-md-8 align-self-center d-flex justify-content-center pt-3 border-top">
-    <div class="container">
+    <div class="container spell-container">
       <div class="row">
         <h1 class="spell-name col d-flex justify-content-center">
           {{ article.nazwa }}
@@ -27,11 +27,7 @@
       <div class="row">
         <div class="col">
           <strong>Komponenty:</strong>
-          <ul>
-            {% for komponent in article["komponenty"] %}
-            <li>{{ komponent }}</li>
-            {% endfor %}
-          </ul>
+          {{ article["komponenty"]|join(", ") }}
         </div>
         <div class="col">
           <strong>Czas trwania: </strong>{{ article["czas trwania"] }}
@@ -39,7 +35,7 @@
       </div>
       <br />
       <div class="row mb-2">
-        <div class="col">{{ article["opis"] }}</div>
+        <div class="col description-text">{{ article["opis"] }}</div>
       </div>
       <div class="row">
         <div class="col d-flex justify-content-center flex-wrap">

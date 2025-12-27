@@ -1,6 +1,6 @@
 __pycache__
 output
 .vscode
-dnd_helper/content/articles/czary
-dnd_helper/content/articles/przedmioty
+dnd_helper/content/**/czary
+dnd_helper/content/**/przedmioty
 cache
